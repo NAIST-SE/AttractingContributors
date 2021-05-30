@@ -15,5 +15,9 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-I choose 
+# My Project (Anime-collection)
+Goal - I want contributors to help me list some favorite Japanese Anime.
+
+# List of Anime.
+1. Naruto
+2. One Piece
