@@ -25,4 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Norwegian Wood
 3. MOMO(Michael Andreas Helmuth Ende)
 4. MouryounoHAKO(kyougoku natuhiko)
-
+5. Introduction to Machine Learning with Python: A Guide for Data Scientists
