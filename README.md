@@ -1,5 +1,7 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+Student Name: Le Vu Trung Duong\
+Student ID: 2011412
 
 # Rules
 
@@ -20,5 +22,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project (Anime-collection)
+Goal - I want contributors to help me list some favorite songs.
+
 # List of Hobby
-1. Made in Abyss
+1. Always with me
+2. Seasons die one after another
