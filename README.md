@@ -22,9 +22,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Game-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+Goal - I want contributors to help me list some favorite games.
 
 # List of Game
 1. Super Mario Maker 2
-2. League of Legends
-3. PUBG
+
