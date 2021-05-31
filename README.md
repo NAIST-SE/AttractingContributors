@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My project (Singer-collection)
-Goal - I want contributors to help me list some favorite singers.
+Goal - I want contributors to help me list some favorite movie.
 
-# List of singers
-1. SUPER BEAVER
+# List of movie
+1. My Neighbor Totoro
