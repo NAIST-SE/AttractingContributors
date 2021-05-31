@@ -1,6 +1,7 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
-
+Student Name: Le Vu Trung Duong
+Student ID: 2011412
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
