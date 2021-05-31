@@ -20,5 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Anime
-・kazeno tani no nausika
+# List of Book
+・machine no owarini
+・Norwegian Wood
+・MOMO(Michael Andreas Helmuth Ende)
+・MouryounoHAKO(kyougoku natuhiko)
+                            etc！ 
+
