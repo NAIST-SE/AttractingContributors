@@ -1,7 +1,5 @@
-# Attracting Contributors
+# Attracting Contributors-Songs
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
-Student Name: Le Vu Trung Duong\
-Student ID: 2011412
 
 # Rules
 
@@ -22,9 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite songs.
-
 # List of Hobby
-1. Always with me
-2. Seasons die one after another
+List of Songs:
+1. Always with Me (いつも何度でも, itsumo nando demo) - Wakako Kaku.
+2. Seasons die one after another (季節は次々死んでゆく) - amazarashi
