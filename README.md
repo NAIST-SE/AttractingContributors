@@ -1,13 +1,3 @@
-# List of Favorite songs
-1. Where is the love - The Black Eyed Peas
-2. Love Story - Taylor Swift
-3. The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
-4. Ta ley see dum - Lula
-5. It's a Sin - Pet Shop Boys
-6. Wake Me Up - Avicii
-
-
-------------------------------------------
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
@@ -30,3 +20,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# List of Movie
+1. Mavel
+2. Tomorrow with yesterday's you
+3. DC
+4. Ratatouille
+5. The Princess Mononoke
