@@ -25,5 +25,5 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite games.
 
 # List of Game
-1. Super Mario Maker 2
+
 
