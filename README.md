@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some favorite musics.
 
 # List of Musics
 1. Yoru ni kakeru / YOASOBI
+2. 国歌 / コブクロ
