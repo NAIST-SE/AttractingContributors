@@ -5,4 +5,5 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 under preparing...
 
 # List of Movie
-Detective conan.
+1.Detective conan.
+2.Godzilla: King of The Monsters
