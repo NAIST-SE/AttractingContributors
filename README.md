@@ -25,5 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 ・Norwegian Wood
 ・MOMO(Michael Andreas Helmuth Ende)
 ・MouryounoHAKO(kyougoku natuhiko)
-                            etc！ 
+
 
