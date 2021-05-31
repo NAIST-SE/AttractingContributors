@@ -5,3 +5,6 @@ As for me, Pet Shop Boys is one of my favorite artist group! They started their 
 #List of your favorite artists
 1. Pet Shop Boys
 2. The Pussycat Dolls
+3. Pet Shop Boys
+4. green day
+5. Zendaya Maree Stoermer Coleman
