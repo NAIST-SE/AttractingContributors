@@ -27,3 +27,4 @@ Goal - I want contributors to help me list some favorite games.
 
 # List of Games
 1. Pokemon
+2. NieR:Automata
