@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. MOMO(Michael Andreas Helmuth Ende)
 4. MouryounoHAKO(kyougoku natuhiko)
 5. Introduction to Machine Learning with Python: A Guide for Data Scientists
+6. fundamentation of nature language process
