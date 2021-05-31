@@ -4,5 +4,11 @@ As for me, Pet Shop Boys is one of my favorite artist group! They started their 
 
 #List of your favorite artists
 1. Pet Shop Boys
-2. green day
-2. Zendaya Maree Stoermer Coleman
+2. Kodaline
+3. Zendaya Maree Stoermer Coleman
+4. Pet Shop Boys
+5. green day
+6. Zendaya Maree Stoermer Coleman
+7. Pet Shop Boys
+8. green day
+9. Zendaya Maree Stoermer Coleman
