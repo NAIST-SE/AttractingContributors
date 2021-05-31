@@ -18,6 +18,5 @@ To complete the assignment, please do the following:
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
 
-# List of Anime.
-1. Naruto
-2. One Piece
+# List of Games
+1. Pokemon
