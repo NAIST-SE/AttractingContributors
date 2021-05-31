@@ -1,4 +1,4 @@
-# Attracting Contributors-Songs
+# Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -20,7 +20,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
-List of Songs:
-1. Always with Me (いつも何度でも, itsumo nando demo) - Wakako Kaku.
-2. Seasons die one after another (季節は次々死んでゆく) - amazarashi
+# List of Book
+1. machine no owarini
+2. Norwegian Wood
+3. MOMO(Michael Andreas Helmuth Ende)
+4. MouryounoHAKO(kyougoku natuhiko)
+5. Introduction to Machine Learning with Python: A Guide for Data Scientists
+6. fundamentation of nature language process
+7. Le Comte de Monte-Cristo
