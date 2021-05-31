@@ -23,5 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of your favorite niconico-douga url  
 please write url and title(expected)  
 -【くまのプーさんのホームランダービー！】世界一23分58秒【RTA】, https://www.nicovideo.jp/watch/sm37971285  
--【RTA】ロックマンin3:53【2014-06-21】, https://www.nicovideo.jp/watch/sm23825129
+-【RTA】ロックマンin3:53【2014-06-21】, https://www.nicovideo.jp/watch/sm23825129  
 -中央大学で粉雪を歌うyoutuber, https://www.nicovideo.jp/watch/sm34225289
