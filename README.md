@@ -27,4 +27,6 @@ Goal - I want contributors to help me list some favorite songs.
 
 # List of Hobby
 1. Always with me
-2. Shinkai / Eve
+2. Seasons die one after another
+3. Shinkai / Eve
+
