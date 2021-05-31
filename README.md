@@ -20,6 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
-1 ไอรอนแมน มหาประลัย คน เกราะ เหล็ก
-2 harry potter
+# List of Movies
+1. ไอรอนแมน มหาประลัย คน เกราะ เหล็ก
+2. harry potter
