@@ -21,9 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Book
-1.machine no owarini
-2.Norwegian Wood
-3.MOMO(Michael Andreas Helmuth Ende)
-4.MouryounoHAKO(kyougoku natuhiko)
-
+1. machine no owarini
+2. Norwegian Wood
+3. MOMO(Michael Andreas Helmuth Ende)
+4. MouryounoHAKO(kyougoku natuhiko)
 
