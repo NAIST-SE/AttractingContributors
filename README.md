@@ -20,5 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of your favorite niconico-douga url(please write url and title(expected))  
+# List of your favorite niconico-douga url  
+please write url and title(expected)  
 -【くまのプーさんのホームランダービー！】世界一23分58秒【RTA】, https://www.nicovideo.jp/watch/sm37971285
