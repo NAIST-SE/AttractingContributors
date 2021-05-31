@@ -1,5 +1,5 @@
 # Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.\
 Student Name: Le Vu Trung Duong\
 Student ID: 2011412
 
