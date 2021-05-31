@@ -21,6 +21,6 @@ Goal - I want contributors to help me list some favorite singers.
 # List of singers
 1. SUPER BEAVER
 2. amazarashi
-
+3. wu diran
 
 ---
