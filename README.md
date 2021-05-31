@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. ไอรอนแมน มหาประลัย คน เกราะ เหล็ก
 2. harry potter
 3. Ratatouille
+4. Tomorrow with yesterday's you
+5. The Devil Wears Prada
