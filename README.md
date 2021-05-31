@@ -21,3 +21,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 # List of Anime.
 1. Naruto
 2. One Piece
+3. Humanity has declined
