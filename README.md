@@ -25,3 +25,4 @@ Goal - I want contributors to help me list some favorite musics.
 4. Sinkai / Eve
 5. Shape of You / Ed Sheeran
 6. Classic / MKTO
+7. Delusion of Grandeur / 細美武士
