@@ -26,7 +26,7 @@ Goal - I want contributors to help me list some favorite singers.
 5. The Pussycat Dolls 
 6. DA PUMP
 7. Fall Out Boy
-
+8. Kiyoshi Hikawa
 9. Zendaya Maree Stoermer Coleman
 
 ---
