@@ -2,20 +2,26 @@ Let's talk about your favorite artists! Please add you favorite artists to the l
 
 As for me, Pet Shop Boys is one of my favorite artist group! They started their career as musicians in 1981.
 
-#List of your favorite artists
-1. Pet Shop Boys
-2. The Pussycat Dolls
-3. Pet Shop Boys
-4. green day
-5. Zendaya Maree Stoermer Coleman
-6. Kodaline
-7. Zendaya Maree Stoermer Coleman
-8. Pet Shop Boys
-9. green day
-10. Zendaya Maree Stoermer Coleman
-11. Pet Shop Boys
-12. green day
-13. Zendaya Maree Stoermer Coleman
-14. Kendrick Lamar
-15. MKTO
-16. Jackson Pollock
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
+3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
+4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
+
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of your favorite niconico-douga url  
+please write url and title(expected)  
+-【くまのプーさんのホームランダービー！】世界一23分58秒【RTA】, https://www.nicovideo.jp/watch/sm37971285  
+-【RTA】ロックマンin3:53【2014-06-21】, https://www.nicovideo.jp/watch/sm23825129  
+-中央大学で粉雪を歌うyoutuber, https://www.nicovideo.jp/watch/sm34225289
+- ハイポーション作ってみた, https://www.nicovideo.jp/watch/sm1890440
