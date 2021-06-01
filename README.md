@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Manga
 #### Any manga is OK!
 - Halcion Lunch
+- One Piece
