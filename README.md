@@ -26,13 +26,12 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal - I want contributors to help me list some favorite songs.
 
 # List of Hobby
-1. Always with me
-2. Seasons die one after another
-3. Shinkai / Eve
-4. Where is the love - the black eyed peas
-5. NAMInoYUKUSAKI / THE RiCECOOKERS
-6. Thnks fr th Mmrs
-7. The Legend of Ashitaka
-8. The Pussycat Dolls - Hush Hush; Hush Hush
-9. Kimigayo
-10. One / U2
+1. Seasons die one after another
+2. Shinkai / Eve
+3. Where is the love - the black eyed peas
+4. NAMInoYUKUSAKI / THE RiCECOOKERS
+5. Thnks fr th Mmrs
+6. The Legend of Ashitaka
+7. The Pussycat Dolls - Hush Hush; Hush Hush
+8. Kimigayo
+9. One / U2
