@@ -20,5 +20,19 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Movies
-10. La La Land
+# My Project (Food-collection)
+Goal - I want contributors to help me list some favorite Japanese Food.
+
+# List of Japanese Food
+1. Sashimi
+2. Sushi
+3. Tempura
+4. Soba
+5. Kushi-katsu
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
