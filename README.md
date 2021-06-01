@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - GANZ
 - One Piece
 - Slam Dunk 
+- Dragon Ball
 - Initial D
