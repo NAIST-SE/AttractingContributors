@@ -33,3 +33,5 @@ Goal - I want contributors to help me list some favorite songs.
 5. NAMInoYUKUSAKI / THE RiCECOOKERS
 6. Thnks fr th Mmrs
 7. The Legend of Ashitaka
+8. The Pussycat Dolls - Hush Hush; Hush Hush
+
