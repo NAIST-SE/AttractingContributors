@@ -29,5 +29,7 @@ Goal - I want contributors to help me list some favorite songs.
 1. Always with me
 2. Seasons die one after another
 3. Shinkai / Eve
-4. Thnks fr th Mmrs
+4. NAMInoYUKUSAKI / THE RiCECOOKERS
+5. Thnks fr th Mmrs
+
 
