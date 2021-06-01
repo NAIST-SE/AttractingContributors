@@ -25,4 +25,5 @@ Example: BULBASAUR or hushigidane is OK.
 # List of Pokemon
 1. BULBASAUR(hushigidane)
 2. Ivysaur(hushigisou)
+3. Starmie(suta-mi-)
 
