@@ -26,6 +26,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - GANZ
 - One Piece
 - Slam Dunk 
+- New Game!
 - Maid sama
 - Dragon Ball
 - Initial D
