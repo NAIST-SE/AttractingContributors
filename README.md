@@ -1,6 +1,7 @@
-Let's talk about your favorite artists! Please add you favorite artists to the list below.
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-As for me, Pet Shop Boys is one of my favorite artist group! They started their career as musicians in 1981.
+# Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
