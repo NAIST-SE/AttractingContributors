@@ -27,4 +27,6 @@ Goal - I want contributors to help me list some favorite singers.
 6. DA PUMP
 7. Fall Out Boy
 
+9. Zendaya Maree Stoermer Coleman
+
 ---
