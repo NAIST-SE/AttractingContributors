@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. The Devil Wears Prada
 6. Big Hero 6
 7. 3 idiots
+8. Gintama
