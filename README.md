@@ -16,4 +16,5 @@ As for me, Pet Shop Boys is one of my favorite artist group! They started their 
 11. Pet Shop Boys
 12. green day
 13. Zendaya Maree Stoermer Coleman
-14. MKTO
+14. Kendrick Lamar
+15. MKTO
