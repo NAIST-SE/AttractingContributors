@@ -27,3 +27,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - One Piece
 - Slam Dunk 
 - Maid sama
+- Dragon Ball
+- Initial D
