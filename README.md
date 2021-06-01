@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Tomorrow with yesterday's you
 5. The Devil Wears Prada
 6. Big Hero 6
+7. 3 idiots
