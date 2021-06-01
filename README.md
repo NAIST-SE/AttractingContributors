@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - One Piece
 - Slam Dunk 
 - Dragon Ball
+- Initial D
