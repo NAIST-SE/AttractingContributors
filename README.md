@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Twitter
 - ウマ娘 プリティーダービー
 - Hacka Doll
+- YouTube
