@@ -24,4 +24,5 @@ Goal - I want contributors to help me list some favorite singers.
 3. wu diran
 4. Taylor Swift
 5. The Pussycat Dolls 
+6. Fall Out Boy
 ---
