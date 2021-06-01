@@ -20,9 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Movie
-1. Mavel
-2. Tomorrow with yesterday's you
-3. DC
-4. Ratatouille
-5. The Princess Mononoke
+# List of Manga
+#### Any manga is OK!
+- Halcion Lunch
+- GANZ
