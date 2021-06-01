@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some favorite musics.
 5. Shape of You / Ed Sheeran
 6. Classic / MKTO
 7. Delusion of Grandeur / 細美武士
+8. 長途夜車 / 滅火器(Fire EX.)
