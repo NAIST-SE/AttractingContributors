@@ -17,7 +17,9 @@ To complete the assignment, please do the following:
 
 # My Project(Pokemon-collection)
 Goal - complete Pokemon guide. 
+
 English name or japanese name is OK.
+
 Example: BULBASAUR or hushigidane is OK.
 
 # List of Pokemon
