@@ -1,6 +1,10 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
+# StudentID
+
+2111091
+
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
@@ -15,24 +19,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project (Sweets-collection)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Goal - I want contributors to help me list some favorite sweets.
 
-# My Project (Food-collection)
-Goal - I want contributors to help me list some favorite Japanese Food.
+# List of sweets
 
-# List of Japanese Food
-1. Sashimi
-2. Sushi
-3. Tempura
-4. Soba
-5. Kushi-katsu
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+1. sponge cake
+2. baklava
+3. ice cream
+4. apple pie
+5. candy
+6. chocolate bar
+7. pudding
+8. Custard tart
+9. umai-bou
+10. baumkuchen
+11. galette des rois
