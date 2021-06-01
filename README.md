@@ -25,4 +25,6 @@ Goal - I want contributors to help me list some favorite singers.
 4. Taylor Swift
 5. The Pussycat Dolls 
 6. DA PUMP
+7. Fall Out Boy
+
 ---
