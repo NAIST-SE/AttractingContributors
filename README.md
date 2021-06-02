@@ -22,9 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Book
 1. machine no owarini
-2. Norwegian Wood
-3. MOMO(Michael Andreas Helmuth Ende)
-4. MouryounoHAKO(kyougoku natuhiko)
-5. Introduction to Machine Learning with Python: A Guide for Data Scientists
-6. fundamentation of nature language process
-7. PRML
+2. Introduction to Machine Learning with Python: A Guide for Data Scientists
+3. fundamentation of nature language process
+4. PRML
