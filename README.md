@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. MouryounoHAKO(kyougoku natuhiko)
 5. Introduction to Machine Learning with Python: A Guide for Data Scientists
 6. fundamentation of nature language process
+7. PRML
