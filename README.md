@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Fate Grand Order
 - Netflix
 - Instagram
+- Trello
