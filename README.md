@@ -27,4 +27,5 @@ Example: BULBASAUR or hushigidane is OK.
 2. Ivysaur(hushigisou)
 3. Starmie(suta-mi-)
 4. Pikachu
+5. Hitokage
 
