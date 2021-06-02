@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Trending View
 - Fate Grand Order
 - Netflix
+- Instagram
