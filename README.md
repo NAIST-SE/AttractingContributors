@@ -1,4 +1,4 @@
-# AttractingContributors-Music
+# Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -15,15 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Favorite musician-collection)
-Goal - I want contributors to help me list some favorite musician.
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Music(Favorite musician).
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
- 1. The piano guys 
- 2. Beethoven
- 3. Cascade
- 4. Fall Out Boy
- 5. Kendrick Lamar
- 6. Mozart
- 7. Lady Gaga
+# List of Apps
+- Twitter
+- ウマ娘 プリティーダービー
+- Hacka Doll
+- YouTube
+- Telegram
+- Trending View
+- Netflix
