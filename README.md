@@ -15,7 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# List of Music
-1. Kanden / Kenshi Yonezu</br>
-2. Identity / Sakanaction</br>
-3. Summer in Kagome / SatoHitomi</br>
+
+# My Project (Music-collection)
+Goal - I want contributors to help me list some favorite musics.
+
+# List of Musics
+1. Yoru ni kakeru / YOASOBI
+2. 国歌 / コブクロ
+3. Obenkyo sitoite yo / zuuto mayonaka de ii noni
+4. Sinkai / Eve
+5. Shape of You / Ed Sheeran
+6. Classic / MKTO
+7. Delusion of Grandeur / 細美武士
+8. 長途夜車 / 滅火器(Fire EX.)
+9. Summer in Kagome / 佐藤仁美
