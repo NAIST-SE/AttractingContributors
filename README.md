@@ -18,3 +18,4 @@ To complete the assignment, please do the following:
 # List of Music
 1. Kanden / Kenshi Yonezu</br>
 2. Identity / Sakanaction</br>
+3. Summer in Kagome / SatoHitomi</br>
