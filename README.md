@@ -25,5 +25,6 @@ please write url and title(expected)
 -【くまのプーさんのホームランダービー！】世界一23分58秒【RTA】, https://www.nicovideo.jp/watch/sm37971285  
 -【RTA】ロックマンin3:53【2014-06-21】, https://www.nicovideo.jp/watch/sm23825129  
 -中央大学で粉雪を歌うyoutuber, https://www.nicovideo.jp/watch/sm34225289
+- ハイポーション作ってみた, https://www.nicovideo.jp/watch/sm1890440
 - ハイポーション作ってみた。,  https://www.nicovideo.jp/watch/sm1890440
 -イチローのレーザービームで人類滅亡, https://www.nicovideo.jp/watch/sm811361
