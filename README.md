@@ -20,18 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
-1. Made in Abyss
-2. Tokyo Revengers
-3. Doraemon
-4. STEINS;GATE
-5. JUJUTSU KAISEN
-6. One Piece
-7. Humanity Has Declined
-8. Dr. Stone
-9. Gintama
-10. Maid sama
-11. The Prince of Tennnis
-12. Initial D
-13. Castle in the Sky
-14. 86
+# List of Movies
+1. La La Land
+2. 3 idiots
+3. Bohemian Rhapsody
+4. Stardust
+5. Fast and Furious
+6. Ready Player One
+7. Les Misérables
+8. Armageddon  
+9. Midsummer
