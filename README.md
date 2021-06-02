@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Dragon Ball
 - Initial D
 - The fable
+- Yurucamp
