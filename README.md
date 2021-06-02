@@ -15,12 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Pokemon-collection)
+Goal - complete Pokemon guide. 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+English name or japanese name is OK.
 
-# List of Manga
-#### Any manga is OK!
-- Halcion Lunch
-- GANZ
+Example: BULBASAUR or hushigidane is OK.
+
+# List of Pokemon
+1. BULBASAUR(hushigidane)
+2. Ivysaur(hushigisou)
+3. Starmie(suta-mi-)
+4. Pikachu
+5. Hitokage
+6. Finneon
