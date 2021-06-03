@@ -22,11 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of nibbles(or alcohol drinks)
 If you like, you can write about favorite alcohol drinks, too.
-・Senji Niku , Strong Zero(Grapefruit)
-
-・
-
-・
-
-・
-
+1. Senji Niku , Strong Zero(Grapefruit)
+2. Beef jerky , Plum wine  
+3. 
