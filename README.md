@@ -32,3 +32,4 @@ Example: BULBASAUR or hushigidane is OK.
 7. Articuno
 8. Charmander
 9. Ditto
+10. Gengar
