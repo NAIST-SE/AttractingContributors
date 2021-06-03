@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. OCHA!
 2. THE TANSAN
 3. Coca-Cola zero!
+4. irohasu
