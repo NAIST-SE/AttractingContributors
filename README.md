@@ -29,3 +29,4 @@ Example: BULBASAUR or hushigidane is OK.
 4. Pikachu
 5. Hitokage
 6. Finneon
+7. Articuno
