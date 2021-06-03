@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Initial D
 - The fable
 - Yurucamp
+- Negima! Magister Negi Magi
