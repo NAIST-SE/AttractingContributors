@@ -30,4 +30,5 @@ Example: BULBASAUR or hushigidane is OK.
 5. Hitokage
 6. Finneon
 7. Articuno
-8. Ditto
+8. Charmander
+9. Ditto
