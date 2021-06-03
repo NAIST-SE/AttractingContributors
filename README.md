@@ -20,8 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of nibbles(or drinks)
-If you like, you can write about favorite alcohol, too.
+# List of nibbles(or alcohol drinks)
+If you like, you can write about favorite alcohol drinks, too.
 ・Senji Niku , Strong Zero(Grapefruit)
 
 ・
