@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Drinks
 1. OCHA!
 2. THE TANSAN
+3. Coca-Cola zero!
