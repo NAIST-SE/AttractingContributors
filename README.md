@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 If you like, you can write about favorite alcohol drinks, too.
 ・Senji Niku , Strong Zero(Grapefruit)
 
-・
+・Oden, Sake(Japanese rice wine)
 
 ・
 
