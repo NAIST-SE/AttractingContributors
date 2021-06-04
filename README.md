@@ -21,5 +21,6 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 # List of Anime.
 1. Naruto
 2. One Piece
-3. JoJo's Bizarre Adventure
-4. Dragon Ball Z
+3. Humanity has declined
+4. JoJo's Bizarre Adventure
+5. Dragon Ball Z
