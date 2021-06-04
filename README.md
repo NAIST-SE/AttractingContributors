@@ -25,4 +25,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. THE TANSAN
 3. Coca-Cola zero!
 4. irohasu
-5. Dr Pepper
+5. Champagne
+6. Aquarius
+7. MITSUYA CIDER
+8. Mezcal
+9. Dr Pepper
