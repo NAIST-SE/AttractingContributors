@@ -34,3 +34,4 @@ Example: BULBASAUR or hushigidane is OK.
 9. Ditto
 10. Gengar
 11. Scolipede
+12. Clefable(pikushi-)
