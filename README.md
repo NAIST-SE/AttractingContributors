@@ -16,8 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project
-I want to know the music you like. 
-Please tell me your favorite music.
+Goal : I want contributors to help me list some singers.
 
-# List of Music
-1.
+# List of Singer
+Kensi Yonedu
