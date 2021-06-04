@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Champagne
 6. Aquarius
 7. MITSUYA CIDER
+8. Mezcal
