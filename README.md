@@ -21,4 +21,10 @@ Goal - I want contributors to help me list some favorite movies around the world
 # List of Hobby
 1. End game
 2. Avatar
-3. 3 idiots
+3. About Time
+4. Forrest Gump 
+5. Harry Potter
+6. Tomorrow with yesterday's you
+7. The A-Team
+8. Ratatouille
+9. 3 idiots
