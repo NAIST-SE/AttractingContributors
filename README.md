@@ -29,3 +29,4 @@ Baumkuchen
 ラーメン  
 Tacos al Pastor  
 Yakiniku  
+Rice
