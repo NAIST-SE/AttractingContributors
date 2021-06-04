@@ -25,4 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. THE TANSAN
 3. Coca-Cola zero!
 4. irohasu
-5. Aquarius
+5. Champagne
+6. Aquarius
