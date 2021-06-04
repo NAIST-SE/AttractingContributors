@@ -25,3 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Rust
 - C++
 - Perl
+- Python
+- JavaScript
