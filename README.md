@@ -23,6 +23,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Foods
 Chocolate
 
-Sashimi
-Baumkuchen
-ラーメン
+Sashimi  
+Baumkuchen  
+ラーメン  
