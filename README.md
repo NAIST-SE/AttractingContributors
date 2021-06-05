@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - The fable
 - Yurucamp
 - Negima! Magister Negi Magi
+- Usiho to tora
