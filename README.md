@@ -15,8 +15,9 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Myproject
+# My project
 I want to know a lot of color name
+
 please write below if you know color name
 
 # List of Hobby
