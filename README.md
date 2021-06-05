@@ -26,7 +26,7 @@ If you like, you can write about favorite alcohol drinks, too.
 
 ・Tequila Sunrise
 
-・
+・Torikawa Ponzu and Sake
 
 ・
 
