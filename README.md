@@ -30,4 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. MITSUYA CIDER
 8. Mezcal
 9. Dr Pepper
-10. Wine
+10. Monstar
+11. Wine
