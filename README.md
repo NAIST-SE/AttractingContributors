@@ -31,7 +31,7 @@ Please list them!
 4. Courier
 5. Comic Sans
 6. Kokuryusyotai
-7. 
+7. Hiragino
 8. 
 9. 
 10.
