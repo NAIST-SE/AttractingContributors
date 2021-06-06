@@ -29,3 +29,4 @@ If you like, you can write about favorite alcohol drinks, too.
 5. Jinro
 6. Torikawa Ponzu and Sake
 7. beef jerky
+8. Kahlua and Milk
