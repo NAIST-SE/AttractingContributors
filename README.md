@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please add your favorite music.
 - tentaikansoku by BUMP OF CHICKEN
 - Save A Little Love by Don Diablo
+- さめ☆あたっく by うつつ (https://youtu.be/7OhJPYegrSg)
