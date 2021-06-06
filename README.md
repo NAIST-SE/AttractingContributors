@@ -24,3 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please add your favorite music.
 - tentaikansoku by BUMP OF CHICKEN
 - Butter by BTS
+- PINK BLOOD by Hikaru Utada
+- Yoru ni Kakeru by Yoasobi
+- Save A Little Love by Don Diablo
