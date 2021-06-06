@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1. Cappucino
 2. Black
+3. Cafe au lait
