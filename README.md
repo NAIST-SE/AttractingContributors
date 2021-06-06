@@ -21,8 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # My Project (Coffee)
-What kind of coffee do you like?
-Please list them!
+What kind of coffee do you like?  
+Please list them!  
 
 # List of Hobby
 1. Cappucino
