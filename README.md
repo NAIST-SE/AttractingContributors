@@ -31,3 +31,4 @@ Gaol - I want to know good drinks so please let me know!!
 9. Dr Pepper
 10. Monstar
 11. Wine
+12. Japanese wine
