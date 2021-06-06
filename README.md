@@ -25,3 +25,10 @@ Please add your favorite music.
 - tentaikansoku by BUMP OF CHICKEN
 - Save A Little Love by Don Diablo
 - Kaeru no uta
+- [YOASOBI「群青」](https://youtu.be/Y4nEEZwckuU)
+- Butter by BTS
+- PINK BLOOD by Hikaru Utada
+- Yoru ni Kakeru by Yoasobi
+- Save A Little Love by Don Diablo
+- さめ☆あたっく by うつつ (https://youtu.be/7OhJPYegrSg)
+- VIVID VICE by Who-ya Extended
