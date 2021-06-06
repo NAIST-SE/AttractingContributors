@@ -30,8 +30,8 @@ Please list them!
 3. Cafe au lait
 4. Caffè mocha
 5. Guatemalan coffee
-6. Kopi luwak
-7. Kilimanjaro
-8. 
+6. Blue Mountain
+7. Kopi luwak
+8. Kilimanjaro
 9. 
 10. 
