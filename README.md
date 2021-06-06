@@ -27,3 +27,8 @@ please write below if you know color name.
 1. battleship gray (#898989)
 1. red
 2. Emerald
+1. magenta
+1. blue
+1. Black
+1. aquamarine #7fffd4
+1. wine red (#633142)
