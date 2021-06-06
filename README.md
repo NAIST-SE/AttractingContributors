@@ -27,4 +27,11 @@ Please list them!
 # List of Fonts
 1. Tazugane Gothic
 2. Gothic UI
-3. Comic Sans
+3. Kyokashotai
+4. Courier
+5. Comic Sans
+6. 
+7. 
+8. 
+9. 
+10.
