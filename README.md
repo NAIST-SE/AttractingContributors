@@ -30,8 +30,8 @@ Please list them!
 3. Kyokashotai
 4. Courier
 5. Comic Sans
-6. Hiragino
-7. 
+6. Kokuryusyotai
+7. Hiragino
 8. 
 9. 
 10.
