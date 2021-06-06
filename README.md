@@ -20,6 +20,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project (Coffee)
+What kind of coffee do you like?  
+Please list them!  
+
 # List of Hobby
 1. Cappucino
-2. Caffè mocha
+2. Black
+3. Cafe au lait
+4. 2. Caffè mocha
