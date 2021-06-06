@@ -32,3 +32,4 @@ Please add your favorite music.
 - Save A Little Love by Don Diablo
 - さめ☆あたっく by うつつ (https://youtu.be/7OhJPYegrSg)
 - VIVID VICE by Who-ya Extended
+- Teenager Forever by King Gnu
