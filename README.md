@@ -22,10 +22,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of nibbles(or alcohol drinks)
 If you like, you can write about favorite alcohol drinks, too.
+
 1. Senji Niku , Strong Zero(Grapefruit)
 2. Beef jerky , Plum wine  
 3. Tequila Sunrise
 4. Oden, Sake(Japanese rice wine)
-5. Jinro
-6. Torikawa Ponzu and Sake
-7. beef jerky
+5. spicy baked or fried mochi chips in this shape, horoyoi
