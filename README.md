@@ -30,7 +30,7 @@ Please list them!
 3. Kyokashotai
 4. Courier
 5. Comic Sans
-6. 
+6. Kokuryusyotai
 7. 
 8. 
 9. 
