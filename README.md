@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors -Font-
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -20,4 +20,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Fonts
+1. Tazugane Gothic
