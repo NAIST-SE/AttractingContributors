@@ -32,6 +32,6 @@ Please list them!
 5. Comic Sans
 6. Kokuryusyotai
 7. Hiragino
-8. 
+8. TA_marushikaku
 9. 
 10.
