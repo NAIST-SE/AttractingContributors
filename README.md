@@ -32,3 +32,4 @@ Gaol - I want to know good drinks so please let me know!!
 10. Monstar
 11. Wine
 12. Japanese wine
+13. calpis
