@@ -20,5 +20,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project (Fonts)
+What kind of font do you like? Or which fonts do you use most often?
+Please list them!
+
 # List of Fonts
 1. Tazugane Gothic
