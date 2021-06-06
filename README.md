@@ -27,4 +27,9 @@ If you like, you can write about favorite alcohol drinks, too.
 2. Beef jerky , Plum wine  
 3. Tequila Sunrise
 4. Oden, Sake(Japanese rice wine)
-5. spicy baked or fried mochi chips in this shape, horoyoi
+5. Jinro
+6. Torikawa Ponzu and Sake
+7. beef jerky
+8. Kahlua and Milk
+9. Lemon-dou
+10. spicy baked or fried mochi chips in this shape, horoyoi
