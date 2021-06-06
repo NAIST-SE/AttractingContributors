@@ -26,4 +26,12 @@ Please list them!
 
 # List of Fonts
 1. Tazugane Gothic
-2. Courier
+2. Gothic UI
+3. Kyokashotai
+4. Courier
+5. 
+6. 
+7. 
+8. 
+9. 
+10.
