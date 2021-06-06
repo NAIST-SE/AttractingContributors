@@ -26,4 +26,5 @@ Please list them!
 
 # List of Fonts
 1. Tazugane Gothic
-2. Kyokashotai
+2. Gothic UI
+3. Kyokashotai
