@@ -28,3 +28,4 @@ Please add your favorite music.
 - PINK BLOOD by Hikaru Utada
 - Yoru ni Kakeru by Yoasobi
 - Save A Little Love by Don Diablo
+- VIVID VICE by Who-ya Extended
