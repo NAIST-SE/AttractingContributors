@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 Please add your favorite music.
 - tentaikansoku by BUMP OF CHICKEN
+- Yoru ni Kakeru by Yoasobi
 - Save A Little Love by Don Diablo
