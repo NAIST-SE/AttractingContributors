@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 What kind of coffee do you like?  
 Please list them!  
 
-# List of Hobby
+# List of Coffee
 1. Cappucino
 2. Black
 3. Cafe au lait
