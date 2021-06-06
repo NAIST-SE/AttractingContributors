@@ -26,3 +26,4 @@ If you like, you can write about favorite alcohol drinks, too.
 1. Senji Niku , Strong Zero(Grapefruit)
 2. Beef jerky , Plum wine  
 3. Tequila Sunrise
+4. Oden, Sake(Japanese rice wine)
