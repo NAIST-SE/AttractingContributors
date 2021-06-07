@@ -9,6 +9,7 @@
 ## THE LIST
 
 - (e.g.) Dotonbori
+- Fushimi Inari Shrine
 - NAIST
 -
 -
