@@ -10,6 +10,7 @@
 
 - (e.g.) Dotonbori
 - Fushimi Inari Shrine
+- NAIST
 -
 -
 
