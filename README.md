@@ -1,3 +1,15 @@
+# 編集中
+
+
+
+
+
+
+
+The following article is the original [README](https://github.com/NAIST-SE/AttractingContributors/blob/main/README.md). 
+
+---
+
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
