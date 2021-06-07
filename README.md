@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Negima! Magister Negi Magi
 - Usiho to tora
 - SPY✖️FAMILY
+- Homunculus
