@@ -32,4 +32,5 @@ Don't add it at the **beginning or end** of the file.
 10. 滅火器(Fire EX.)
 11. sumika
 12. Avici
+13. diggy-mo
 ---
