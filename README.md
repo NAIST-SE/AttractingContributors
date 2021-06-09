@@ -11,7 +11,7 @@
 - (e.g.) Dotonbori
 - Fushimi Inari Shrine
 - NAIST
--
+- Nara Park
 -
 
 
