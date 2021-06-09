@@ -23,5 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of songs
 1.DAYBREAK FRONTLINE(Orangestar)
 2.Sanctuary(Roselia)
-3.KAISEI(Orangestar)
 
