@@ -14,6 +14,7 @@
 - Osaka Castle 大坂城
 - Nara Park
 - Horyuji
+- Expo park Osaka
 
 
 
