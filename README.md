@@ -11,7 +11,7 @@
 - (e.g.) Dotonbori
 - Fushimi Inari Shrine
 - NAIST
--
+- Osaka Castle 大坂城
 -
 
 
