@@ -25,7 +25,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Quruli
 3. andymori
 4. AL
-5.
+5. amazarashi
 6.
 7.
 8.
