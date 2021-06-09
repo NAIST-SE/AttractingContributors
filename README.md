@@ -26,8 +26,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. andymori
 4. AL
 5. amazarashi
-6.
-7.
+6. NECRY TALKIE
+7. BOØWY
 8.
 9.
 10.
