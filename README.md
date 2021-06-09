@@ -26,4 +26,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. andymori
 4. AL
 5.
-6. 
+6.
+7.
+8.
+9.
+10.
