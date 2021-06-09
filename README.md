@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - SPY✖️FAMILY
 - Homunculus
 - Scum's Wish
+- Attack on titan
