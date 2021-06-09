@@ -18,5 +18,6 @@ To complete the assignment, please do the following:
 
 # List of Athlete
 1. Hideki Mathui
+2. Sugimoto Yuichiro @ 99 ORIX Buffaloes
 
 ---
