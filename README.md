@@ -36,3 +36,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Usiho to tora
 - SPY✖️FAMILY
 - Homunculus
+- Scum's Wish
