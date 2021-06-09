@@ -28,6 +28,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. amazarashi
 6. NECRY TALKIE
 7. BOØWY
-8.
+8. Base Ball Bear
 9.
 10.
