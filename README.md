@@ -12,7 +12,7 @@
 - Fushimi Inari Shrine
 - NAIST
 - Nara Park
--
+- Horyuji
 
 
 
