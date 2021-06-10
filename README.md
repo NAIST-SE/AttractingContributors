@@ -22,16 +22,17 @@ please write below if you know color name.
 # List of Color
 
 1. Green
-1. cadetblue（#5f9ea0)
-1. cyan
-1. battleship gray (#898989)
-1. red
-2. Emerald
-1. magenta
-1. blue
-1. Black
-1. aquamarine #7fffd4
-1. wine red (#633142)
-1. pink
-2. yellow
-3. red
+2. cadetblue（#5f9ea0)
+3. cyan
+4. battleship gray (#898989)
+5. red
+6. Emerald
+7. magenta
+8. blue
+9. Black
+10. aquamarine #7fffd4
+11. wine red (#633142)
+12. pink
+13. yellow
+14. red
+15. white
