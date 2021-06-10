@@ -28,6 +28,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. amazarashi
 6. NECRY TALKIE
 7. BOØWY
-8. Anzenchitai
-9. Base Ball Bear
-10.
+8. official hige Dandyism
+9. Anzenchitai
+10. Base Ball Bear
