@@ -17,6 +17,7 @@
 - Horyuji
 - Expo park Osaka
 - Todaiji
+- Soni Highland
 
 
 
