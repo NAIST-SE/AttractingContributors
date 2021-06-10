@@ -21,7 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of songs
-1.DAYBREAK FRONTLINE(Orangestar)
-2.Sanctuary(Roselia)
-3.KAISEI
+1. DAYBREAK FRONTLINE(Orangestar)
+2. Sanctuary(Roselia)
+3. KAISEI
+4. Wekapipo(SOUL'd OUT)
 
