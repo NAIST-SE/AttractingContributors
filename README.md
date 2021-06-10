@@ -15,6 +15,7 @@
 - Nara Park
 - Horyuji
 - Expo park Osaka
+- Todaiji
 
 
 
