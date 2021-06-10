@@ -21,3 +21,4 @@ Goal: I want to know the first games you played in your life and make a list.
 # List of the first games you played in your life
 - Pokémon
 - タッチカービィ(Kirby: Canvas Curse)
+- Yoshi's Story
