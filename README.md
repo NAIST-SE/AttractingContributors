@@ -20,6 +20,7 @@
 - Soni Highland
 
 
+
 ---
 
 The following article is the original [README](https://github.com/NAIST-SE/AttractingContributors/blob/main/README.md). 
