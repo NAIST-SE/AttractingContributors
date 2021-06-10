@@ -29,5 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. NECRY TALKIE
 7. BOØWY
 8. official hige Dandyism
-9.
-10.
+9. Anzenchitai
+10. Base Ball Bear
