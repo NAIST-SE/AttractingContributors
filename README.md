@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. official hige Dandyism
 10. Anzenchitai
 11. Base Ball Bear
+12. Penguin Research
