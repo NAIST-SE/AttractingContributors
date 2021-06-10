@@ -29,5 +29,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. NECRY TALKIE
 7. BOØWY
 8. Led Zeppelin
-9.
-10.
+9. official hige Dandyism
+10. Anzenchitai
+11. Base Ball Bear
