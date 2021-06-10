@@ -12,6 +12,7 @@
 - Fushimi Inari Shrine
 - NAIST
 - Osaka Castle 大坂城
+- Kinkakuji
 - Nara Park
 - Horyuji
 - Expo park Osaka
