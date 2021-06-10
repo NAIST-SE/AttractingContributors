@@ -1,18 +1,17 @@
 # you want a pull request, right?
-hi dear all :>
-my hobby is send to pull request,really :^)
-I want to send to pull request to everyone *<|:‑)
-
+hi dear all :>  
+my hobby is send to pull request,really :^)  
+I want to send to pull request to everyone *<|:‑)  
+  
 # If you want to send me a pull request
-You can write anything :)
-e.g.
-What are the best things to put on a salad.
-What are the best things to put in a smoothie.
-what do you think of pull request.
-emoji
-1 word or 1 character OK
-
-
+You can write anything :)  
+e.g.  
+What are the best things to put on a salad.  
+What are the best things to put in a smoothie.  
+what do you think of pull request.  
+emoji  
+1 word or 1 character OK  
+  
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
