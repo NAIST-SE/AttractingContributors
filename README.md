@@ -29,5 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. NECRY TALKIE
 7. BOØWY
 8. Anzenchitai
-9.
+9. Base Ball Bear
 10.
