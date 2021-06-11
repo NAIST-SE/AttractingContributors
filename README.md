@@ -24,4 +24,5 @@ Goal: I want to know the first games you played in your life and make a list.
 - Yoshi's Story
 - Super Mario Kart
 - The Legend of Zelda: The Minish Cap
+- Super Mario 64
 - Tetris
