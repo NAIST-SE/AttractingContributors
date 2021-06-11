@@ -20,7 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Text Editor
-- Hidemaru Editor
-- VS Code
-- VIM
+# List of the first games you played in your life
+- Pokémon
+- タッチカービィ(Kirby: Canvas Curse)
+- Yoshi's Story
+- Super Mario Kart
+- The Legend of Zelda: The Minish Cap
+- Super Mario 64
+- Tetris
+- Wii Sports
+- sanoba witch
+- The King of Beetles, The road to gratest champion
