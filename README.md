@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - VS Code
 - VIM
 - VIM
+- X code
