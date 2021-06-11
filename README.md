@@ -8,7 +8,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
-# Requirements
+# RequirementsCancel changes
 To complete the assignment, please do the following:
 1. Fork this project and then rename the title to your hobby. 
 2. Announce the new project and try to attract other members.
@@ -20,4 +20,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Movie
+Spider-man homecoming
