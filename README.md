@@ -30,4 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Tetris
 - Wii Sports
 - sanoba witch
-- The King of Beetles ~The road to gratest champion~
+- The King of Beetles <The road to gratest champion>
