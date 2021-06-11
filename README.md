@@ -18,7 +18,7 @@
 - Expo park Osaka
 - Todaiji
 - Soni Highland
-
+- Lake Biwa
 
 
 ---
