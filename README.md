@@ -11,3 +11,4 @@ Most Loved, Dreaded, and Wanted Languages in 2020 https://insights.stackoverflow
 * Typescript
 * React
 * Rust
+* PHP
