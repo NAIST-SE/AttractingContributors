@@ -15,9 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# List of Ghibli_Movie
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+1. 風の谷のナウシカ (Nausicaä of the Valley of the Wind)
+2. 天空の城ラピュタ (Castle in the Sky)
+3. 火垂るの墓 (Grave of the Fireflies)
+4. となりのトトロ (My Neighbor Totoro)
+5. もののけ姫　(Princess Mononoke)
+6. ホーホケキョ となりの山田くん　(My Neighbours The Yamadas)
+7. 千と千尋の神隠し (Spirited Away)
+8. ハウルの動く城 (Howl's Moving Castle)
+9. 風立ちぬ (The Wind Rises)
+10. かぐや姫の物語 (The Tale of the Princess Kaguya)
+11. 思い出のマーニー (When Marnie Was There)
