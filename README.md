@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting 
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -24,4 +24,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1.DAYBREAK FRONTLINE(Orangestar)
 2.Sanctuary(Roselia)
 3.KAISEI
-4. The Phoenix(Fall Out Boy)
+4.supernova(ELLEGARDEN)
+5.Everything in Its Right Place (Radiohead)
+6.Wekapipo(SOUL'd OUT)
+7. The Phoenix(Fall Out Boy)
+
