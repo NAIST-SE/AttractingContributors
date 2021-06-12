@@ -1,28 +1,34 @@
-# you want a pull request, right?
-hi dear all :>  
-my hobby is send to pull request,really :^)  
-I want to send to pull request to everyone *<|:‑)  
-  
-# If you want to send me a pull request
-You can write anything :)  
-e.g.  
-What are the best things to put on a salad.  
-What are the best things to put in a smoothie.  
-what do you think of pull request.  
-emoji  
-1 word or 1 character OK  
-  
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
+
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
-# chat
- * Hyacinth
- * good!
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
 
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Text Editor
+- Hidemaru Editor
+- VS Code
+- VIM
+- VIM
+- X code
+- Emacs
+- Pycharm
+- Spyder IDE
 
 
 
