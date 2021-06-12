@@ -8,3 +8,5 @@ Please add your hometown following list!
 - Tochigi
 - Mie
 - Oosaka
+- Miyagi
+
