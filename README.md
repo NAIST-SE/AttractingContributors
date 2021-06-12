@@ -20,7 +20,8 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
 # chat
-
+ * Hyacinth
+ * good!
 
 
 
