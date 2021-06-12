@@ -20,13 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Favorite Tea
-1. chamomile
-2. jasmine tea
-3. protea
-4. barley tea
-5. Green Tea
-6. JAVA TEA
-7. Green tea
-8. Darjeeling Tea  
-9. English Breakfast  
+# List of Hobby
+- United Kingdom  
+- Iceland  
