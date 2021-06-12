@@ -19,7 +19,7 @@
 - Todaiji
 - Soni Highland
 - Lake Biwa
-
+- Hasedera
 
 ---
 
