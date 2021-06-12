@@ -20,4 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Text Editor
+- Hidemaru Editor
+- VS Code
+- VIM
+- VIM
+- X code
+- Emacs
+- Pycharm
+- Spyder IDE
+- Atom
