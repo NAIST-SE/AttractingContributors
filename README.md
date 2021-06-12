@@ -10,3 +10,4 @@ Please add the title to the list of my README.md and make a Pull Request.
 2. もののけ姫
 3. ハウルの動く城
 4. Castle in the Sky
+5. 天空の城ラピュタ
