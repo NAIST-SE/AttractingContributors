@@ -9,4 +9,5 @@ Please add your hometown following list!
 - Mie
 - Oosaka
 - Miyagi
+- Kunming
 
