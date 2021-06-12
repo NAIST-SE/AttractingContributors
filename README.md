@@ -22,6 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 - United Kingdom
-- Thailand
 - Iceland
-
+- ネパール
+- Thailand
