@@ -20,6 +20,7 @@
 - Soni Highland
 - Lake Biwa
 - Hasedera
+- Gion
 
 ---
 
