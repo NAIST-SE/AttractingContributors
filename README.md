@@ -7,5 +7,6 @@ Please add your hometown following list!
 # List of Your Hometown
 - Tochigi
 - Mie
+- Oosaka
 - Miyagi
-- 
+
