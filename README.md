@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Emacs
 - Pycharm
 - Spyder IDE
+- Atom
