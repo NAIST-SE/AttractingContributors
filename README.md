@@ -24,4 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1.DAYBREAK FRONTLINE(Orangestar)
 2.Sanctuary(Roselia)
 3.KAISEI
-4.Everything in Its Right Place (Radiohead)
+4.supernova(ELLEGARDEN)
+5.Everything in Its Right Place (Radiohead)
+
