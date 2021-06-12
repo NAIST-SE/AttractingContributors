@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3.KAISEI
 4.supernova(ELLEGARDEN)
 5.Everything in Its Right Place (Radiohead)
+6.Wekapipo(SOUL'd OUT)
 
