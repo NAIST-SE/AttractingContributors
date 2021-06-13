@@ -29,4 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3.England</br>
 4.Kenya  
 5.Malaysia
+6.Canada
 
