@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Son Goku
 - Uzumaki Naruto
 - Muichiro Tokito
+- Misaka Mikoto
