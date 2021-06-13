@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of favorite sports!
 1. beachball
 2. Table Tennis
+3. Soccer
