@@ -30,5 +30,7 @@ Baumkuchen
 Tacos al Pastor  
 Yakiniku  
 Rice  
+chicken  
+Rice  
 Sushi  
 Pizza  
