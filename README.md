@@ -31,5 +31,4 @@ Tacos al Pastor
 Yakiniku  
 Rice  
 Sushi  
-Rice  
 Pizza  
