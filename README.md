@@ -10,4 +10,5 @@ Please add your hometown following list!
 - Oosaka
 - Miyagi
 - Kunming
+- Fukuoka
 
