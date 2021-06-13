@@ -13,3 +13,4 @@ Please add your hometown following list!
 - Fukuoka
 - Kanagawa
 - Ibaraki
+- Ymanashi
