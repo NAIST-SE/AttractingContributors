@@ -11,4 +11,5 @@ Please add your hometown following list!
 - Miyagi
 - Kunming
 - Fukuoka
+- Kanagawa
 
