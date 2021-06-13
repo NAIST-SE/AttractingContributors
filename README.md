@@ -29,7 +29,9 @@ Baumkuchen
 ラーメン  
 Tacos al Pastor  
 Yakiniku  
-Rice
+Rice  
+Udon  
+Rice  
 sushi  
 Rice  
 chicken  
