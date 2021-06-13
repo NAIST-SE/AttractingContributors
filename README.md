@@ -31,4 +31,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - nano
 - Spyder IDE
 - Atom
+- Neovim
 - CotEditor
+
