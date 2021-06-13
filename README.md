@@ -31,3 +31,10 @@ Tacos al Pastor
 Yakiniku  
 Rice  
 Udon  
+Rice  
+sushi  
+Rice  
+chicken  
+Rice  
+Sushi  
+Pizza  
