@@ -30,6 +30,8 @@ Baumkuchen
 Tacos al Pastor  
 Yakiniku  
 Rice  
+Ris à L'Amande  
+Rice  
 Makinoudon   
 Rice  
 Udon  
