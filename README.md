@@ -30,3 +30,4 @@ Goal: I want to know the first games you played in your life and make a list.
 - sanoba witch
 - The King of Beetles, The road to gratest champion
 - Super Mario World
+- Spider solitaire
