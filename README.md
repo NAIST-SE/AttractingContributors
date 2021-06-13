@@ -32,3 +32,4 @@ Goal: I want to know the first games you played in your life and make a list.
 - Super Mario World
 - Spider solitaire
 - ソニック・ザ・ヘッジホッグ (Sonic the Hedgehog)
+- Mario Party
