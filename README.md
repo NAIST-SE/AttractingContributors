@@ -21,4 +21,4 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite food.
 
 # List of favorite food
-1.sushi
+1. sushi
