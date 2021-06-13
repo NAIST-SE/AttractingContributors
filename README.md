@@ -18,6 +18,8 @@ To complete the assignment, please do the following:
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
 
-# List of Anime.
-1. Naruto
-2. One Piece
+# List of Country/Countries You'd Love To Visit
+1.Spain</br>
+2.Switzerland</br>
+3.England</br>
+4.Kenya
