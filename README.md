@@ -12,4 +12,4 @@ Please add your hometown following list!
 - Kunming
 - Fukuoka
 - Kanagawa
-
+- Ibaraki
