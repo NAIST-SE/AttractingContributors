@@ -29,5 +29,24 @@ Baumkuchen
 ラーメン  
 Tacos al Pastor  
 Yakiniku  
-Rice
-Mazesoba
+Rice  
+Mazesoba  
+Rice  
+Snickers  
+SuShi  
+Yakiniku   
+Rice  
+Hot Pot  
+Rice  
+Ris à L'Amande  
+Rice  
+Makinoudon   
+Rice  
+Udon  
+Rice  
+sushi  
+Rice  
+chicken  
+Rice  
+Sushi  
+Pizza  
