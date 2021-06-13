@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. basketball
 5. soccer
 6. badminton
+7. baseball
