@@ -20,5 +20,5 @@ To complete the assignment, please do the following:
 # My Project(FavoriteFood-collection)
 Goal - I want contributors to help me list some favorite food.
 
-# List of favorite food
-1.sushi
+# List of favorite sports!
+1. soccer
