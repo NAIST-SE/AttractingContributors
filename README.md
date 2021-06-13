@@ -18,8 +18,6 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
 =======
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
@@ -31,4 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2.Switzerland</br>
 3.England</br>
 4.Kenya  
-5.Malaysia  
+5.Malaysia
+
