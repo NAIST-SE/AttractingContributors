@@ -30,6 +30,8 @@ Baumkuchen
 Tacos al Pastor  
 Yakiniku  
 Rice  
+Mazesoba  
+Rice  
 Snickers  
 SuShi  
 Yakiniku   
