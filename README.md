@@ -1,5 +1,8 @@
-# Attracting Contributors
+# Attracting Contributors - Country/Countries You'd Love To Visit
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+What country or countries/regions you would love to visit? I'd really love to see what everybody likes.
+
+Cheers all.
 
 # Rules
 
@@ -17,6 +20,11 @@ To complete the assignment, please do the following:
 
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
+=======
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Country/Countries You'd Love To Visit
 1.Spain</br>
