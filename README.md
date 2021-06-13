@@ -14,3 +14,4 @@ Please add your hometown following list!
 - Kanagawa
 - Ibaraki
 - Ymanashi
+- Yamanashi
