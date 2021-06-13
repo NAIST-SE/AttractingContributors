@@ -28,7 +28,9 @@ Sashimi
 Baumkuchen  
 ラーメン  
 Tacos al Pastor  
-Yakiniku  
+Yakiniku   
+Rice  
+Hot Pot  
 Rice  
 Ris à L'Amande  
 Rice  
