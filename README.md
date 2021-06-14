@@ -22,6 +22,8 @@
 - Hasedera
 - Gion
 - Ise Shrine
+- Osaka Castle
+
 
 ---
 
