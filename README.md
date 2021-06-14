@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some favorite dajare.
 4. 私たちから渡した力
 5. 電話に誰もテレフォン
 6. drag on dragon
+7. ギフト券貸したことで義父と喧嘩した
