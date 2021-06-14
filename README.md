@@ -20,6 +20,7 @@ To complete the assignment, please do the following:
 Spider-man homecoming
 Avengers
 Toystory
+A Star Is Born
 The Lord of The Rings
 Scent of a Woman
 Your Name
