@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite dajare.
 
 # List of dajare(Japanese or English)
+0. ふとんがふっとんだ
