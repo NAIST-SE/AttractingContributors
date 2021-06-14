@@ -25,3 +25,5 @@ Spider-man homecoming
 Avengers
 Toystory
 Batman Dark Knight Rises
+天使のたまご
+Pirates of the Caribbean
