@@ -32,4 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Raccoon dog
 - deer
 - Penguin
-もう一つお願いします
+- Serval
