@@ -23,5 +23,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Movie
 Spider-man homecoming
 Avengers
-Toystory
+Toystory\
 Harry Potter
+Batman Dark Knight Rises
+天使のたまご
+Pirates of the Caribbean
