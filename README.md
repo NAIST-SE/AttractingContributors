@@ -15,5 +15,6 @@ Please add your hometown following list!
 - Ibaraki
 - Ymanashi
 - Yamanashi
+- Oita
 - Kagawa
 - Penang
