@@ -15,13 +15,24 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Movie
 Spider-man homecoming<br/>
 Avengers<br/>
 Toystory<br/>
 Evangelion<br/>
+Spider-man homecoming
+Avengers
+Toystory
+Night at the Museum
+A Star Is Born
+The Lord of The Rings
+Scent of a Woman
+Your Name
+Toystory
+Harry Potter
+Batman Dark Knight Rises
+天使のたまご
+Pirates of the Caribbean
+joker
+The Shawshank Redemptio
