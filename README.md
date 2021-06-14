@@ -1,10 +1,11 @@
-# Attracting Contributors
+# Attracting Contributors - Country/Countries You'd Love To Visit
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+What country or countries/regions you would love to visit? I'd really love to see what everybody likes.
 
-# Student ID
-2111144
+Cheers all.
 
 # Rules
+
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -17,9 +18,15 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project(FavoriteFood-collection)
-Goal - I want contributors to help me list some favorite food.
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of favorite food
-1. sushi
-2. udon
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Country/Countries You'd Love To Visit
+1.Spain</br>
+2.Switzerland</br>
+3.England</br>
+4.Kenya  
+5.Malaysia
+6.Germany
