@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. badminton
 7. baseball
 8. Kabaddi
+9. Kickball
