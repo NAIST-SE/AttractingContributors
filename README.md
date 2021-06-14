@@ -21,3 +21,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+- Hanyu Hurude
+- 麦わらのルフィ
+- Doraemon
+- Son Goku
+- Uzumaki Naruto
+- Muichiro Tokito
+- Asuka
+- Misaka Mikoto
+- Ayase Chihaya
+- Furude Rika
