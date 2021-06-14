@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5.Malaysia
 6.Canada
 7.Germany
+8.Russia
