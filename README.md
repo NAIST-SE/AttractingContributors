@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - shark
 - Horse
 - Wolf
+- Procyon lotor
