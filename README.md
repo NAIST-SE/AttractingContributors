@@ -14,3 +14,6 @@ Most Loved, Dreaded, and Wanted Languages in 2020 https://insights.stackoverflow
 * PHP
 * C++
 * C#
+* OCaml
+* MATLAB
+* JSF*ck
