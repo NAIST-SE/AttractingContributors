@@ -27,7 +27,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1.Spain</br>
 2.Switzerland</br>
 3.England</br>
-4.Kenya  
-5.Malaysia
-6.England +1 </br>
-
+4.Kenya</br>
+5.Malaysia</br>
+6.Canada</br>
+7.Germany</br>
+8.Russia</br>
+9.England +1</br>
