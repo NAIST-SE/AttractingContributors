@@ -24,6 +24,7 @@ Evangelion<br/>
 Spider-man homecoming
 Avengers
 Toystory
+もののけ姫
 Interstellar
 Summer Wars
 Night at the Museum
