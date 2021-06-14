@@ -29,3 +29,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Horse
 - Wolf
 - Procyon lotor
+- Raccoon dog
+- deer
+- Penguin
