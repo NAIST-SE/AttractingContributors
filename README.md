@@ -21,3 +21,4 @@ Goal - I want contributors to help me list some favorite dajare.
 # List of dajare(Japanese or English)
 0. ふとんがふっとんだ
 1. アルミ缶の上にあるみかん
+2. アニソンショーで兄損傷
