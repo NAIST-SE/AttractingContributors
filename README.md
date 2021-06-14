@@ -20,4 +20,33 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Foods
+Sashimi  
+Natto  
+Sashimi  
+Baumkuchen  
+ラーメン  
+Tacos al Pastor  
+Yakiniku  
+Rice  
+Mazesoba  
+Rice  
+Snickers  
+SuShi  
+Yakiniku   
+Rice  
+Hot Pot  
+Rice  
+Ris à L'Amande  
+Rice  
+Makinoudon   
+Rice  
+Udon  
+Rice  
+sushi  
+Rice  
+chicken  
+Rice  
+Sushi  
+Pizza  
+karaage
