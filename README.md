@@ -22,3 +22,4 @@ Goal - I want contributors to help me list some favorite dajare.
 0. ふとんがふっとんだ
 1. アルミ缶の上にあるみかん
 2. アニソンショーで兄損傷
+3. 佐賀市にあるかないか、探しに歩かないか？
