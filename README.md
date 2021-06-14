@@ -16,3 +16,4 @@ Please add your hometown following list!
 - Ymanashi
 - Yamanashi
 - Kagawa
+- Penang
