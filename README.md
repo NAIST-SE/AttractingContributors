@@ -50,3 +50,4 @@ chicken
 Rice  
 Sushi  
 Pizza  
+karaage
