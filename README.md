@@ -25,3 +25,4 @@ Spider-man homecoming
 Avengers
 Toystory
 A Star Is Born
+Pirates of the Caribbean
