@@ -1,15 +1,24 @@
 # Attracting Contributors
-Please tell me your favorite Ghibli Movie.
+I want to know which language or framework is the most popular among us, please tell me!
 
 # Rules
-Please add the title to the list of my README.md and make a Pull Request.
+Please add a programming language or a framework that you like, or that you plan to learn,in the list below👇
 
-# List of Ghibli_Movie
-1. 風の谷のナウシカ
-2. もののけ姫
-3. ハウルの動く城
-4. Castle in the Sky
-5. 天空の城ラピュタ
-6. 平成狸合戦　ぽんぽこ
-７. 崖の上のポニョ
-８. Howl's Moving Castle
+# For your refrence:
+Most Loved, Dreaded, and Wanted Languages in 2020 https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved
+
+# List of candidates (programming languages)
+* Typescript
+* React
+* Rust
+* PHP
+* C++
+* C
+* Java
+* Python
+* Haskell
+* Julia
+* C#
+* OCaml
+* MATLAB
+* JSF*ck
