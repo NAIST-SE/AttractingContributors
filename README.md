@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Spider-man homecoming
 Avengers
 Toystory
+Pirates of the Caribbean
