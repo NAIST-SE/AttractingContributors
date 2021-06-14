@@ -17,6 +17,10 @@ To complete the assignment, please do the following:
 
 
 # List of Movie
+Spider-man homecoming<br/>
+Avengers<br/>
+Toystory<br/>
+Evangelion<br/>
 Spider-man homecoming
 Avengers
 Toystory
@@ -31,5 +35,4 @@ Batman Dark Knight Rises
 天使のたまご
 Pirates of the Caribbean
 joker
-
 The Shawshank Redemptio
