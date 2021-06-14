@@ -29,3 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Horse
 - Wolf
 - Raccoon dog
+- deer
+- Penguin
