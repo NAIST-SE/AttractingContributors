@@ -20,6 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+
 # List of Movie
 Spider-man homecoming
 Avengers
@@ -28,3 +29,4 @@ Harry Potter
 Batman Dark Knight Rises
 天使のたまご
 Pirates of the Caribbean
+The Shawshank Redemption
