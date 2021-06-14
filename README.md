@@ -18,5 +18,4 @@ To complete the assignment, please do the following:
 # My Project(dajare-collection)
 Goal - I want contributors to help me list some favorite dajare.
 
-# List of dajare
-1. Futon ga Futton da.
+# List of dajare(Japanese or English)
