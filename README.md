@@ -25,3 +25,4 @@ Spider-man homecoming
 Avengers
 Toystory
 天使のたまご
+Pirates of the Caribbean
