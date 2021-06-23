@@ -25,3 +25,6 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 4. JoJo's Bizarre Adventure
 5. Dragon Ball Z
 6. World Trigger
+7. BLEACH
+8. Serial Experiments Lain
+9. PoketMon
