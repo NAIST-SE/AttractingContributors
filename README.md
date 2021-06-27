@@ -35,4 +35,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Neovim
 - CotEditor
 - Notepad++
+- Atom
+- Vi
+- Sublime Text
 - Spyder IDE
