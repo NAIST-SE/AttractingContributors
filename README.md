@@ -20,4 +20,17 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of favorite sports!
+1. beachball
+2. Table Tennis
+3. Soccer
+4. basketball
+5. soccer
+6. badminton
+7. baseball
+8. Kabaddi
+9. Kickball
+10. Track and field
+11. Handball
+1２. F1
+13. Guitar
