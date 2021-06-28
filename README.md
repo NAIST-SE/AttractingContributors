@@ -20,4 +20,17 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Animals
+
+- Dog
+- Cat
+- Tiger
+- shark
+- Horse
+- Wolf
+- Procyon lotor
+- Raccoon dog
+- deer
+- Penguin
+- Serval
+- Hedgehog
