@@ -15,9 +15,24 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project
+Goal: I want to know the first games you played in your life and make a list.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of the first games you played in your life
+- Pokémon
+- タッチカービィ(Kirby: Canvas Curse)
+- Yoshi's Story
+- Super Mario Kart
+- The Legend of Zelda: The Minish Cap
+- Super Mario 64
+- Tetris
+- Wii Sports
+- sanoba witch
+- The King of Beetles, The road to gratest champion
+- Super Mario World
+- Spider solitaire
+- ソニック・ザ・ヘッジホッグ (Sonic the Hedgehog)
+- Mario Party
+- Super Mario Bros.
+- pokemon
+- Mario
