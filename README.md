@@ -20,4 +20,23 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Manga
+#### Any manga is OK!
+- Halcion Lunch
+- GANZ
+- One Piece
+- Slam Dunk 
+- New Game!
+- Maid sama
+- Dragon Ball
+- Initial D
+- The fable
+- Yurucamp
+- Negima! Magister Negi Magi
+- Usiho to tora
+- SPY✖️FAMILY
+- Homunculus
+- Scum's Wish
+- Attack on titan
+- JoJo's Bizarre Adventure
+- Akatsuki no yona
