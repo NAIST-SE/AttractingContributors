@@ -39,3 +39,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Scum's Wish
 - Attack on titan
 - JoJo's Bizarre Adventure
+- Akatsuki no yona
