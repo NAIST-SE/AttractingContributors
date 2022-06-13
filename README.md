@@ -24,14 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal - I want contributors to help me list some favorite programing language
 
 # List of programming language
-1. C++
-2. Python 
-3. Rust
-4. C#
-5. java
-6. Haskell
-7. Ruby
-8. Swift
-9. Kotlin
-10. Javascript
-11. TypeScript
+1. TypeScript
