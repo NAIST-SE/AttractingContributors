@@ -15,9 +15,9 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Attracting favorite Streamer
+あなたの好きな動画配信者を教えてください.
+どんなジャンルでも結構です.
+URLもどうぞ！
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Streamer 
