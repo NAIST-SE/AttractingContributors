@@ -21,3 +21,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+1.Dragon Quest
+2.Final Fantasy
+3.Mother
+4.Wizrogue
+5.Mado Monogatari
+6.Chocotto Land Online
+7.Undertale
+8.Chrono Triger
+9.Super Mario RPG
+10.Arwlier
