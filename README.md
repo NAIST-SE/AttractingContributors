@@ -24,3 +24,5 @@ To complete the assignment, please do the following:
 よければ理由も！
 
 # List of SNS
+- Twitter
+  - Reason: Twitter is my life.
