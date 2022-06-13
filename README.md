@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of PC manufacturer
 あなたの好きなPCメーカーを教えてください。</br>
 - 例:Apple
+- AMD
 - Apple
