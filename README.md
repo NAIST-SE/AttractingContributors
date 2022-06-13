@@ -24,3 +24,5 @@ To complete the assignment, please do the following:
 よければ理由も！
 
 # List of SNS
+- Instagram
+  - Reason: There are beautiful and scenic pictures and we can become "Yokya" by use it.
