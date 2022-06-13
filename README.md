@@ -6,3 +6,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 
 # List of favorite characters
 1. Joel Miller (The Last of Us)
+2. シャア・アズナブル，Char Aznable(Mobile Suit Gundam: Char's Counterattack)
