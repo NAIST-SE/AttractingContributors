@@ -21,3 +21,4 @@ You can list any animation, or you can list multiple animations, not limited
 to Japanese animation, but also animation from other countries.
 
 # List of Anime.
+- Mirai Nikki
