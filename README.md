@@ -21,3 +21,12 @@ You can list any animation, or you can list multiple animations, not limited
 to Japanese animation, but also animation from other countries.
 
 # List of Anime.
+- パリピ孔明
+- 魔法少女まどか
+- ニンジャスレイヤー
+- フリップフラッパーズ
+- 盾の勇者の成り上がり
+- 天才王子の赤字国家再生術
+- 無職転生 ～異世界行ったら本気だす
+- 甘城ブリリアントパーク
+- ガブリールドロップアウト
