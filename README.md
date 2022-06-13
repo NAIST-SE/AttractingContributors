@@ -21,8 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-# List of progarming language for competitive programing comtest
-Goal - I want contributors to help me list some competitive programer
+# List of progarming language 
+Goal - I want contributors to help me list some favorite programing language
 
 # List of programing language
 1. C++
