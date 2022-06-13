@@ -34,3 +34,4 @@ Goal - I want contributors to help me list some favorite programing language
 8. Swift
 9. Kotlin
 10. Javascript
+11. TypeScript
