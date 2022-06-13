@@ -20,6 +20,6 @@ I want contributors to help me list your favorite Professional players(Any game/
 Here I list my favorite players.
 1. Xiaohu(League of Legends)
 2. Gala(League of Legends)
-3. ZywOo(Couter Strike Global Offensive)
+3. ZywOo(Counter Strike Global Offensive)
 
 # List of Pros
