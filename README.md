@@ -1,38 +1,46 @@
-# Attracting football fans⚽⚽⚽
-My Project (Footbal_team-collection)
-Goal - I want contributors to help me list some favorite football team you like.
+# Introduction
+My name is [A], part of students of Software Engineering (4006).
+I have interest into Touhou Project, especially I love to collect their plushies.
+I would love to hear your opinion about your favorite character in Touhou Project series.
+Especially, if they have character plushies from Fumofumo series (https://en.touhouwiki.net/wiki/FumoFumo).
+If you don't know or new into this knowledge/fan culture, you can ask me in the discussion.
+I also a new fans so I will try my best to explain and let's have a healthy conversation!
 
-If possible, we can hold a party to watch the World Cup 🍺
+If you wish to add into list below, you can directly clone and pull request after your add your favorite character!
 
-If you don't know or are new to this, I welcome any discussions and comments~
+![fumo?](https://github.com/aru1702/AttractingContributors-TouhouFumo/1652674635681.jpeg?raw=true)
 
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# Find the football club which you like 
-Check out the list of all the men and women football clubs broken down by country on fbref.com
+# Rules
 
-https://fbref.com/en/squads/
+## My rules
+1. NO TOXIC!
+2. No discord drama, no community abuse!
+3. Everyone is welcomed!
 
-Any kind of football team you can write on the README even the school team (just name the school)
-
-![image](https://user-images.githubusercontent.com/64719917/173284996-a5b63ee0-9341-4205-88e0-3f8277592cb1.png)  
-
-from: (https://www.pinterest.com/pin/820007044642097824/)
-
+## Basic rules
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
+3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
+	@@ -17,7 +35,19 @@ To complete the assignment, please do the following:
 
 # Example. 
-1: Fiorentina  
-2: Japan  
-3: Croatia  
-4: Brazil  
-5: Italy  
-6: Brazil  
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-
-# List of Your favourite football team
-- Union of North African Federations (UNAF)
-- FC Bayern München
-- China 国足
-- Brazil
-- Argentina
-- Spain
-- France
+# List of your favorite Touhou character
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+etc...
