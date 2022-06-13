@@ -20,10 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of progarming language 
+# List of progarmming language 
 Goal - I want contributors to help me list some favorite programing language
 
-# List of programing language
+# List of programming language
 1. C++
 2. Python 
 3. Rust
