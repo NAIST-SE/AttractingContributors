@@ -23,3 +23,4 @@ Here I list my favorite players.
 3. ZywOo(Counter Strike Global Offensive)
 
 # List of Pros
+- Aceu (Apex Legends)
