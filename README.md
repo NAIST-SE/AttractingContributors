@@ -23,3 +23,5 @@ URLもどうぞ！
 # List of Streamer 
 - Hikakin mania
 - Montana Black
+- Amelia Watson
+- GuraGawr
