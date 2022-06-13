@@ -16,8 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Goal - I want contributors to help me list some favorite Japanese Anime.
 
 # List of Hobby
