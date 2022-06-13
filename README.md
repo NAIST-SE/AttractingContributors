@@ -24,3 +24,5 @@ URLもどうぞ！
 - Hikakin mania
 - Montana Black
 - つきのみと
+- 小倉唯
+- vodka https://www.twitch.tv/vodkavdk
