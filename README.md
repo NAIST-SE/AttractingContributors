@@ -17,7 +17,7 @@ To complete the assignment, please do the following:
 
 # Attracting game players
 I want contributors to help me list your favorite Professional players(Any game/team/club is OK!).
-Here I list my favorite player
+Here I list my favorite players.
 1. Xiaohu(League of Legends)
 2. Gala(League of Legends)
 3. ZywOo(Couter Strike Global Offensive)
