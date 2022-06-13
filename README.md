@@ -23,3 +23,4 @@ URLもどうぞ！
 # List of Streamer 
 - Hikakin mania
 - Montana Black
+- 小倉唯
