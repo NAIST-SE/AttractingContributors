@@ -32,3 +32,7 @@ from: (https://www.pinterest.com/pin/820007044642097824/)
 - Union of North African Federations (UNAF)
 - FC Bayern München
 - China 国足
+- Brazil
+- Argentina
+- Spain
+- France
