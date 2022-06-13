@@ -31,3 +31,8 @@ to Japanese animation, but also animation from other countries.
 - 甘城ブリリアントパーク
 - ガブリールドロップアウト
 - Mirai Nikki
+- EVA
+- 鬼滅の刃
+- デート・ア・ライブ 
+- 機動戦士ガンダムSEED
+- 機動戦士ガンダム逆襲のシャア
