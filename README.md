@@ -21,4 +21,5 @@ To complete the assignment, please do the following:
 URLもどうぞ！
 
 # List of Streamer 
+- Hikakin mania
 - Montana Black
