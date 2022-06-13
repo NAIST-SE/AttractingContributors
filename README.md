@@ -20,7 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of progarmming language 
+# Tell me your favorite progarmming language 
 Goal - I want contributors to help me list some favorite programing language
 
 # List of programming language
