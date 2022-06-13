@@ -21,3 +21,17 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+# List of progarming language for competitive programing comtest
+Goal - I want contributors to help me list some competitive programer
+
+# List of programing language
+1. C++
+2. Python 
+3. Rust
+4. C#
+5. java
+6. Haskell
+7. Ruby
+8. Swift
+9. Kotlin
+10. Javascript
