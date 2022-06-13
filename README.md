@@ -30,3 +30,4 @@ to Japanese animation, but also animation from other countries.
 - 無職転生 ～異世界行ったら本気だす
 - 甘城ブリリアントパーク
 - ガブリールドロップアウト
+- Mirai Nikki
