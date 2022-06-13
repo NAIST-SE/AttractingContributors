@@ -20,3 +20,5 @@ To complete the assignment, please do the following:
 男の子、女の子問わないです。
 # List of Hobby
 - takuma
+- Takuma
+
