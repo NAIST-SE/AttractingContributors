@@ -8,7 +8,7 @@ I also a new fans so I will try my best to explain and let's have a healthy conv
 
 If you wish to add into list below, you can directly clone and pull request after your add your favorite character!
 
-![fumo?](https://github.com/aru1702/AttractingContributors-TouhouFumo/1652674635681.jpeg?raw=true)
+![fumo?](https://raw.githubusercontent.com/aru1702/AttractingContributors-TouhouFumo/main/1652674635681.jpeg)
 
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
