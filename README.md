@@ -15,9 +15,24 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (JP-Anime-collection)
+Goal - I want contributors to help me list some favorite Japanese Anime. 
+You can list any animation, or you can list multiple animations, not limited 
+to Japanese animation, but also animation from other countries.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Anime.
+- パリピ孔明
+- 魔法少女まどか
+- ニンジャスレイヤー
+- フリップフラッパーズ
+- 盾の勇者の成り上がり
+- 天才王子の赤字国家再生術
+- 無職転生 ～異世界行ったら本気だす
+- 甘城ブリリアントパーク
+- ガブリールドロップアウト
+- Mirai Nikki
+- EVA
+- 鬼滅の刃
+- デート・ア・ライブ 
+- 機動戦士ガンダムSEED
+- 機動戦士ガンダム逆襲のシャア
