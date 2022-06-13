@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 あなたのこどもにつけたいと思う名前を教えて下さい。
 男の子、女の子問わないです。
 # List of Hobby
+- takuma
