@@ -15,9 +15,11 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Attracting game players
+I want contributors to help me list your favorite Professional players(Any game/team/club is OK!).
+Here I list my favorite player
+1. Xiaohu(League of Legends)
+2. Gala(League of Legends)
+3. ZywOo(Couter Strike Global Offensive)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Pros
