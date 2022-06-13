@@ -28,4 +28,6 @@ To complete the assignment, please do the following:
   - Reason: Twitter is my life.
 - Instagram
   - Reason: There are beautiful and scenic pictures and we can become "Yokya" by use it.
+- Facebook
+  - Reason: Make acquaintances.
 
