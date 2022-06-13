@@ -16,8 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Attracting favorite Streamer
-あなたの好きな動画配信者を教えてください.
-どんなジャンルでも結構です.
+あなたの好きな動画配信者を教えてください.</br>
+どんなジャンルでも結構です.</br>
 URLもどうぞ！
 
 # List of Streamer 
