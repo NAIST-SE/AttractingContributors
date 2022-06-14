@@ -6,4 +6,5 @@ Please let me know about your laboratory in NAIST. あなたのNAISTの研究室
 
 # List of Lab.
 Network Systems Lab.
-Software Engineering Lab.
+Software Engineering Lab.<br>
+Robot Learning Lab.
