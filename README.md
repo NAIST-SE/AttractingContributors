@@ -32,3 +32,4 @@ To complete the assignment, please do the following:
 - Kazuki
 - Sojiro
 - Hikari
+- Potohu
