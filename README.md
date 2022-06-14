@@ -26,5 +26,10 @@ Please let us know which chain restaurant you frequent most often.
 あなたがよく利用するチェーン経営しているお店を教えてください。
 
 # List of chain restaurant
-・Starbucks Coffee 
-Yoshinoya
+- Starbucks Coffee 
+- ジョイフル  
+- Joyfull
+- sukiya
+- Kura sushi
+- Mcdonald's
+- Yoshinoya
