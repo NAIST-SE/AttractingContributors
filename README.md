@@ -26,3 +26,4 @@ Please tell me your favorite MUSICIAN(including band). I wanna know a whole new 
 - FLOW
 - Nirvana
 - Haruy
+- UVERWorld
