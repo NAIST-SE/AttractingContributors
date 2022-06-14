@@ -26,3 +26,4 @@ Goal - I want contributors to help me list last video game someone played.
 3.AVA  
 4.Asphalt 9
 5.Valorant
+6.Kirby and the Forgotten Land
