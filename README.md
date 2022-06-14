@@ -8,3 +8,4 @@ Please let me know about your laboratory in NAIST. あなたのNAISTの研究室
 Network Systems Lab.
 Software Engineering Lab.<br>
 Robot Learning Lab.
+Ubiquitous Computing System Lab.
