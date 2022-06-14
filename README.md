@@ -18,5 +18,5 @@ To complete the assignment, please do the following:
 # Dream Job Collection. 
 Objective: To collect dream jobs
 
-# List of Dream Jobs
+# List of Dream Jobs.
 ・石油王
