@@ -15,26 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Attracting favorite Streamer
+あなたの好きな動画配信者を教えてください.</br>
+どんなジャンルでも結構です.</br>
+URLもどうぞ！
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# Attracting Instruction Set Architecture (ISA)
-Please tell me your favorite Instruction Set Architecture(ISA)!!!
-
-It can be anything! And if you have a URL that shows ISA features, please include it.
-
-By the way, I love RISC-V.
-
-# List of ISA
-- RISC-V
-- X86-64
-- IA-32
-- IA-64
-- ARM
-- MIPS
-- PowerPC
-- SPARC
-- VAX
-- 68000
+# List of Streamer 
+- Hikakin mania
+- Montana Black
+- SugarZ3ro
+- つきのみと
+- 小倉唯
+- vodka https://www.twitch.tv/vodkavdk
+- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
