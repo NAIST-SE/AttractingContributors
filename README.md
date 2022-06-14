@@ -24,4 +24,6 @@ To complete the assignment, please do the following:
 - Keitora
 - HIROKI
 - SHOTA
+- Yu
+- Kazuki
 
