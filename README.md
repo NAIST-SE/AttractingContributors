@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 1. Steam
 2. Amazon
+3. ピッコマ
