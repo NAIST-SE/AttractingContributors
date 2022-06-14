@@ -15,9 +15,12 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Tell me about your favorite animal or pets!
+I really love my cat. His name is choco that name comes from His hair looks like a chocolate.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+I want to know what kind of animals or pets do you love.
 
-# List of Hobby
+Please let me know!
+
+# List
+1. 
