@@ -23,6 +23,7 @@ To complete the assignment, please do the following:
 - Takuma
 - Keitora
 - HIROKI
+- yuki
 - 無糖
 - SHOTA
 - Yu
