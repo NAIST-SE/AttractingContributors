@@ -23,6 +23,7 @@ To complete the assignment, please do the following:
 - Takuma
 - Keitora
 - HIROKI
+- サー・クロコダイル
 - Baki
 - yuki
 - 無糖
