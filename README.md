@@ -21,4 +21,6 @@ Please vote your favourite anime following lists
 
 9.Others
 
+10.Naruto
+
 Please add your favourite anime below!
