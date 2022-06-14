@@ -21,7 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Attracting Instruction Set Architecture (ISA)
-Tell me your favorite Instruction Set Architecture(ISA)!!!
+Please tell me your favorite Instruction Set Architecture(ISA)!!!
 
 It can be anything! And if you have a URL that shows ISA features, please include it.
 
