@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - ASUS
 - AMD
 - Apple
+- Lenovo
 - Huawei  
