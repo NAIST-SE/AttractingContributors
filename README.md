@@ -35,6 +35,7 @@ Please let us know which chain restaurant you frequent most often.
 - Mcdonald's
 - Lawson
 - Yoshinoya
+- Hanamaru udon
 - バーミヤン
 - なか卵
 - Baskin Robbins
