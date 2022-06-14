@@ -21,10 +21,10 @@ To complete the assignment, please do the following:
 URLもどうぞ！
 
 # List of Streamer 
+- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 - Hikakin mania
 - Montana Black
 - SugarZ3ro
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
-- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
