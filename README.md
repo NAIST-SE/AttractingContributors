@@ -20,4 +20,21 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Attracting Instruction Set Architecture (ISA)
+Tell me your favorite Instruction Set Architecture(ISA)!!!
+
+It can be anything! And if you have a URL that shows ISA features, please include it.
+
+By the way, I love RISC-V.
+
+# List of ISA
+- RISC-V
+- X86-64
+- IA-32
+- IA-64
+- ARM
+- MIPS
+- PowerPC
+- SPARC
+- VAX
+- 68000
