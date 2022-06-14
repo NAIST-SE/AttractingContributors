@@ -25,3 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 (Please tell me your favourite smart phone application!)
 
 1. Steam
+2. ピッコマ
+3. 
