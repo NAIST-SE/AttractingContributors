@@ -30,6 +30,7 @@ Please let us know which chain restaurant you frequent most often.
 - ジョイフル  
 - Joyfull
 - sukiya
+- ドトール
 - Kura sushi
 - Mcdonald's
 - Yoshinoya
