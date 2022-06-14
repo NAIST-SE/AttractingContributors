@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # Example. 
 あなたのこどもにつけたいと思う名前を教えて下さい。
 男の子、女の子問わないです。
-# List of Hobby
+# List of child name
 - takuma
 - Takuma
 - Keitora
@@ -31,3 +31,4 @@ To complete the assignment, please do the following:
 - Yu
 - Kazuki
 - Sojiro
+- Hikari
