@@ -23,8 +23,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 Please tell me your favorite MUSICIAN(including band). I wanna know a whole new world.  
 - Nujabes  
-- FLOW
-- Nirvana
-- Haruy
-- ぐっさん
-- 
+- FLOW  
+- Nirvana  
+- Haruy  
+- ぐっさん  
+- Noriyuki Makihara  
+- UVERWorld  
+- Alexandros  
+
