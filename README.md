@@ -23,4 +23,4 @@ I want to know what kind of animals or pets do you love.
 Please let me know!
 
 # List
-1. 
+1. Parrot
