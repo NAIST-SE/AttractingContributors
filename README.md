@@ -24,4 +24,8 @@ To complete the assignment, please do the following:
 - Keitora
 - HIROKI
 - Baki
-
+- yuki
+- 無糖
+- SHOTA
+- Yu
+- Kazuki
