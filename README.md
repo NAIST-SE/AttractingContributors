@@ -25,6 +25,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - 例:Apple
 - ASUS
 - AMD
-- Apple
+- Intel最高！
 - Lenovo
 - Huawei  
