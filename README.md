@@ -32,4 +32,5 @@ Please let us know which chain restaurant you frequent most often.
 - sukiya
 - Kura sushi
 - Mcdonald's
+- Lawson
 - Yoshinoya
