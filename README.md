@@ -27,3 +27,4 @@ URLもどうぞ！
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
+- StylishNoob https://www.twitch.tv/stylishnoob4
