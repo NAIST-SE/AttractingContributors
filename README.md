@@ -27,3 +27,4 @@ URLもどうぞ！
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
+- 高田健志
