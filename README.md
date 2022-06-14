@@ -2,4 +2,5 @@
 
 # List of Movies
  - Weathering with you
+ - Shin Godzilla
  - Summer Wars
