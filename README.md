@@ -22,3 +22,5 @@ Please vote your favourite anime following lists
 9.Others
 
 Please add your favourite anime below!
+
+10.Hikaru no Go
