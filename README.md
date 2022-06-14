@@ -28,6 +28,8 @@ To complete the assignment, please do the following:
   - Reason: Twitter is my life.
 - Instagram
   - Reason: There are beautiful and scenic pictures and we can become "Yokya" by use it.
+- LINE
+  - Reason: LINE makes me happy
 - Twitter
   - Reason: No twitter No life
 - Teams 
@@ -36,5 +38,6 @@ To complete the assignment, please do the following:
   - Reason: Used by people of all ages in Japan.
 - Discord
   - Reason: To talk my friends.
+
 
 
