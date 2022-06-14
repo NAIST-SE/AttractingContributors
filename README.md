@@ -30,7 +30,14 @@ Please let us know which chain restaurant you frequent most often.
 - ジョイフル  
 - Joyfull
 - sukiya
+- ドトール
 - Kura sushi
 - Mcdonald's
+- Lawson
 - Yoshinoya
 - Hanamaru udon
+- バーミヤン
+- なか卵
+- Baskin Robbins
+- サイゼリア
+
