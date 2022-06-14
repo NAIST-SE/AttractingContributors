@@ -24,3 +24,5 @@ Here I list my favorite players.
 
 # List of Pros
 - Aceu (Apex Legends)
+- YaphetS (DotA)
+- 820 (DotA)
