@@ -23,6 +23,7 @@ To complete the assignment, please do the following:
 - Takuma
 - Keitora
 - HIROKI
+- SHOTA
 - Yu
 - Kazuki
 
