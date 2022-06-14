@@ -25,4 +25,7 @@ Goal - I want contributors to help me list some favorite programing language
 
 # List of programming language
 1. TypeScript
-2. swift
+
+2. C++
+3. swift
+
