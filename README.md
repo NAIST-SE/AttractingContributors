@@ -27,3 +27,4 @@ Please let us know which chain restaurant you frequent most often.
 
 # List of chain restaurant
 ・Starbucks Coffee 
+Yoshinoya
