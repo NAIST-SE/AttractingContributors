@@ -27,5 +27,7 @@ Please let us know which chain restaurant you frequent most often.
 
 # List of chain restaurant
 - Starbucks Coffee 
+- sukiya
+- Starbucks Coffee 
 - Kura sushi
 - Mcdonald's
