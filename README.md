@@ -15,5 +15,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # List of Proverbs or Saying
-Eclipse first, the rest nowhere. (唯一抜きん出て並ぶ者なし)
-過ちて改めざる、これを過ちという。
+- Eclipse first, the rest nowhere. (唯一抜きん出て並ぶ者なし)
+- 過ちて改めざる、これを過ちという。
+- Hakuna Matata
