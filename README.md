@@ -33,3 +33,5 @@ Please let us know which chain restaurant you frequent most often.
 - Kura sushi
 - Mcdonald's
 - Yoshinoya
+
+- Baskin Robbins
