@@ -27,3 +27,5 @@ Here I list my favorite players.
 - YaphetS (DotA)
 - 820 (DotA)
 - Dep (Overwatch, VALORANT)
+- とれいん (Mario Kart)
+
