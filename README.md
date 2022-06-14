@@ -30,3 +30,4 @@ To complete the assignment, please do the following:
 - SHOTA
 - Yu
 - Kazuki
+- Sojiro
