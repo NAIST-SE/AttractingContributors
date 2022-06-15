@@ -11,6 +11,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 # Tell me your favorite Manga!
 あなたの好きな漫画を教えてください。
 どんなジャンルでもOKです！
+
 Please tell me your favorite Manga.
 Any genre is fine with me!
 
