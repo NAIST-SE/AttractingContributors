@@ -18,6 +18,8 @@ To complete the assignment, please do the following:
 # Tell me your favorite Manga!
 あなたの好きな漫画を教えてください。
 どんなジャンルでもOKです！
+Please tell me your favorite Manga.
+Any genre is fine with me!
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
