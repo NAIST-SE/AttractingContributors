@@ -24,3 +24,8 @@ URLもどうぞ！
 - Hikakin mania
 - Montana Black
 - Otaku ch.
+- Asaono Keitora
+- SugarZ3ro
+- つきのみと
+- 小倉唯
+- vodka https://www.twitch.tv/vodkavdk
