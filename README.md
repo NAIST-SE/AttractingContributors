@@ -10,27 +10,25 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Requirements
 To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
+1. Fork this project and then rename the title to your hobby.
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-あなたのこどもにつけたいと思う名前を教えて下さい。
-男の子、女の子問わないです。
-# List of child name
-- takuma
-- Takuma
-- Keitora
-- HIROKI
-- サー・クロコダイル
-- Baki
-- yuki
-- 無糖
-- SHOTA
-- Yu
-- Kazuki
-- Sojiro
-- Hikari
-- Potohu
-- Yui
+# Tell me the name of your favorite Ramen shop
+What is the name of the noodle shop you recommend?<br>
+お勧めのラーメン屋の名前を教えてください．<br>
+チェーン店でも大丈夫です．<br>
+
+# List of Ramen Shop Name
+(Example) Toichi（と市）
+- 夢を語れ奈良　　奈良市
+- Ittyoume(壱丁目)
+- まりお流
+- Tenichi
+- はなやま
+- Ichiran
+- やまひで
+- Joroku（丈六）, Namba
+- 元喜神
+- ジャン哲
