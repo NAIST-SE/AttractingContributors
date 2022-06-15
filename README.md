@@ -23,3 +23,4 @@ Please vote your favourite Manga following lists
 2. LIAR GAME
 3. 寄生獣
 4. ドラえもん
+5. ヒカルの碁
