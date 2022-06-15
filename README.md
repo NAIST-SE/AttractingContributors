@@ -33,6 +33,7 @@ URLもどうぞ！
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
+- 吉田製作所
 - TOP4
 - 兄者弟者
 - 素揚げチャンネル　https://www.youtube.com/channel/UC2fZuN9pICpg5yCAE0xA9AQ
