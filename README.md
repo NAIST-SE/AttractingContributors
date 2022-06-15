@@ -20,3 +20,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please vote your favourite Manga following lists 
 1. HunterXHunter
 2. LIAR GAME
+3. 寄生獣
