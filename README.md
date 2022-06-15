@@ -15,29 +15,27 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Attracting favorite Streamer
-あなたの好きな動画配信者を教えてください.</br>
-どんなジャンルでも結構です.</br>
-URLもどうぞ！
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Streamer 
-- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
-- Hikakin mania
-- Montana Black
-- Amelia Watson
-- GuraGawr
-- ダイアン津田  
-- Otaku ch.
-- Asaono Keitora
-- SugarZ3ro
-- つきのみと
-- 小倉唯
-- vodka https://www.twitch.tv/vodkavdk
-- 高田健志
-- StylishNoob https://www.twitch.tv/stylishnoob4
-- キヨ（Kiyo）
-- しゅうゲームズ
-- 吉田製作所
-- TOP4
-- 兄者弟者
-- 素揚げチャンネル　https://www.youtube.com/channel/UC2fZuN9pICpg5yCAE0xA9AQ
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Music Artists
+- (example) Metallica
+- Totaka Kazumi
+- Nhato
+- Farid Bang
+- Hikaru Utada
+- Utada Hikaru
+- Suchmos
+- Alexandros
+- FLOW
+- Nujabes
+- YOASOBI
+- OrangeStar
+- Mrs. GREEN APPLE
+- Nishikawa Takanori
+- YoruShika
+- =LOVE
+- Susumu Hirasawa 
+- Official Higedan dism
