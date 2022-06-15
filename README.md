@@ -22,4 +22,5 @@ To complete the assignment, please do the following:
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Manga
+Please vote your favourite Manga following lists 
 1. HunterXHunter
