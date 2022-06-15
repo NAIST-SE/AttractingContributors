@@ -16,18 +16,21 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of PC manufacturer
-あなたの好きなPCメーカーを教えてください。</br>
-- 例:Apple
-- Apple
-- ASUS
-- AMD
-- Intel最高！
-- Lenovo
-- Huawei  
-- VAIO
-- Lenovo
+あなたのこどもにつけたいと思う名前を教えて下さい。
+男の子、女の子問わないです。
+# List of child name
+- takuma
+- Takuma
+- Keitora
+- HIROKI
+- サー・クロコダイル
+- Baki
+- yuki
+- 無糖
+- SHOTA
+- Yu
+- Kazuki
+- Sojiro
+- Hikari
+- Potohu
+- Yui
