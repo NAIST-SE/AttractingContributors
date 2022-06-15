@@ -21,10 +21,21 @@ To complete the assignment, please do the following:
 URLもどうぞ！
 
 # List of Streamer 
+- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 - Hikakin mania
 - Montana Black
+- Amelia Watson
+- GuraGawr
+- ダイアン津田  
+- Otaku ch.
+- Asaono Keitora
 - SugarZ3ro
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
 - キヨ（Kiyo）
+- しゅうゲームズ
+- 吉田製作所
+- TOP4
+- 兄者弟者
+- 素揚げチャンネル　https://www.youtube.com/channel/UC2fZuN9pICpg5yCAE0xA9AQ
