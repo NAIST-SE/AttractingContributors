@@ -21,6 +21,7 @@ To complete the assignment, please do the following:
 URLもどうぞ！
 
 # List of Streamer 
+- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 - Hikakin mania
 - Montana Black
 - Amelia Watson
