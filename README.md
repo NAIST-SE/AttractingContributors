@@ -6,4 +6,8 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 
 # List of favorite characters
 1. Joel Miller (The Last of Us)
-2. Akemi Homura (魔法少女　まどか☆マギカ)
+2. Jax(League of Legends)
+3. Tony Stark (The Iron Man)
+4. Johnny Depp (The Pirate of Carribean)
+5. Akemi Homura (魔法少女　まどか☆マギカ)
+
