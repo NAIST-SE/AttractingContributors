@@ -23,6 +23,8 @@ URLもどうぞ！
 # List of Streamer 
 - Hikakin mania
 - Montana Black
+- Amelia Watson
+- GuraGawr
 - ダイアン津田  
 - Otaku ch.
 - Asaono Keitora
