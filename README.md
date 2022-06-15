@@ -2,7 +2,6 @@
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -28,4 +27,5 @@ Here I list my favorite players.
 - 820 (DotA)
 - Dep (Overwatch, VALORANT)
 - とれいん (Mario Kart)
+- JerAx (DotA)
 
