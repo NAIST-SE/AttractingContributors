@@ -27,5 +27,5 @@ Here I list my favorite players.
 - 820 (DotA)
 - Dep (Overwatch, VALORANT)
 - とれいん (Mario Kart)
+- noppo(CS1.6)
 - JerAx (DotA)
-
