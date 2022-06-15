@@ -17,7 +17,10 @@ To complete the assignment, please do the following:
 
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
+あなたの好きな漫画を教えてください。
+どんなジャンルでもOKです！
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+•One Piece
