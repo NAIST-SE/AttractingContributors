@@ -22,13 +22,4 @@ To complete the assignment, please do the following:
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Manga
-1.HunterXHunter
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. HunterXHunter
