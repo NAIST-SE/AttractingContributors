@@ -22,5 +22,5 @@ To complete the assignment, please do the following:
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Manga
-•One Piece
+•One Piece 
 •HunterXHunter
