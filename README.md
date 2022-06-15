@@ -25,3 +25,10 @@ URLもどうぞ！
 - Montana Black
 - Amelia Watson
 - GuraGawr
+- ダイアン津田  
+- Otaku ch.
+- Asaono Keitora
+- SugarZ3ro
+- つきのみと
+- 小倉唯
+- vodka https://www.twitch.tv/vodkavdk
