@@ -33,6 +33,7 @@ URLもどうぞ！
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
+- キヨ（Kiyo）
 - しゅうゲームズ
 - 吉田製作所
 - TOP4
