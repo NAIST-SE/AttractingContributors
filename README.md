@@ -21,3 +21,10 @@ Please tell me your favorite sport.
 - Badminton
 - Cycling
 - Tracking (semi-hiking, e.g. walking on mountain wakakusa)
+-Mini basketball
+-Basketball
+-Basketball
+-swimming
+-volleyball
+-football
+- tennis
