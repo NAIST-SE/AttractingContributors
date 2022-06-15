@@ -20,22 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Music Artists
-- (example) Metallica
-- Totaka Kazumi
-- Nhato
-- Farid Bang
-- Hikaru Utada
-- Utada Hikaru
-- Suchmos
-- Alexandros
-- FLOW
-- Nujabes
-- YOASOBI
-- OrangeStar
-- Mrs. GREEN APPLE
-- Nishikawa Takanori
-- YoruShika
-- =LOVE
-- Susumu Hirasawa 
-- Official Higedan dism
+# List of PC manufacturer
+あなたの好きなPCメーカーを教えてください。</br>
+- 例:Apple
+- Apple
+- ASUS
+- AMD
+- Intel最高！
+- Lenovo
+- Huawei  
+- VAIO
+- Lenovo
