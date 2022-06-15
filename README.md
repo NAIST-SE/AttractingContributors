@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Carbonara
 4. からあげ
 5. Motsunabe
+6. ra-men
