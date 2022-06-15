@@ -23,6 +23,7 @@ URLもどうぞ！
 # List of Streamer 
 - Hikakin mania
 - Montana Black
+- ダイアン津田  
 - Otaku ch.
 - Asaono Keitora
 - SugarZ3ro
