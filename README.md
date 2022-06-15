@@ -23,8 +23,14 @@ URLもどうぞ！
 # List of Streamer 
 - Hikakin mania
 - Montana Black
+- Amelia Watson
+- GuraGawr
+- ダイアン津田  
+- Otaku ch.
+- Asaono Keitora
 - SugarZ3ro
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
 - 兄者弟者
+- 素揚げチャンネル　https://www.youtube.com/channel/UC2fZuN9pICpg5yCAE0xA9AQ
