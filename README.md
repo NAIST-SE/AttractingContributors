@@ -33,6 +33,7 @@ URLもどうぞ！
 - つきのみと
 - 小倉唯
 - vodka https://www.twitch.tv/vodkavdk
+- StylishNoob https://www.twitch.tv/stylishnoob4
 - キヨ（Kiyo）
 - しゅうゲームズ
 - 吉田製作所
