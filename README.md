@@ -23,6 +23,8 @@ Please vote your favourite anime following lists
 
 10.xxxHOLiC
 
+10.Naruto
+
 Please add your favourite anime below!
 
 10.Hikaru no Go
