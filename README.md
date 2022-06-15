@@ -10,4 +10,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 3. Tony Stark (The Iron Man)
 4. Johnny Depp (The Pirate of Carribean)
 5. Akemi Homura (魔法少女　まどか☆マギカ)
-
+6. Yu Takasaki (Love Live!)
