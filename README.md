@@ -21,3 +21,4 @@ Please vote your favourite Manga following lists
 1. HunterXHunter
 2. LIAR GAME
 3. 寄生獣
+4. ドラえもん
