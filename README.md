@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # 好きな食べ物, your favorite food
 1. sushi
 2. tempura
-3. Motsunabe
+3. からあげ
+4. Motsunabe
