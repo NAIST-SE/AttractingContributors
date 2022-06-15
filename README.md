@@ -24,4 +24,5 @@ Please vote your favourite Manga following lists
 3. 寄生獣
 4. ドラえもん
 5. ヒカルの碁
-6. ブラックアリス
+6. 静かなるドン
+7. ブラックアリス
