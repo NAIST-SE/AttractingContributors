@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. sushi
 2. tempura
 3. からあげ
+4. Motsunabe
