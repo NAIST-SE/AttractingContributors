@@ -13,3 +13,4 @@ Please let me know about your laboratory in NAIST. あなたのNAISTの研究室
 - Interactive Media Design Lab.
 - Optical Media Interface Lab.
 - Cybernetics and Reality engineering Lab.
+- Social Computing Lab.
