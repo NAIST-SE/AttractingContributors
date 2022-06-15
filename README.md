@@ -14,8 +14,18 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# List of Proverbs or Saying
-- Eclipse first, the rest nowhere. (唯一抜きん出て並ぶ者なし)
-- 過ちて改めざる、これを過ちという。
-- Hakuna Matata
-- 美しい花には棘がある
+# Attracting game players
+I want contributors to help me list your favorite Professional players(Any game/team/club is OK!).
+Here I list my favorite players.
+1. Xiaohu(League of Legends)
+2. Gala(League of Legends)
+3. ZywOo(Counter Strike Global Offensive)
+
+# List of Pros
+- Aceu (Apex Legends)
+- YaphetS (DotA)
+- 820 (DotA)
+- Dep (Overwatch, VALORANT)
+- とれいん (Mario Kart)
+- JerAx (DotA)
+
