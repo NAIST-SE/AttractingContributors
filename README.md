@@ -19,3 +19,13 @@ To complete the assignment, please do the following:
 Please tell me your favorite sport.
 -Basketball
 -football 
+- Badminton
+- Cycling
+- Tracking (semi-hiking, e.g. walking on mountain wakakusa)
+-Mini basketball
+-Basketball
+-Basketball
+-swimming
+-volleyball
+-football
+- tennis
