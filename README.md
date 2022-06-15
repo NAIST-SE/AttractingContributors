@@ -22,5 +22,13 @@ To complete the assignment, please do the following:
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Manga
-•One Piece 
-•HunterXHunter
+1.One Piece 
+2.HunterXHunter
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
