@@ -7,3 +7,5 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 # List of favorite characters
 1. Joel Miller (The Last of Us)
 2. Jax(League of Legends)
+3. Tony Stark (The Iron Man)
+
