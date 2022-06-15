@@ -19,7 +19,7 @@ Please vote your favourite anime following lists
 
 8.Attack on Titan
 
-9.Others
+9.Days
 
 10.xxxHOLiC
 
