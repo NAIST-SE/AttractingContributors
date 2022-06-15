@@ -11,3 +11,4 @@ Robot Learning Lab.
 Ubiquitous Computing System Lab.
 Network Systems Lab,too.
 Interactive Media Design Lab.
+Optical Media Interface Lab
