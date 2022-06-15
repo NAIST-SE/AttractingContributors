@@ -18,5 +18,6 @@ To complete the assignment, please do the following:
 # List of Hobby
 Please tell me your favorite sport.
 -Basketball
+-swimming
 -volleyball
 -football
