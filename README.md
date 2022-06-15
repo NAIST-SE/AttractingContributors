@@ -16,7 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
 あなたの好きな漫画を教えてください。
 どんなジャンルでもOKです！
 
