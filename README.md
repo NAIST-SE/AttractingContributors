@@ -19,3 +19,7 @@ To complete the assignment, please do the following:
 Please tell me your favorite sport.
 -Mini basketball
 -Basketball
+-Basketball
+-swimming
+-volleyball
+-football
