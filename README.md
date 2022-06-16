@@ -16,8 +16,11 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Thanks for visiting this repository!
+I would like to know what your favorite spots in Nara.
+Because, my international student friend needs informations.
+I would be very happy to receive information about good restaurants and cafes.
+If you help my project, please add your favorite spot in Nara into the List of Hobby.
+Thank you for your cooperation.
 
 # List of Hobby
