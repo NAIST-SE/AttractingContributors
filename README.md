@@ -30,4 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Lenovo
 - Huawei  
 - VAIO
+- MSI
 - Hp
