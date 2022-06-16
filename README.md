@@ -13,5 +13,6 @@ Please vote your favourite celebrity following lists
 - 川島明
 - 霜降り明星 せいや
 - GACKT
+- 佐久間宣行
 - 二宮和也
 
