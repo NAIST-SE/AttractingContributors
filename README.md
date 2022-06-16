@@ -12,3 +12,4 @@ Please vote your favourite celebrity following lists
 - もう中学生
 - 川島明
 - 霜降り明星 せいや
+- GACKT
