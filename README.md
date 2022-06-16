@@ -15,9 +15,26 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(My Favorite Video Games).
+Let us know what games you like to play.
+It doesn't matter what genre, so feel free to send us anything!
+if you help my project, pls add your favorite video game into the List of Hobby with its link . for example
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+・Final Fantasy XIV
+
+あなたの好きなゲームを教えてください。
+ジャンルは問わないので何でも気軽に送ってください！！
+もし、私のプロジェクトに協力していただけるなら、あなたの好きなビデオゲームを趣味のリストに追加してください。
+例
+
+・Final Fantasy XIV
+
 
 # List of Hobby
+- Pokemon serie
+・クロノトリガー
+・Valorant
+- Cave Story
+- サルゲッチュ
+- もぎたてチンクル
+- Smash Bros.
