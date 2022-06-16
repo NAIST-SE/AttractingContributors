@@ -8,7 +8,8 @@ Please tell me your favorite TV show.
 Any genre is fine with me!
 
 # List of celebrity
-Please vote your favourite celebrity following lists 
+Please vote your favourite celebrity following lists
 - もう中学生
 - 川島明
 - 霜降り明星 せいや
+- 二宮和也
