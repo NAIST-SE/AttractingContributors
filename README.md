@@ -15,20 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-Thanks for visiting this repository!<br><br>
+# My Project(My Favorite Video Games).
+Let us know what games you like to play.
+It doesn't matter what genre, so feel free to send us anything!
+if you help my project, pls add your favorite video game into the List of Hobby with its link . for example
 
-I would like to know what your favorite spots in Nara.<br>
-あなたの奈良のおすすめスポットが知りたいです！
-<br><br>
+・Final Fantasy XIV
 
-Especially, I would be very happy to receive information about good restaurants and cafes.<br>
-特に、おいしいレストランやカフェの情報を教えてもらえると嬉しいです！
-<br><br>
+あなたの好きなゲームを教えてください。
+ジャンルは問わないので何でも気軽に送ってください！！
+もし、私のプロジェクトに協力していただけるなら、あなたの好きなビデオゲームを趣味のリストに追加してください。
+例
 
-If you help my project, please add your favorite spot in Nara into the List of Hobby.<br>
-もし、このプロジェクトにご協力いただけるなら、あなたのお気に入りの奈良県内のスポットを「List of Hobby」に追加してください。<br><br>
-
-Thank you for your cooperation.<br>
+・Final Fantasy XIV
 
 # List of Hobby
+
+- Pokemon series
