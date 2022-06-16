@@ -28,6 +28,9 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 例
 
 ・Final Fantasy XIV
+・クロノトリガー
 
 # List of Hobby
 - Cave Story
+- もぎたてチンクル
+- Smash Bros.
