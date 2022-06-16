@@ -25,4 +25,5 @@ Please vote your favourite Manga following lists
 4. ドラえもん
 5. ヒカルの碁
 6. 静かなるドン
-7. ブラックアリス
+7. セトウツミ
+8. ブラックアリス
