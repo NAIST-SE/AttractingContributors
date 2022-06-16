@@ -29,3 +29,5 @@ Here I list my favorite players.
 - とれいん (Mario Kart)
 - noppo(CS1.6)
 - JerAx (DotA)
+- Nuguri(League of Legends)
+- The shy(League of Legends)
