@@ -31,6 +31,6 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 ・クロノトリガー
 
 # List of Hobby
+- Cave Story
 - もぎたてチンクル
 - Smash Bros.
-
