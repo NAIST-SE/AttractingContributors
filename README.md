@@ -33,5 +33,6 @@ To complete the assignment, please do the following:
 - Sojiro
 - Hikari
 - Potohu
+- Takuko
 - Yui
 - Rei
