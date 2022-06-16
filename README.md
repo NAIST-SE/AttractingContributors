@@ -15,16 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# My Project (Chinses-star-collection)
+Goal - I want contributors to introduce some favorite Chinese stars(actor,actress,idol,singer...).
 
-# List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
-6. World Trigger
-7. BLEACH
-8. Serial Experiments Lain
-9. PoketMon
+# List of Chinese star.
+1. Xiao Zhan
+2. Wang Yibo
+3. Chen Zhuoxuan
+4. Cheng Long
+5. Liu Yifei
+6. Liu Shishi
+7. Yang Mi
+8. Zhou Xun
+9. Zhou Xingchi
