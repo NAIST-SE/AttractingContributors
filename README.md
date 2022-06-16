@@ -34,3 +34,4 @@ To complete the assignment, please do the following:
 - Hikari
 - Potohu
 - Yui
+- Rei
