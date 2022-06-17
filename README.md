@@ -20,6 +20,7 @@ Please tell me your favorite place.
 Anywhere is OK if you love.
 
 # List of Hobby
+- hutami sea side park
 - Shinsekai
 -Takachiho Gorge
 - 直島
