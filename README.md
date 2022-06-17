@@ -30,9 +30,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Lenovo
 - Huawei  
 - VAIO
-<<<<<<< patch-11
 - SONY
-=======
 - MSI
 - Hp
->>>>>>> main
+
