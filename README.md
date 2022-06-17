@@ -22,3 +22,8 @@ Anywhere is OK if you love.
 # List of Hobby
 - Osaka Kaiyukan
 - Tsurumi Ryokuchi garden
+- Singapore
+- hutami sea side park
+- Shinsekai
+-Takachiho Gorge
+- 直島
