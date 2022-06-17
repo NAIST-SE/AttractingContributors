@@ -37,3 +37,4 @@ To complete the assignment, please do the following:
 - Yui
 - Rei
 - iruson
+- 魔王
