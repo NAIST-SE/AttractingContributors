@@ -20,4 +20,25 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Topic
+Please let us know which chain restaurant you frequent most often.
+
+あなたがよく利用するチェーン経営しているお店を教えてください。
+
+# List of chain restaurant
+- Starbucks Coffee 
+- ジョイフル  
+- Joyfull
+- sukiya
+- ドトール
+- Kura sushi
+- Mcdonald's
+- Lawson
+- Yoshinoya
+- burger king
+- Hanamaru udon
+- バーミヤン
+- なか卵
+- Baskin Robbins
+- サイゼリア
+
