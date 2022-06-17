@@ -20,6 +20,8 @@ Please tell me your favorite place.
 Anywhere is OK if you love.
 
 # List of Hobby
+- Osaka Kaiyukan
+- Tsurumi Ryokuchi garden
 - Singapore
 - hutami sea side park
 - Shinsekai
