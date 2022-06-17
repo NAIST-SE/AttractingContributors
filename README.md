@@ -20,6 +20,7 @@ To complete the assignment, please do the following:
 
 # What SNS do you use most often? (And the reason)
 
+
 あなたが普段使っている SNS を教えてください！
 よければ理由も！
 
@@ -46,3 +47,12 @@ To complete the assignment, please do the following:
   - Reason: To talk my friends.
 - Discord
   - Reason: to play pc game with friends
+- Line
+  - Reason: Used by people of all ages in Japan.
+- Discord
+  - Reason: To talk my friends.
+- Slack
+  - Reason: Beautiful GUI (mochimochi)
+-Tiktok
+  - Reason: Make a Friends
+
