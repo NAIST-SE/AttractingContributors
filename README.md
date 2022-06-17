@@ -15,9 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project (Favorite Musics Playlist)
+In this project, I invite you to help me create a playlist of musics, regardless of genre, regardless of language. I really like listening to music, I listen to most genres of music, and discovering new genres through a project will be very interesting. Please add your favorite music from the list below. for example :
+**Kai - Malad**
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Musics
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
