@@ -3,6 +3,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # What is your favourite anime 
 Please add your favourite anime below!
+好きなアニメを教えてください
 
 1.Days
 
