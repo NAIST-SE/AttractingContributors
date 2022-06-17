@@ -14,3 +14,6 @@ Please add your favourite anime below!
 4.Hikaru no Go
 
 5. evangelion
+6. 
+7. 約束のネバーランド
+
