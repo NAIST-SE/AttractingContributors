@@ -44,5 +44,6 @@ To complete the assignment, please do the following:
   - Reason: Used by people of all ages in Japan.
 - Discord
   - Reason: To talk my friends.
-
+-Tiktok
+  - Reason: Make a Friends
 
