@@ -36,3 +36,4 @@ To complete the assignment, please do the following:
 - Takuko
 - Yui
 - Rei
+- 魔王
