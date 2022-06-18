@@ -21,14 +21,13 @@ In this project, I invite you to help me create a playlist of musics, regardless
 
 
 # List of Musics
-
-1) Missing You - Nhato Ft.蒼姫ラピス
-2) 奏　- 全力少年
-3) Video Killed the Radio Star - The Buggles
-4) LOVE DIVE - IVE
-5)
-6)
-7)
-8)
-9)
-10)
+1) Missing You - Nhato Ft.蒼姫ラピス. 
+2) 奏　- 全力少年. 
+3) Video Killed the Radio Star - The Buggles. 
+4) This is My Now Lyrics - Jordin Sparks.
+5) LOVE DIVE - IVE          
+6)    
+7) 
+8) 
+9) 
+10) 水星 -MARY. 
