@@ -27,7 +27,7 @@ In this project, I invite you to help me create a playlist of musics, regardless
 4) This is My Now Lyrics - Jordin Sparks.
 5) LOVE DIVE - IVE          
 6) Bunda - Melly Goeslaw
-7) 
+7) Hello - Adele
 8) 
 9) 
 10) 水星 -MARY. 
