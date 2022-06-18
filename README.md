@@ -26,11 +26,11 @@ In this project, I invite you to help me create a playlist of musics, regardless
 2) 奏　- 全力少年. 
 3) Video Killed the Radio Star - The Buggles. 
 4) This is My Now Lyrics - Jordin Sparks.\
-5).\             
-6).\    
-7).\ 
-8).\ 
-9).\ 
+5)             
+6)    
+7) 
+8) 
+9) 
 10) 水星 -MARY. 
 
 
