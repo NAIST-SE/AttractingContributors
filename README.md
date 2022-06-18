@@ -23,7 +23,7 @@ In this project, I invite you to help me create a playlist of musics, regardless
 # List of Musics
 
 1) Missing You - Nhato Ft.蒼姫ラピス
-2)
+2) 奏　- 全力少年
 3)
 4)
 5)
