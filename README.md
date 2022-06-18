@@ -26,7 +26,7 @@ In this project, I invite you to help me create a playlist of musics, regardless
 3) Video Killed the Radio Star - The Buggles. 
 4) This is My Now Lyrics - Jordin Sparks.
 5) LOVE DIVE - IVE          
-6)    
+6) Bunda - Melly Goeslaw
 7) 
 8) 
 9) 
