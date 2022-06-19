@@ -9,6 +9,12 @@ Please let me know about your laboratory in NAIST. あなたのNAISTの研究室
 - Software Engineering Lab.
 - Robot Learning Lab.
 - Ubiquitous Computing System Lab.
+- Network Systems Lab,too.
+- Interactive Media Design Lab.
+- Network Systems Lab.
+- Software Engineering Lab.
+- Robot Learning Lab.
+- Ubiquitous Computing System Lab.
 - Network Systems Lab.
 - Interactive Media Design Lab.
 - Optical Media Interface Lab.
