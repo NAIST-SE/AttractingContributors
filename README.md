@@ -31,3 +31,4 @@ Here I list my favorite players.
 - JerAx (DotA)
 - Nuguri(League of Legends)
 - The shy(League of Legends)
+- TenZ (VALORANT, ex of CSGO)
