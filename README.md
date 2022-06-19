@@ -14,3 +14,5 @@ Please let me know about your laboratory in NAIST. あなたのNAISTの研究室
 - Optical Media Interface Lab.
 - Cybernetics and Reality engineering Lab.
 - Social Computing Lab.
+- Imaging-based Computational Biomedicine
+- Human Robotics Lab
