@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. PayPay
 3. Amazon
 4. ピッコマ
+5. God Field
