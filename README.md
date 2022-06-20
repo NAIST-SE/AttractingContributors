@@ -22,4 +22,5 @@ What is your favorite city?  Please tell me.
 Thank you for your cooperation.
 
 # List of Hobby
-Shanghai
+1. Shanghai
+1. Wakayama
