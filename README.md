@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. ピッコマ
 5. God Field
 6. radiko
+7. Netflix
