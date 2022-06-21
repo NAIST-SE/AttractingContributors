@@ -38,3 +38,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 12. Line
 13. Facebook
 14. Twitter
+15. SLACK
