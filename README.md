@@ -31,3 +31,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. God Field
 6. radiko
 7. Netflix
+8. Alipay
+9. Yahoo!
+10. Paypal
+11. Google map
