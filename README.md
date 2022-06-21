@@ -39,3 +39,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 13. Facebook
 14. Twitter
 15. SLACK
+16. Google Pay
+17. UNiDAYS
