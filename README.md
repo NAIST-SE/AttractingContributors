@@ -20,4 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of app
+
+(Please tell me your favourite smart phone application!)
+
+1. Steam
+2. PayPay
+3. Amazon
+4. ピッコマ
+5. God Field
+6. radiko
+7. Netflix
