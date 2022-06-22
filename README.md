@@ -33,3 +33,5 @@ Here I list my favorite players.
 - The shy(League of Legends)
 - TenZ (VALORANT, ex of CSGO)
 - S1mple (CSGO)
+- KennyS (VALORANT, ex of CSGO)
+- OTTO (League of Legends)
