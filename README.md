@@ -32,3 +32,4 @@ Here I list my favorite players.
 - Nuguri(League of Legends)
 - The shy(League of Legends)
 - TenZ (VALORANT, ex of CSGO)
+- S1mple (CSGO)
