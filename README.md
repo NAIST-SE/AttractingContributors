@@ -15,9 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project (Favorite Musics Playlist)
+In this project, I invite you to help me create a playlist of musics, regardless of genre, regardless of language. I really like listening to music, I listen to most genres of music, and discovering new genres through a project will be very interesting. Please add your favorite music from the list below. for example :
+**Kai - Malad**
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Musics
+1) Missing You - Nhato Ft.蒼姫ラピス. 
+2) 奏　- 全力少年. 
+3) Video Killed the Radio Star - The Buggles. 
+4) This is My Now Lyrics - Jordin Sparks.
+5) LOVE DIVE - IVE          
+6) Bunda - Melly Goeslaw
+7) Hello - Adele
+8) Voice - Superfly
+9) 桜坂　- 福山雅治
+10) 水星 -MARY. 
+11) Dr. Peacock & Sefa - This Life is Lost
