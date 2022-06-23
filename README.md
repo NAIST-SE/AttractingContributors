@@ -23,3 +23,4 @@ Thank you for your cooperation.
 
 # List of Hobby
 Shanghai
+Hakone
