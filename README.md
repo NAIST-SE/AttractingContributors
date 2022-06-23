@@ -23,9 +23,9 @@ Thank you for your cooperation.
 
 # List of Hobby
 
-Shanghai
+1.Shanghai
 
-Hakone 
+2.Hakone 
 
-Wakayama
+3.Wakayama
 
