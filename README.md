@@ -4,7 +4,7 @@ Please write a name of your favorite game console. Everything OK!<br>
 
 # How to（やり方）
 1. Click README.md
-2. Edit the file
+2. Edit the file(Click the pen mark)
 3. Click "Commit changes..." buttom
 4. Click "Pull request" buttom
 
