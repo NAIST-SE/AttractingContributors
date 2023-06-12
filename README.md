@@ -16,12 +16,12 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Buzzwords-collection)
-
+https://github.com/KKKKKXY/AttractingContributors_Buzzwords
+<br>
 Goal - I want contributors to help me list some recent buzzwords in your country that you are interesting (in your native language, it is better if you add the explanation in English).
 Tips: there is a example below
 
-# GitHub & Discussion
-https://github.com/KKKKKXY/AttractingContributors_Buzzwords
+# Discussion
 https://github.com/NAIST-SE/AttractingContributors/discussions/828
 
 # List of Buzzwords
