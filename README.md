@@ -22,9 +22,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Sports
 1. I like basketball (githubid: KKKKKXY)
-2. football
-3. 
-4. 
+2. tennis
+3. soft-tennis
+4. football
 5. 
 6. 
 7. 
