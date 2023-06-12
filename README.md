@@ -22,5 +22,7 @@ Goal: I am a music lover. My favourite genres are r&b and pops.
 
 # List of Music
 1. 浪漫血液
-2. Surround Sound - 21 Savage - (githubid: KKKKKXY)
-3. sunameri smoke
+2. Yoasobi
+3. Surround Sound - 21 Savage - (githubid: KKKKKXY)
+4. sunameri smoke
+
