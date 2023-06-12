@@ -17,7 +17,7 @@ To complete the assignment, please do the following:
 
 # Example. 
 - Chess
-  - Your Name
+  - Your id (like satoshi-2000)
   - Why you choose
 
 # List of board game you like
