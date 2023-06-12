@@ -25,7 +25,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. tennis
 3. soft-tennis
 4. football
-5. 
+5. baseball
 6. 
 7. 
 8. 
