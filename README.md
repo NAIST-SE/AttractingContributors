@@ -21,7 +21,7 @@ Goal-I want contributors to help me list some favorite books.
 # List of Favorite Book
 1. The Kingkiller Chronicle
 2. 君の膵臓が食べたい
-3.
+3. Introduction to Linear Algebra
 4.
 5.
 6.
