@@ -20,10 +20,20 @@ https://github.com/KKKKKXY/AttractingContributors_Buzzwords
 <br>
 Goal - I want contributors to help me list some recent buzzwords in your country that you are interesting (in your native language, it is better if you add the explanation in English).
 Tips: there is a example below
+0. 哈基米(pinyin -> ha ji mi): This buzzword comes from the little song that Tokai Teio hums when she goes out to buy her favorite honey special drink in the anime "Umamusume: Pretty Derby". After adaptation, it is often used as background music for cute cat videos.
 
 # Discussion
 https://github.com/NAIST-SE/AttractingContributors/discussions/828
 
 # List of Buzzwords
-1. 哈基米(pinyin -> ha ji mi): This buzzword comes from the little song that Tokai Teio hums when she goes out to buy her favorite honey special drink in the anime "Umamusume: Pretty Derby". After adaptation, it is often used as background music for cute cat videos.
+1. 
 2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
