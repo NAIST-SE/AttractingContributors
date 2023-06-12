@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. I like basketball (githubid: KKKKKXY)
 2. tennis
 3. soft-tennis
-4. 
+4. football
 5. 
 6. 
 7. 
