@@ -10,4 +10,5 @@ Please tell us your "Oshi"!
 # List of Hobby
 - 天王州アテネ/ハヤテのごとく！
 - Liyuu/Liella!
+- 幾田りら/YOASOBI
 
