@@ -20,7 +20,4 @@ To complete the assignment, please do the following:
   - Your Name
   - Why you choose
 
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
 # List of board game you like
