@@ -2,7 +2,6 @@
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -15,9 +14,24 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Attracting game players
+I want contributors to help me list your favorite Professional players(Any game/team/club is OK!).
+Here I list my favorite players.
+1. Xiaohu(League of Legends)
+2. Gala(League of Legends)
+3. ZywOo(Counter Strike Global Offensive)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Pros
+- Aceu (Apex Legends)
+- YaphetS (DotA)
+- 820 (DotA)
+- Dep (Overwatch, VALORANT)
+- とれいん (Mario Kart)
+- noppo(CS1.6)
+- JerAx (DotA)
+- Nuguri(League of Legends)
+- The shy(League of Legends)
+- TenZ (VALORANT, ex of CSGO)
+- S1mple (CSGO)
+- KennyS (VALORANT, ex of CSGO)
+- OTTO (League of Legends)
