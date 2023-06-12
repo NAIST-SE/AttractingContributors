@@ -15,9 +15,11 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Meme-collection)
+Did you enjoy internet meme? 
+I like ridiculousness of internet meme.</br>
+What is your favorite internet meme?</br>
+Please write down if you have knowledge!
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Meme
+1.
