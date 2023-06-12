@@ -11,4 +11,5 @@ Please tell us your "Oshi"!
 - 天王州アテネ/ハヤテのごとく！
 - Liyuu/Liella!
 - 幾田りら/YOASOBI
+- Ishihara Satomi
 
