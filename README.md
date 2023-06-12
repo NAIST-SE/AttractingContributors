@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project(Meme-collection)
-Did you enjoy internet meme? 
+Have you enjoyed internet meme? 
 I like ridiculousness of internet meme.</br>
 What is your favorite internet meme?</br>
 Please write down if you have knowledge!
