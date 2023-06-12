@@ -21,3 +21,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+Where is your favorite place at NAIST and why? Let's share.
+NAIST内でおすすめの場所を教えてください！寝れる，勉強できる，など．
