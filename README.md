@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Buzzwords-collection)
+Goal - I want contributors to help me list some recent buzzwords in your country that you are interesting (in your native language, it is better if you add the explanation in English).
+Tips: there is a example below
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+List of Anime
+1. 哈基米(pinyin -> ha ji mi): This buzzword comes from the little song that Tokai Teio hums when she goes out to buy her favorite honey special drink in the anime "Umamusume: Pretty Derby". After adaptation, it is often used as background music for cute cat videos.
+2.
