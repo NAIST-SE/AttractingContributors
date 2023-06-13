@@ -26,6 +26,11 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 3.
 4.
 5.
+6.
+7.
+8.
+9.
+10.
 
 
 # Rules
