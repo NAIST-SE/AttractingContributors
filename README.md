@@ -1,12 +1,14 @@
 # "If you could spend two hours talking to someone, who would you choose?"
 
 ## Overview
+
+So for my project, I absolutely enjoy engaging in conversations with people, learning from their `experiences`, and exploring the `meaning of life`.  ✅
+
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg" alt="Bill Gates" width="300" style="margin-right: 100px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg" alt="Oprah Winfrey" width="300">
 </div>
 
-So for my project, I absolutely enjoy engaging in conversations with people, learning from their `experiences`, and exploring the `meaning of life`.  ✅
 
 Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like `Bill Gates` or `Oprah Winfrey` to ask many things of my curiosity. 😂
 
