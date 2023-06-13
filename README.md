@@ -21,3 +21,4 @@ I like to visit sightseeings near NAIST in weekends. But I don't know where to g
 
 # List of Sightseeing
 * 石舞台古墳
+* Todaiji Temple
