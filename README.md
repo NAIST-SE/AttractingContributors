@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/WEI44ZHEYUAN/AttractingContributors_Songs(Favorite Songs)
+https://github.com/WEI44ZHEYUAN/AttractingContributors_Songs (Favorite Songs)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 
