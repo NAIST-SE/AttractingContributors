@@ -26,6 +26,6 @@ Goal-I want contributors to help me list some favorite books.
 5. Why Nations Fail
 6. 幼年期の終わり
 7. 風の陰陽師
-8. はらぺこあおむし
-9.
+8. Harry Potter
+9. はらぺこあおむし
 10.
