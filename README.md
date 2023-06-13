@@ -25,7 +25,7 @@ example:
 ...
 
 # Alphabet Shiritori
-1. 
+1. Shiritori
 2. 
 3. 
 4. 
