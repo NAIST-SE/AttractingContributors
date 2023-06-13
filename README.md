@@ -15,9 +15,23 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Alphabet Shiritori)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Goal-I want contributors to help me complete alphabet Shiritori:
+example:
+1. apple
+2. egg
+3. glass
+...
 
-# List of Hobby
+# Alphabet Shiritori
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
