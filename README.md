@@ -13,4 +13,5 @@ Please tell us your "Oshi"!
 - 幾田りら/YOASOBI
 - Ishihara Satomi
 - 和嶋慎治/人間椅子
-
+- Zundamon/VOICEVOX
+- FrostNova/Arknights
