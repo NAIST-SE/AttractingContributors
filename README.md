@@ -12,5 +12,6 @@ Please tell us your "Oshi"!
 - Liyuu/Liella!
 - 幾田りら/YOASOBI
 - Ishihara Satomi
+- 和嶋慎治/人間椅子
 - Zundamon/VOICEVOX
 - FrostNova/Arknights
