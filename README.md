@@ -20,3 +20,4 @@ To complete the assignment, please do the following:
 I like to visit sightseeings near NAIST in weekends. But I don't know where to go, so please tell your recommendations!!!
 
 # List of Sightseeing
+* Todaiji Temple
