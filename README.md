@@ -13,3 +13,4 @@ Please tell us your "Oshi"!
 - 幾田りら/YOASOBI
 - Ishihara Satomi
 - Zundamon/VOICEVOX
+- FrostNova/Arknights
