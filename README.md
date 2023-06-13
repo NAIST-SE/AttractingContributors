@@ -7,7 +7,9 @@
 </div>
 
 So for my project, I absolutely enjoy engaging in conversations with people, learning from their `experiences`, and exploring the `meaning of life`.  ✅
+
 Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like `Bill Gates` or `Oprah Winfrey` to ask many things of my curiosity. 😂
+
 _It's all just a playful thought for my SE Class Assignment._ 😭 
 
 ## Goals
