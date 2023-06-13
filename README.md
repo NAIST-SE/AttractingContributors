@@ -23,3 +23,5 @@ Please write down if you have knowledge!
 
 # List of Meme
 1. Space Cat
+2. Meme man / Stonks guy
+3. 
