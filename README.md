@@ -25,7 +25,7 @@ Goal-I want contributors to help me list some favorite books.
 4. The Perfect Insider
 5. Why Nations Fail
 6. 幼年期の終わり
-7.
+7. 風の陰陽師
 8.
 9.
 10.
