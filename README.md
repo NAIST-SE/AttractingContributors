@@ -28,7 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. baseball
 6. Running
 7. e-sports(apex)
-8. 
+8. badminton
 9. 
 10. 
 
