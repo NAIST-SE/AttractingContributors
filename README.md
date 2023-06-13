@@ -24,4 +24,5 @@ I like to visit sightseeings near NAIST in weekends. But I don't know where to g
 * Todaiji Temple
 * 奈良公園
 * あべのハルカス
+* Chokyu-ji
 * 清水寺
