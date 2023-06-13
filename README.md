@@ -18,6 +18,16 @@ To complete the assignment, please do the following:
 # Example. 
 https://github.com/WEI44ZHEYUAN/AttractingContributors_Songs(Favorite Songs)
 
- (Discussion)
+https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 
 # List of Hobby
+1. Rap God - Eminem
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9.
+10.
