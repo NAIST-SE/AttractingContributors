@@ -1,10 +1,9 @@
 # "If you could spend two hours talking to someone, who would you choose?"
 
 <div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg" alt="Bill Gates" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg" alt="Bill Gates" width="300" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg" alt="Oprah Winfrey" width="300">
 </div>
-
 
 So for my project, I absolutely enjoy engaging in conversations with people, learning from their `experiences`, and exploring the `meaning of life`.  ✅
 Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like `Bill Gates` or `Oprah Winfrey` to ask many things of my curiosity. 😂
@@ -24,16 +23,16 @@ Contribute to my [Repository project](https://github.com/Indirafyn/AttractingCon
 # Who is he/she?
 
 You can insert any name you prefer, whether it's a real name or an anonymous designation like "flower," "panda," "cat," or any other creative choice. A picture if you want to lol.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. (put your text)
+2. (put your text)
+3. (put your text)
+4. (put your text)
+5. (put your text)
+6. (put your text)
+7. (put your text)
+8. (put your text)
+9. (put your text)
+10. (put your text)
 
 
 # Rules
