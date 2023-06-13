@@ -1,7 +1,8 @@
 # "If you could spend two hours talking to someone, who would you choose?"
 
+## Overview
 <div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg" alt="Bill Gates" width="300" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg" alt="Bill Gates" width="300" style="margin-right: 100px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg" alt="Oprah Winfrey" width="300">
 </div>
 
@@ -9,6 +10,7 @@ So for my project, I absolutely enjoy engaging in conversations with people, lea
 Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like `Bill Gates` or `Oprah Winfrey` to ask many things of my curiosity. 😂
 _It's all just a playful thought for my SE Class Assignment._ 😭 
 
+## Goals
 However, I'm also interested in knowing from you. ✅ 
 
 **"""""""""""""""""" Is there someone you particularly love or appreciate? Tell me his/her name. """""""""""""""""""** 
