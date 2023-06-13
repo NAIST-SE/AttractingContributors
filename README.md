@@ -24,7 +24,7 @@ Goal-I want contributors to help me list some favorite books.
 3. Introduction to Linear Algebra
 4. The Perfect Insider
 5. Why Nations Fail
-6.
+6. 幼年期の終わり
 7.
 8.
 9.
