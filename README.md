@@ -12,6 +12,7 @@ Please tell us your "Oshi"!
 - Liyuu/Liella!
 - 幾田りら/YOASOBI
 - Ishihara Satomi
+- 菅原圭 / シンガーソングライター
 - 和嶋慎治/人間椅子
 - Zundamon/VOICEVOX
 - FrostNova/Arknights
