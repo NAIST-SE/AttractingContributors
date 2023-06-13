@@ -3,16 +3,20 @@
 ![Bill Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg)
 ![Oprah Winfrey](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg)
 
-So for my project, I absolutely enjoy engaging in conversations with people, learning from their experiences, and exploring the meaning of life.  ✅
-Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like Bill Gates or Oprah Winfrey to ask many things of my curiosity. 😂
+So for my project, I absolutely enjoy engaging in conversations with people, learning from their `experiences`, and exploring the `meaning of life`.  ✅
+Sometimes, I daydream about having the opportunity to have a direct conversation with individuals like `Bill Gates` or `Oprah Winfrey` to ask many things of my curiosity. 😂
 _It's all just a playful thought for my SE Class Assignment._ 😭 
 
-However, I'm also interested in knowing from you. ✅
-**"Is there someone you particularly love or appreciate? Tell me his/her name."** 
+However, I'm also interested in knowing from you. ✅ 
+
+**"""""""""""""""""" Is there someone you particularly love or appreciate? Tell me his/her name. """""""""""""""""""** 
 
 _Basically, you don't have to reveal any secrets lol, but if you don't want to mention the name, you can describe that person anonymously and share how they have contributed positively to your life._ 
 
-If you have more time ⏳ maybe you can ask him/her a question, text, or whatever through here lol, probably someday this can reach them 😀, or if you wish to someone dead (ex. Albert Einstein) it will be another matter....... There is no guarantee!
+Contribute to my [Repository project](https://github.com/Indirafyn/AttractingContributors-Someone) ✅
+
+[Optional] If you have more time ⏳ you can ask him/her a question, text, or whatever through here lol, probably someday this can reach them 😀, or if you wish to someone dead (ex. Albert Einstein) it will be another matter....... There is no guarantee!
+
 
 # Who is he/she?
 
