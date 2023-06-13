@@ -23,7 +23,7 @@ _Basically, you don't have to reveal any secrets lol, but if you don't want to m
 
 Contribute to my [Repository project](https://github.com/Indirafyn/AttractingContributors-Someone) ✅
 
-[Optional] If you have more time ⏳ you can ask him/her a question, text, or whatever through here lol, probably someday this can reach them 😀, or if you wish to someone dead (ex. Albert Einstein) it will be another matter....... There is no guarantee!
+[Optional] If you have more time ⏳ you can ask him/her a question, text, or whatever through here lol, probably someday this can reach them 😀, or if you wish to someone dead (e.g. Albert Einstein) it will be another matter....... There is no guarantee!
 
 
 # Who is he/she?
