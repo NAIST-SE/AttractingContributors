@@ -17,7 +17,7 @@ _It's all just a playful thought for my SE Class Assignment._ 😭
 ## Goals
 However, I'm also interested in knowing from you. ✅ 
 
-**"""""""""""""""""" Is there someone you particularly love or appreciate? Tell me his/her name. """""""""""""""""""** 
+**""" Is there someone you particularly love or appreciate? Tell me his/her name. """"** 
 
 _Basically, you don't have to reveal any secrets lol, but if you don't want to mention the name, you can describe that person anonymously and share how they have contributed positively to your life._ 
 
