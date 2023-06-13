@@ -30,4 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. e-sports(apex)
 8. badminton
 9. volley-ball
-10. 
+10. All sports
