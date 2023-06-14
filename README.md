@@ -20,6 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project (Anime-collection)
+Goal - I want contributors to help me list some favorite sport.
+
+
 # List of Sport
 1. 
 2. 
