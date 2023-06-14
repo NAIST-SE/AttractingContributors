@@ -28,4 +28,5 @@ I like to visit sightseeings near NAIST in weekends. But I don't know where to g
 * 嵐山
 * Chokyu-ji
 * 清水寺
+* 法隆寺
 * 赤膚山
