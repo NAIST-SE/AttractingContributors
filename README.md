@@ -1,3 +1,7 @@
-# What would you say is the most used game console?(最も使うゲーム機といえば？)
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+# What game console do you use the most?(あなたが最も使うゲーム機はなんですか？)
+NintendoSwitch? ,Playstation?, GamingPC or any other device?
+(NintendoSwitch？Playstation?GamingPC？それともその他のデバイス？)
+
+Please write the name of the console you use the most!
+(自分が最も使用するゲーム機の名前を書いてください！)
 ＃
