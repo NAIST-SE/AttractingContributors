@@ -20,11 +20,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite sport.
+# My Project (Prefecture-collection)
+Goal - I want contributors to help me list prefecture you are from.
 
 
-# List of Sport
+# List of prefectures of your origin
 1. 
 2. 
 3. 
