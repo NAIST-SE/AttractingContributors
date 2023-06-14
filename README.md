@@ -22,7 +22,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 
 # List of Hobby
 0. Rap God - Eminem
-1. 
+1. Give it away - Red Hot Chili Peppers
 2. 
 3. 
 4. 
