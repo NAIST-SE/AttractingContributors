@@ -22,11 +22,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 
 # List of Hobby
 0. Rap God - Eminem
-1. Give it away - Red Hot Chili Peppers
-2. 
-3. 
-4. 
-5. 
+1. Catsle On The Hill - Ed Sheeran
+2. When You Wish Upon A Star - Cliff Edwards
+3. 体温 - LUNKHEAD
+4. sugar surf - oisicle melonpan
+5. Give it away - Red Hot Chili Peppers
 6. 
 7. 
 8. 
