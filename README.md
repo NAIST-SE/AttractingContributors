@@ -27,7 +27,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 3. 体温 - LUNKHEAD
 4. sugar surf - oisicle melonpan
 5. Give it away - Red Hot Chili Peppers
-6. 
+6. SENTIMENTAL GIRL'S VIOLENT JOKE - NUMBER GIRL
 7. 
 8. 
 9.
