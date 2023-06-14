@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 # List of Hobby
 0. Rap God - Eminem
 1. Catsle On The Hill - Ed Sheeran
-2. 
+2. When You Wish Upon A Star - Cliff Edwards
 3. 
 4. 
 5. 
