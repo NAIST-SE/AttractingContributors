@@ -8,3 +8,4 @@ Please write the name of the console you use the most!
 
 # List
 Nintendo Switch
+セガサターン
