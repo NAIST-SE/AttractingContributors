@@ -4,4 +4,7 @@ NintendoSwitch? ,Playstation?, GamingPC or any other device?
 
 Please write the name of the console you use the most!
 (自分が最も使用するゲーム機の名前を書いてください！)
-＃
+
+
+# List
+Nintendo Switch
