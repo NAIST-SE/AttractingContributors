@@ -28,7 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/860 (Discussion)
 4. sugar surf - oisicle melonpan
 5. Give it away - Red Hot Chili Peppers
 6. SENTIMENTAL GIRL'S VIOLENT JOKE - NUMBER GIRL
-7. 
+7. Shallow - Lady Gaga
 8. 
 9.
 10.
