@@ -13,4 +13,4 @@ Please write the name of the console you use the most!
 - GamingPC
 - Switch
 - steam deck
-
+- Gaming PC
