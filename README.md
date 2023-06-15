@@ -11,7 +11,7 @@ I'm a ramen lover, so I'll go there!
 # List of best ramen shop
 - 無鉄砲本店
 - 我道家
--
+- あのラーメン
 -
 -
 -
