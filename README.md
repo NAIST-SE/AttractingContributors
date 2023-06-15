@@ -11,4 +11,6 @@ Please write the name of the console you use the most!
 - セガサターン
 - Play Station 4
 - GamingPC
+- Switch
 - steam deck
+
