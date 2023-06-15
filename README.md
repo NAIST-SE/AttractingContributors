@@ -5,3 +5,4 @@
 
 # List of Music Video
 - IDOL / YOASOBI
+国家「君が代」 - Japan
