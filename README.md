@@ -4,3 +4,4 @@
 - For example (TT - TWICE, IDOL - BTS)
 
 # List of Music Video
+- IDOL / YOASOBI
