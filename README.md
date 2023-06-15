@@ -4,3 +4,4 @@
 - For example (TT - TWICE, IDOL - BTS)
 
 # List of Music Video
+- 愛言葉Ⅲ - DECO*27
