@@ -14,3 +14,4 @@ Please write the name of the console you use the most!
 - Switch
 - steam deck
 - Gaming PC
+- Nintendo Game Cube
