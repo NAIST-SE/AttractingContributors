@@ -17,3 +17,4 @@ Please tell us your "Oshi"!
 - 和嶋慎治/人間椅子
 - Zundamon/VOICEVOX
 - FrostNova/Arknights
+- 上原歩夢/Love Live!!
