@@ -28,4 +28,7 @@ Goal-I want contributors to help me list some favorite books.
 7. 風の陰陽師
 8. Harry Potter
 9. はらぺこあおむし
-10.Murder on the Orient Express
+10. 金閣寺　三島由紀夫
+11. オーデュボンの祈り
+12. Alchamist
+13. Murder on the Orient Express
