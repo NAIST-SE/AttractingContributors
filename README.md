@@ -15,9 +15,18 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Sightseeing near NAIST)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+I like to visit sightseeings near NAIST in weekends. But I don't know where to go, so please tell your recommendations!!!
 
-# List of Hobby
+# List of Sightseeing
+* 石舞台古墳
+* Todaiji Temple
+* National Diet Library
+* 奈良公園
+* あべのハルカス
+* 嵐山
+* Chokyu-ji
+* 清水寺
+* 法隆寺
+* 赤膚山
