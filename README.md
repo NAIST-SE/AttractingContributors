@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 Apple, Orange, etc
 
 # List of favorite food
-1.
+1. pizza
 2.
 3.
 4.
