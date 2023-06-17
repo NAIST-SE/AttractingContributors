@@ -4,7 +4,7 @@
 # List of Hobby
 Please tell me your favourite game 
 1. Valorant 
-2.
+2. Mobile Legends: Bang Bang
 3.
 4.
 5.
