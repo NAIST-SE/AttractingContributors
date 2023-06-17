@@ -29,7 +29,7 @@ Please tell me your favourite game
 3. Overwatch  
 4. FIFA
 5. Blue Archive
-6.
+6. PoKeMoN
 7.
 8.
 9.
