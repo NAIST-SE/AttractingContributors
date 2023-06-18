@@ -7,7 +7,7 @@ What's you favorite game and what game would you recommend ?
 2.
 3.
 4.
-5.
+5. Euro Truck Simulator 2
 6.
 7.
 8.
