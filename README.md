@@ -19,9 +19,9 @@ To complete the assignment, please do the following:
 Apple, Orange, etc
 
 # List of favorite food
-1. pizza
-2.
-3.
+1. ramen
+2. Pork cutlet on rice
+3. pizza
 4.
 5.
 6.
