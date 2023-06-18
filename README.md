@@ -18,9 +18,4 @@ To complete the assignment, please do the following:
 # My Project (Baseball team - collection)
 Goal - I want contributors to help me list some Baseball team.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Baseball team.
