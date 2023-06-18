@@ -21,7 +21,7 @@ Apple, Orange, etc
 # List of favorite food
 1. ramen
 2. Pork cutlet on rice
-3. Chicken Burger
+3.
 4.
 5.
 6.
