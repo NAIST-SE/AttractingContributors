@@ -19,10 +19,10 @@ To complete the assignment, please do the following:
 Apple, Orange, etc
 
 # List of favorite food
-1. Sushi
-2.
-3.
-4.
+1. ramen
+2. Pork cutlet on rice
+3. pizza
+4. Sushi
 5.
 6.
 7.
