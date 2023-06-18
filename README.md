@@ -15,3 +15,4 @@ Please write the name of the console you use the most!
 - steam deck
 - Gaming PC
 - Nintendo Game Cube
+- Laptop (Legion Pro 5i)
