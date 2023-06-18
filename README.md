@@ -19,8 +19,8 @@ To complete the assignment, please do the following:
 Apple, Orange, etc
 
 # List of favorite food
-1. Pork cutlet on rice
-2.
+1. ramen
+2. Pork cutlet on rice
 3.
 4.
 5.
