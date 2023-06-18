@@ -31,7 +31,7 @@ Contribute to my [Repository project](https://github.com/Indirafyn/AttractingCon
 You can insert any name you prefer, whether it's a real name or an anonymous designation like "flower," "panda," "cat," or any other creative choice. A picture if you want to lol.
 1. Prophet Mohamed peace upon him
 2. Shouhei Ohtani
-3. (put your text)
+3. Joe Goldberg from YOU
 4. (put your text)
 5. (put your text)
 6. (put your text)
