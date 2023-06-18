@@ -7,3 +7,4 @@
 - 愛言葉Ⅲ - DECO*27
 - IDOL / YOASOBI
 - 国家「君が代」 - Japan
+- カムパネルラ - sasakure.UK
