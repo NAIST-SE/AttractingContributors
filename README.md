@@ -15,6 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
+# My Project (Baseball team - collection)
+
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
