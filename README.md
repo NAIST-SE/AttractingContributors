@@ -16,17 +16,17 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project
-Please recommend your favorite beer.🍺 </br>
-あなたの好きなビールを紹介してください🍺
+Please write the lanauges that you want to learn (Please write natural language only!!)
 
-# List of Hobby
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+# List of Languages
+- Vietnamese
+- Arabic
+- Sanskrit
+- Proto-Indo-European
+- English
+- German  
+- Chinese
+- Japanese
+- Spanish
+- French
+- Mongolian
