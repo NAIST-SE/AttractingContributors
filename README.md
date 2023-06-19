@@ -26,6 +26,6 @@ Apple, Orange, etc
 5. Chicken Burger
 6. Fried Chicken
 7. Unagi (eel)
-8.
+8. Salmon
 9.
 10.
