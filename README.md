@@ -18,3 +18,6 @@ Please tell us your "Oshi"!
 - Zundamon/VOICEVOX
 - FrostNova/Arknights
 - 上原歩夢/Love Live!!
+- 近江彼方/虹ヶ咲スクールアイドル同好会
+- 輿水幸子/アイドルマスターシンデレラガールズ
+- たけぉ/Streamer
