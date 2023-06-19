@@ -7,4 +7,5 @@
 - A Monster Calls
 -Lucy Movie
 - Lalaland
+- Her
 - Avengers
