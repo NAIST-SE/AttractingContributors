@@ -28,4 +28,4 @@ Apple, Orange, etc
 7. Unagi (eel)
 8. Salmon
 9. pasta
-10.
+10. mie ayam
