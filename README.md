@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project
-Please recommend your favorite beer.🍺
+Please recommend your favorite beer.🍺 </br>
 あなたの好きなビールを紹介してください🍺
 
 # List of Hobby
