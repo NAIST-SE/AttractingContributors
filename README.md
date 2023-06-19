@@ -16,8 +16,17 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+Apple, Orange, etc
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of favorite food
+1. ramen
+2. Pork cutlet on rice
+3. pizza
+4. Sushi
+5. Chicken Burger
+6. Fried Chicken
+7. Unagi (eel)
+8. Salmon
+9. pasta
+10. mie ayam
+11. mazesoba
