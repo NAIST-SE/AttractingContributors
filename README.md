@@ -23,9 +23,9 @@ Apple, Orange, etc
 2. Pork cutlet on rice
 3. pizza
 4. Sushi
-5. mie ayam
-6.
-7.
-8.
-9.
-10.
+5. Chicken Burger
+6. Fried Chicken
+7. Unagi (eel)
+8. Salmon
+9. pasta
+10. mie ayam
