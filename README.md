@@ -24,7 +24,7 @@ Apple, Orange, etc
 3. pizza
 4. Sushi
 5. Chicken Burger
-6.
+6. Fried Chicken
 7.
 8.
 9.
