@@ -29,3 +29,4 @@ Apple, Orange, etc
 8. Salmon
 9. pasta
 10. mie ayam
+11. mazesoba
