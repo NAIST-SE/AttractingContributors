@@ -23,9 +23,9 @@ Apple, Orange, etc
 2. Pork cutlet on rice
 3. pizza
 4. Sushi
-5. Unagi (eel)
-6.
-7.
+5. Chicken Burger
+6. Fried Chicken
+7. Unagi (eel)
 8.
 9.
 10.
