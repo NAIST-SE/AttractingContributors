@@ -18,3 +18,4 @@ Please tell us your "Oshi"!
 - Zundamon/VOICEVOX
 - FrostNova/Arknights
 - 輿水幸子/アイドルマスターシンデレラガールズ
+- たけぉ/Streamer
