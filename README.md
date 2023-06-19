@@ -32,7 +32,7 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 1. Prophet Mohamed peace upon him
 2. Shouhei Ohtani
 3. Joe Goldberg from YOU
-4. (put your text)
+4. Isaac Newton
 5. (put your text)
 6. (put your text)
 7. (put your text)
