@@ -15,9 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Proverbs
+It is good to be reminded by simple saying or PROVERBS that we wish someone say to us. So why not put it here and let other see and wish it is going to have a good impact to our life journey.
+So let us go :
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+1. 
+```
+" if you going to be fast, go alone,
+     if you going to be far, go together " - african provebs
 
-# List of Hobby
+```
