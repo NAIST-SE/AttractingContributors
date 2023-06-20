@@ -33,8 +33,8 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 2. Shouhei Ohtani
 3. Joe Goldberg from YOU
 4. Hitoshi Matsumoto
-5. Isaac Newton
-6. (put your text)
+5. Maika Yamamoto
+6. Isaac Newton
 7. (put your text)
 8. (put your text)
 9. (put your text)
