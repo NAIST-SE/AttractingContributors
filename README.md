@@ -25,13 +25,13 @@ Goal - I want contributors to help me list prefecture you are from.
 
 
 # List of prefectures of your origin
-1. Miyagi/Japan
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Fukuoka
+2. Osaka
+3. Wakayama prefecture
+4. Badminton 
+5. Osaka
+6. Mars 👽
+7. Miyagi/Japan
 8. 
 9. 
 10. 
