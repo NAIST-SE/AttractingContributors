@@ -25,9 +25,9 @@ Goal - I want contributors to help me list prefecture you are from.
 
 
 # List of prefectures of your origin
-1. Wakayama prefecture
-2. 
-3. 
+1. Fukuoka
+2. Osaka
+3. Wakayama prefecture
 4. 
 5. 
 6. 
