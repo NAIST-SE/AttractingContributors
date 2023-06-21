@@ -32,6 +32,6 @@ Goal - I want contributors to help me list prefecture you are from.
 5. Osaka
 6. Mars 👽
 7. Miyagi/Japan
-8. 
+8. Fukui
 9. 
 10. 
