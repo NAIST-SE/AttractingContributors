@@ -21,4 +21,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Number you like
-1. 7
+- 7
+- $\exp{(i\pi)}$
+- 7
