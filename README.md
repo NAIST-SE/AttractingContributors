@@ -20,4 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Number you like
+- 21
+- 6
+- 11
+- 11
+- 6
+- 7
+- 7
+- $\exp{(i\pi)}$
+- 7
+- 0
