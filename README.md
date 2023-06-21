@@ -30,7 +30,7 @@ Goal - I want contributors to help me list prefecture you are from.
 3. Wakayama prefecture
 4. Badminton 
 5. Osaka
-6. 
+6. Mars 👽
 7. 
 8. 
 9. 
