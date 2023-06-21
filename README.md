@@ -20,4 +20,18 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project (Prefecture-collection)
+Goal - I want contributors to help me list prefecture you are from.
+
+
+# List of prefectures of your origin
+1. Fukuoka
+2. Osaka
+3. Wakayama prefecture
+4. Badminton 
+5. Osaka
+6. Mars 👽
+7. Miyagi/Japan
+8. Fukui
+9. Osaka
+10. Incheon Metropolitan City, Republic of Korea
