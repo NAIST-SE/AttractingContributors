@@ -31,7 +31,7 @@ Goal - I want contributors to help me list prefecture you are from.
 4. Badminton 
 5. Osaka
 6. Mars 👽
-7. 
+7. Miyagi/Japan
 8. 
 9. 
 10. 
