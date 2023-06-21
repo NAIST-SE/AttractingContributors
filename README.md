@@ -29,7 +29,7 @@ Goal - I want contributors to help me list prefecture you are from.
 2. Osaka
 3. Wakayama prefecture
 4. Badminton 
-5. 
+5. Osaka
 6. 
 7. 
 8. 
