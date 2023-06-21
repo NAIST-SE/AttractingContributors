@@ -22,3 +22,10 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Number you like
 - 6
+- １１
+- 11
+- 6
+- 7
+- 7
+- $\exp{(i\pi)}$
+- 7
