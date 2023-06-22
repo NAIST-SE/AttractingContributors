@@ -21,5 +21,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 
 
 1. "Do in Rome as the Romans do" -
-2. ”Throw a sprat to catch a mackerel”
+2. "Simplicity is the Ultimate Sophistication", Leonard Thiessen
+3. ”Throw a sprat to catch a mackerel”
+
 
