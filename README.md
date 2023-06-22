@@ -20,5 +20,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 # List
 
 
-1. "Do in Rome as the Romans do" - 
+1. "Do in Rome as the Romans do" -
+2. ”Throw a sprat to catch a mackerel”
 
