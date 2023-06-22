@@ -4,7 +4,7 @@
 
 https://github.com/aminokay/AttractingContributors-proverbs.git
 
-It is good to be reminded by simple saying or PROVERBS that we wish someone would say to us. So why not share them it here and let others see and wish it is going to have a good impact to our life journey.
+It is good to be reminded by simple saying or PROVERBS that we wish someone would say to us. So why not share them here and let others see and wish it is going to have a good impact to our life journey.
 So let start with my favorite one:
 ```
 
