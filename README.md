@@ -8,6 +8,5 @@
 4. Vin Diesel
 5. Haruka Fukuhara
 6. Takumi Kitamura
-7. Dwayne Jhonson
-
-
+7. mai hukagawa
+8. Dwayne Jhonson
