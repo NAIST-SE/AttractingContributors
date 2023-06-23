@@ -26,6 +26,7 @@ Please tell me your favorite music (band, video game, anything!).
 ・Back Door(Stray Kids)
 
 ・KICKBACK(Kenshi Yonezu  米津玄師)
+・A Cruel Angel’s Thesis (Yoko Takahashi) 
 
 ・Since You Been Gone , Rainbow
 
