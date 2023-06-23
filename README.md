@@ -34,3 +34,4 @@ Please tell me your favorite music (band, video game, anything!).
 ・出町柳パラレルユニバース(ASIAN KUNG-FU GENERATION)
 ・"don't stop me now" - Queen
 
+・Imitation of Our History - Taishi
