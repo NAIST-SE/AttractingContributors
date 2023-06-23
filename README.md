@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some Baseball team.
 
 # List of Baseball team.
 1. Fukuoka Softbank Hawks
+2. Hanshin Tigers
