@@ -23,5 +23,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Favorite Song
 Please tell me your favorite music (band, video game, anything!).
 ・mixed nuts(Offical髭団dism/Spyfamily)
+- 出町柳パラレルユニバース(ASIAN KUNG-FU GENERATION)
 
 1. "don't stop me now" - Queen
