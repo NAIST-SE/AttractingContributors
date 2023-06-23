@@ -9,5 +9,6 @@ List of Favorite Food
 2. cheeseburger
 2. Everything
 2. sushi!!!!!!
+3. CURRY
 2. Pizza
 3. ramen
