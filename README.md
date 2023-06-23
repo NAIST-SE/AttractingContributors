@@ -7,5 +7,6 @@
 3. Matsumoto Ichika
 4. Vin Diesel
 5. Haruka Fukuhara
+6. Takumi Kitamura
 
 
