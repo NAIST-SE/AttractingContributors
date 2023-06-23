@@ -7,7 +7,8 @@ Steak!!!
 List of Favorite Food
 1. steak
 2. cheeseburger
-2. Everything
-2. sushi!!!!!!
-2. Pizza
-3. ramen
+3. Everything
+4. sushi!!!!!!
+5. Pizza
+6. ramen
+7. Banana 
