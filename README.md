@@ -24,5 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 2. "Simplicity is the Ultimate Sophistication", Leonard Thiessen
 3. ”Throw a sprat to catch a mackerel”
 4. "If you seek peace, prepare for war"
+5. "All is well that ends well"
 
 
