@@ -25,5 +25,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 3. ”Throw a sprat to catch a mackerel”
 4. "If you seek peace, prepare for war"
 5. "All is well that ends well"
+6. " The apple doesn’t fall far from the tree."
 
 
