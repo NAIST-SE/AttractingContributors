@@ -13,5 +13,6 @@ List of Favorite Food
 2. Pizza
 3. ramen
 7. Banana
-8. omelet 
 9. tonkatsu
+8. omelet
+9. Sashimi
