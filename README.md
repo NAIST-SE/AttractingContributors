@@ -10,4 +10,4 @@ Please contribute to my Project
 * Kung fu
 * play volleyball
 * Take photo
-
+* Seeing beautiful scenery
