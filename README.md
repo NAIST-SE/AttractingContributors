@@ -17,3 +17,8 @@ List of Favorite Food
 8. omelet
 9. Sashimi
 10. Soumen
+10. chicken
+11. apple
+12. We are the World
+13. Curry Rice
+14. chocolate
