@@ -5,5 +5,6 @@ Please contribute to my Project
 * Hacking
 * Playing video games
 * Watching the movie
+* Taking a walk
 * jiu jitsu
 
