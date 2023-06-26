@@ -12,4 +12,5 @@ Please contribute to my Project
 * Novel Reading
 * Take photo
 * Seeing beautiful scenery
+* watching movies
 
