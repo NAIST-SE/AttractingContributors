@@ -10,5 +10,6 @@ Please contribute to my Project
 * Kung fu
 * play volleyball
 * Novel Reading
+* Take photo
 * Seeing beautiful scenery
 
