@@ -9,4 +9,5 @@ Please contribute to my Project
 * jiu jitsu
 * Kung fu
 * play volleyball
+* Take photo
 * Seeing beautiful scenery
