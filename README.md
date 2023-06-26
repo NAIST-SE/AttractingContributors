@@ -8,3 +8,4 @@ Please contribute to my Project
 * Taking a walk
 * jiu jitsu
 * Kung fu
+*Novel Reading
