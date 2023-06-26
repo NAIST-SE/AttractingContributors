@@ -1,23 +1,34 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# Rules
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+# The Project
 
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
+https://github.com/aminokay/AttractingContributors-proverbs.git
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+It is good to be reminded by simple saying or PROVERBS that we wish someone would say to us. So why not share them here and let others see and wish it is going to have a good impact to our life journey.
+So let start with my favorite one:
+```
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+" if you going to be fast, go alone,
+     if you going to be far, go together " - african provebs
 
-# List of Hobby
+```
+
+# Discussion
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-5320249
+
+# List
+
+
+1. "Do in Rome as the Romans do" -
+2. "Simplicity is the Ultimate Sophistication", Leonard Thiessen
+3. ”Throw a sprat to catch a mackerel”
+4. "If you seek peace, prepare for war"
+5. "All is well that ends well"
+6. " The apple doesn’t fall far from the tree."
+7. "Two can keep a scret if one of them is dead"
+8. "Face the pain of dicipline or the pain of regret"
+9. "A ship in harbor is safe, but that is not what ships are built for"
+
+
+
