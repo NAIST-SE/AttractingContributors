@@ -26,5 +26,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 4. "If you seek peace, prepare for war"
 5. "All is well that ends well"
 6. " The apple doesn’t fall far from the tree."
+7. "Two can keep a scret if one of them is dead"
 
 
