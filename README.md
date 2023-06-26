@@ -13,5 +13,6 @@ Please contribute to my Project
 * fishing
 * Take photo
 * Seeing beautiful scenery
+* watching movies
 * Cycling
 
