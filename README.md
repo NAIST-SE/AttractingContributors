@@ -15,9 +15,22 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Book-collection)
+Goal-I want contributors to help me list some favorite books.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Favorite Book
+1. The Kingkiller Chronicle
+2. 君の膵臓が食べたい
+3. Introduction to Linear Algebra
+4. The Perfect Insider
+5. Why Nations Fail
+6. 幼年期の終わり
+7. 風の陰陽師
+8. Harry Potter
+9. はらぺこあおむし
+10. 金閣寺　三島由紀夫
+11. オーデュボンの祈り
+12. Alchamist
+13. Murder on the Orient Express
+14. 三体
+15. The Moon and Sixpence
