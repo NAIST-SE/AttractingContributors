@@ -10,7 +10,9 @@ Please contribute to my Project
 * Kung fu
 * play volleyball
 * Novel Reading
+* fishing
 * Take photo
 * Seeing beautiful scenery
 * watching movies
+* Cycling
 
