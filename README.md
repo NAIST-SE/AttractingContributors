@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Engineering
 10. Information Science
 11. Medical Science
+12. Information Science
