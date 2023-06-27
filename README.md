@@ -20,7 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Major in You Former University
+# List of Major in Your Former University
 1. Literature
 2. Economics
 3. Psychology
