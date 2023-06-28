@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - $\exp{(i\pi)}$
 - 7
 - 0
+- 2
