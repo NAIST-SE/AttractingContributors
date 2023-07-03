@@ -20,4 +20,15 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Major in Your Former University
+1. Literature
+2. Economics
+3. Psychology
+4. Education
+5. Physics
+6. Mathematics
+7. Chemistry
+8. Biology
+9. Engineering
+10. Information Science
+11. Medical Science
