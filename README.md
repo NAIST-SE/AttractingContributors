@@ -3,11 +3,7 @@ If you like FromSoftware, please answer your favorite one!
 # List of FROMSOFTWARE's games
 elden ring
 
-dark souls 1
-
-dark souls 2
-
-dark souls 3
+dark souls 
 
 demon's souls
 
