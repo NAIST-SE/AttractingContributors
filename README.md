@@ -30,3 +30,6 @@ Either English or Japanese is fine, and the more niche, the better.
 
 List of Game.<br/>
 十三機兵防衛圏 - 13 Sentinels: Aegis Rim<br/>
+テイルズ オブ アライズ - Tales of Arise<br/>
+ペルソナ - Persona<br/>
+ファイナルファンタジー - Final Fantasy<br/>
