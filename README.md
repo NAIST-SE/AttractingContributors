@@ -28,5 +28,5 @@ Thank you very much!
 
 Either English or Japanese is fine, and the more niche, the better.
 
-List of Game.
+List of Game.<br/>
 十三機兵防衛圏 - 13 Sentinels: Aegis Rim
