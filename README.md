@@ -17,7 +17,9 @@ To complete the assignment, please do the following:
 
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Goal
+Please write your favorite movie below. 
+
+Pulp Fiction
