@@ -33,3 +33,4 @@ List of Game.<br/>
 テイルズ オブ アライズ - Tales of Arise<br/>
 ペルソナ - Persona<br/>
 ファイナルファンタジー - Final Fantasy<br/>
+英雄伝説VI 空の軌跡 - The Legend of Heroes: Trails in the Sky<br/>
