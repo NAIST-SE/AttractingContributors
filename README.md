@@ -20,4 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+My Project (Anime-collection)
+Goal - I want contributors to help me list some favorite Japanese Role-Playing Game(JRPG).
+If you also like JRPG, please do not hesitate to share them with me and let me know more excellent games of this kind. 
+
+Thank you very much!
+
+Either English or Japanese is fine, and the more niche, the better.
+
+List of Game.
+十三機兵防衛圏 - 13 Sentinels: Aegis Rim
