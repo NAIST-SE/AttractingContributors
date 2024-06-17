@@ -20,4 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My goal
+I want you to add your favorite artist on the list below
+
+# Your favorite Artist
+ Mrs. GREEN APPLE
+ go!go!vanillas
+
