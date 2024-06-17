@@ -15,9 +15,23 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project(Music-collection)
+Goal: I am a music lover. My favourite genres are r&b and pops.
+      I will be appreciate if you could give me some recommendations.
+      Anyone is OK!
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# List of Music
+1. 浪漫血液
+2. Yoasobi
+3. Surround Sound - 21 Savage - (githubid: KKKKKXY)
+4. sunameri smoke
+5. maximum the hormone
+6. Clattanoia
+7. Drunk-Dazed
+8. 萨克斯恋情
+9. Happy to see you
+10. Wave（Hillsong Yong）
+11. ZUTOMAYO
+12. crossing field
+13. Uver World 
 
-# List of Hobby
