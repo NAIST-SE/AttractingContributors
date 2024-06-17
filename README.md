@@ -25,7 +25,7 @@ I want you to add your favorite artist on the list below
 
 # Your favorite Artist
 1. Mrs. GREEN APPLE
-2. 
+2. BABYMETAL
 3. 
 4. 
 5. 
