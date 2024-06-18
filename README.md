@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please write your favorite movie below. 
 
 Pulp Fiction
+12 Angry Men
