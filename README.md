@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some interesting technical books or s
 
 # List of Books.
 1. C. M. Bishop, Pattern Recognition and Machine Learning
+Y. Ozaki, Near-infrared spectroscopy, Spectroscopy Series 2
