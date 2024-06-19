@@ -24,3 +24,4 @@ Please write your favorite movie below.
 
 Pulp Fiction
 12 Angry Men
+Ghost in the shell (1995)
