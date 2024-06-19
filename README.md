@@ -22,5 +22,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Goal
 Please write your favorite movie below. 
 
-Pulp Fiction</br>
+# Movies
 Taxi Driver
+Pulp Fiction
+12 Angry Men
+Ghost in the shell (1995)
