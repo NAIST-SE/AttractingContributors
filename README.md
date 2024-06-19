@@ -1,6 +1,6 @@
 # Attracting Contributors
-How many application of job hunting did you submit?
+What is your favorite sports?
 
 # Rules
-plese tell me the number of application you submitted.
-ex. 6 etc.
+plese tell me your favorite sport!!
+ex. Tennis etc.
