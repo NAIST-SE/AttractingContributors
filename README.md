@@ -23,8 +23,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please write your favorite movie below. 
 
 # Movies
-Taxi Driver
 Pulp Fiction
+Taxi Driver
+Fast and Furious
 Interstellar
 12 Angry Men
 Ghost in the shell (1995)
