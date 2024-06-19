@@ -24,8 +24,8 @@ Please write your favorite movie below.
 
 # Movies
 Pulp Fiction <br>
-Taxi Driver
-Fast and Furious
-Interstellar
-12 Angry Men
-Ghost in the shell (1995)
+Taxi Driver <br>
+Fast and Furious <br>
+Interstellar <br>
+12 Angry Men <br>
+Ghost in the shell (1995) <br>
