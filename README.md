@@ -20,4 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of cute cat behaviors
+- Purring when they are happy or content.
+- Kneading with their paws, also known as "making biscuits."
+- Giving gentle head butts to show affection.
+- Stretching their bodies in a long, graceful arch after waking up.
+- Rolling over and exposing their belly when they feel safe and comfortable.
+- They remember words such as "play", "rice" and "snack".
