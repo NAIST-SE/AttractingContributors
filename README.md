@@ -9,6 +9,9 @@ So please tell me your favorite sweets.<br/>
 I want to make it when I feel like it. <br/>
 
 # List of sweets
--Macaron<br/>
--Cheese cake<br/>
--Strawberry talt<br/>
+- Macaron<br/>
+- Cheese cake<br/>
+- Strawberry talt<br/>
+- Cake<br/>
+- Pudding<br/>
+- Mont Blanc<br/>
