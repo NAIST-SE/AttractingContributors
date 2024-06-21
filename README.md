@@ -20,4 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project (Baseball)
+Goal - I want contributors to help me list some favorite Baseball team.
+
 # List of Hobby
