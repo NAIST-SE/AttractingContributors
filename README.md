@@ -15,7 +15,7 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Recommend Ramen-collection)
+# My Project (Recommend Ramen list)
 https://github.com/Canppchk/AttractingContributors-Ramen (Ramen list)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
@@ -26,4 +26,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3.Amanojaku (https://maps.app.goo.gl/AjHpqc1HWZabzRXB9)
 4.麺舎 いっとう 奈良富雄店　(https://maps.app.goo.gl/PmGfPAhKti68f85n6)
 5.アノラーメン製作所 (https://maps.app.goo.gl/aCUuG4S6QoeX1ZZ98)
+6.Cho-tonkotsu Nodo 8 (https://maps.app.goo.gl/81ANqfaTSbTGSjHc9)
+7.平成麺業 石橋店 (https://maps.app.goo.gl/fuJsFZQuLcyqqnTe7)
+8.らーめん壷 東生駒店 (https://maps.app.goo.gl/tR9zWcHubJgqFHm26)
+9.Kadoya Shokudo (https://maps.app.goo.gl/SfhoDP4U2AAMPYef6)
+10.Taishio Soba Touka (https://maps.app.goo.gl/DexLGNczyMMfQ53e9)
 
