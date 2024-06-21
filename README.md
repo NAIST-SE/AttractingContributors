@@ -16,6 +16,9 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Recommend Ramen list)
+
+Goal - I want contributors to help me list some favorite Japanese Ramen.
+
 https://github.com/Canppchk/AttractingContributors-Ramen (Ramen list)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
