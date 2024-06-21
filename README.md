@@ -1,14 +1,14 @@
 # What is your favorite sweets?
-Please tell me your favorite sweets.
+Please tell me your favorite sweets.<br/>
 
 # Hi, everyone!
 
-My hobby is cooking sweets. 
-Do you like sweets?
-So please tell me your favorite sweets.
-I want to make it when I feel like it. 
+My hobby is cooking sweets. <br/>
+Do you like sweets?<br/>
+So please tell me your favorite sweets.<br/>
+I want to make it when I feel like it. <br/>
 
 # List of sweets
--Macaron
--Cheese cake
--Strawberry talt
+-Macaron<br/>
+-Cheese cake<br/>
+-Strawberry talt<br/>
