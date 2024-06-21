@@ -44,3 +44,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
 
 10.Taishio Soba Touka (https://maps.app.goo.gl/DexLGNczyMMfQ53e9)
 
+11. Muteppou Sohonten, Kidu, Kyoto (http://www.muteppou.com/)
