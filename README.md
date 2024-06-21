@@ -16,8 +16,14 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Recommend Ramen-collection)
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+https://github.com/Canppchk/AttractingContributors-Ramen (Ramen list)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Ramen
+1.Kaidashi Chukasoba Kuramu (https://maps.app.goo.gl/tXfnERyHhpoxr1nh7)
+2.Ramen house Mitsuba (https://maps.app.goo.gl/U1L6EwVU9dVcGcRN8)
+3.Amanojaku (https://maps.app.goo.gl/AjHpqc1HWZabzRXB9)
+4.麺舎 いっとう 奈良富雄店　(https://maps.app.goo.gl/PmGfPAhKti68f85n6)
+5.アノラーメン製作所 (https://maps.app.goo.gl/aCUuG4S6QoeX1ZZ98)
+
