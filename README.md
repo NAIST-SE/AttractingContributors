@@ -20,5 +20,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-#　What kind of sports and activity do you like?
+# What kind of sports and activity do you like?
 
