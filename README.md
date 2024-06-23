@@ -20,5 +20,7 @@ goal - i want contributors to help me list some favorite game you played recentl
 
 # List of Game
 - Pokemon!
+- Titanfall2
 - Spider Man
 - 十三機兵防衛圏
+- Tales of the Abyss
