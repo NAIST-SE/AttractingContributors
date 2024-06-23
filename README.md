@@ -39,4 +39,7 @@ patch-7<br/>
 ELDEN RING<br/>
 sekiro<br/>
 Undertale<br/>
+Dark Souls<br/>
+グノーシア<br/>
+
 
