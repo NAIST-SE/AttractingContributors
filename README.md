@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Animals
 - Kakapo
 - cat🐈‍⬛
+- bear
