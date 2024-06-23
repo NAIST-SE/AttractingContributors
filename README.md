@@ -15,9 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Gathering your favourite songs 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+The project runs at: https://github.com/thapakorn604/AttractingContributors-songs
 
-# List of Hobby
+I would like to know your favourite songs in any genre!
+Please suggest me some so I could have a list to check them out!
+
+# List of recommended songs
+1. Queen of the night - Opera Aria
+2. Misty - Ella Fidgerald
+3. Broken vow - Lara Farbien
+4. Orchester in mir - Saphir
+5. Fala Aqui Com a Minha Mão - Wesley Safadão
