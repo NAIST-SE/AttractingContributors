@@ -29,9 +29,10 @@ Please write your favorite movie below.
 4. Interstellar 
 5. 12 Angry Men 
 6. Ghost in the shell (1995) 
-7. inception
+7. Inception
 8. The Imitation Game
-9. Hurry Potter
+9. Harry Potter
 10. Wild Speed
+11. The Matrix
 11. RRR
 12. Matrix
