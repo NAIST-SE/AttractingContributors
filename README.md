@@ -20,5 +20,9 @@ goal - i want contributors to help me list some favorite game you played recentl
 
 # List of Game
 - Pokemon!
+- Titanfall2
 - Spider Man
 - Sakuna: Of Rice and Ruin (https://store.steampowered.com/app/1356670/_/)
+- 十三機兵防衛圏
+- Tales of the Abyss
+
