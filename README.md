@@ -34,6 +34,8 @@ List of Game.<br/>
 ペルソナ - Persona<br/>
 ファイナルファンタジー - Final Fantasy<br/>
 英雄伝説VI 空の軌跡 - The Legend of Heroes: Trails in the Sky<br/>
+patch-7<br/>
+ゼルダの伝説 ブレス オブ ザ ワイルド - The Legend of Zelda: Breath of the Wild<br/>
 ELDEN RING<br/>
 sekiro<br/>
 
