@@ -39,4 +39,6 @@ patch-7<br/>
 ELDEN RING<br/>
 sekiro<br/>
 Dark Souls<br/>
+グノーシア<br/>
+
 
