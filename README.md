@@ -21,3 +21,4 @@ goal - i want contributors to help me list some favorite game you played recentl
 # List of Game
 - Pokemon!
 - Spider Man
+- Sakuna: Of Rice and Ruin (https://store.steampowered.com/app/1356670/_/)
