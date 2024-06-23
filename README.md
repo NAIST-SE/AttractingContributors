@@ -38,4 +38,5 @@ patch-7<br/>
 ゼルダの伝説 ブレス オブ ザ ワイルド - The Legend of Zelda: Breath of the Wild<br/>
 ELDEN RING<br/>
 sekiro<br/>
+Pokémon Black and White<br/>
 
