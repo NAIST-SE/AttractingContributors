@@ -48,3 +48,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
 
 12. Muteppou Sohonten, Kidu, Kyoto (http://www.muteppou.com/)
 
+13. Ichiran Kadoma (https://www.google.co.jp/maps/search/Ichiran/@34.7323103,135.6190175,11z/data=!3m1!4b1?hl=ja&entry=ttu)
