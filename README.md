@@ -39,4 +39,8 @@ patch-7<br/>
 ELDEN RING<br/>
 sekiro<br/>
 Pokémon Black and White<br/>
+Undertale<br/>
+Dark Souls<br/>
+グノーシア<br/>
+
 
