@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Stretching their bodies in a long, graceful arch after waking up.
 - Rolling over and exposing their belly when they feel safe and comfortable.
 - They remember words such as "play", "rice" and "snack".
+- Sleeping and relaxing in a kotatsu(kotatsu: japanese heating appliances)
