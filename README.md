@@ -15,5 +15,6 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 4. The Name of the Wind
 5. Saga: Volume 1
 6. Neuromancer" by William Gibson
-7. Shinsekai yori (新世界より) by Yusuke Kishi (貴志 祐介)
+7. The end of the world is Just the beginning 
+8. Shinsekai yori (新世界より) by Yusuke Kishi (貴志 祐介)
   
