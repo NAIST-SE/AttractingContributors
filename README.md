@@ -6,9 +6,17 @@ Here we discuss and list our favorite Fruits ;))
 
 ## How to Contribute
 
-- Fork this repository
-- Add your favorite Fruits to the part "Fruits you like are ..."
-- Create a pull request
+It's very simple. All you need to do is add your favorite place(s) as shown below.
+
+1- Click on edit (pen icon at the top right coner of this page)
+
+2- Scroll down to *Fruits you like are ...*
+
+3- Add your fruit(s)
+
+4- Click on commit changes (at the top right coner of this page)
+
+5- Click on pull request and you are done !!
 
 ## Some Suggestion of Fruits
 Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconut, grape, grapefruit, kiwi, lemon, lime, orange, watermelon
