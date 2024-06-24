@@ -42,7 +42,9 @@ Pokémon Black and White<br/>
 Undertale<br/>
 Dark Souls<br/>
 グノーシア<br/>
+maruko<br/>
 Shadow of the Colossus<br/>
 スマブラ <br/>
+
 
 
