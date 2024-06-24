@@ -20,4 +20,31 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+My Project (Anime-collection)<br/>
+Goal - I want contributors to help me list some favorite Japanese Role-Playing Game(JRPG).<br/>
+If you also like JRPG, please do not hesitate to share them with me and let me know more excellent games of this kind. <br/>
+
+Thank you very much!
+
+Either English or Japanese is fine, and the more niche, the better.
+
+List of Game.<br/>
+十三機兵防衛圏 - 13 Sentinels: Aegis Rim<br/>
+テイルズ オブ アライズ - Tales of Arise<br/>
+ペルソナ - Persona<br/>
+ファイナルファンタジー - Final Fantasy<br/>
+英雄伝説VI 空の軌跡 - The Legend of Heroes: Trails in the Sky<br/>
+patch-7<br/>
+ゼルダの伝説 ブレス オブ ザ ワイルド - The Legend of Zelda: Breath of the Wild<br/>
+ELDEN RING<br/>
+sekiro<br/>
+Pokémon Black and White<br/>
+Undertale<br/>
+Dark Souls<br/>
+グノーシア<br/>
+maruko<br/>
+Shadow of the Colossus<br/>
+スマブラ <br/>
+
+
+
