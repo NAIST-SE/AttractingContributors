@@ -33,3 +33,4 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 5. Inherit The Stars by Hogan James 
 6. The Da Vinci Code
 7. Girl Who Leapt Through Time（時をかける少女）
+8. "Dune" by Frank Herbert
