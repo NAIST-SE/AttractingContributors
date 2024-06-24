@@ -34,3 +34,4 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 6. The Da Vinci Code
 7. Girl Who Leapt Through Time（時をかける少女）
 8. "Dune" by Frank Herbert
+9. "Kafka on the Shore"（海辺のカフカ）　by Haruki Murakami
