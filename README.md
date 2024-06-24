@@ -2,7 +2,7 @@
 What is your favorite number?
 
 # Rules 
-Please tell me your favorite number. I like seven!
+Please tell me your favorite number. I like seven!<br/>
 https://github.com/natsu9731/AttractingContributors
 
 # List of numbers
