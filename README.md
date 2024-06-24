@@ -19,14 +19,15 @@ To complete the assignment, please do the following:
 you can write down the place and foods of it.
 
 # LIST here
-Name		; Location	; Genre	; Foods; additional.  
-Ohsho		; chain	; Chinese food	; Gyoza!(chinese dumpling)  
-Lucesantlucia	; IkomaCity!	; italian food	; Pizza and special baguette!  
-Musashi	; Habikino Osaka; chinese food	; special restaurant for me!  
-Taiki-Suisan	; chain	; japanese food ; good sushi restaurant!  
-Yoshi-Hei	; Iwade Wakayama; japanese food ; Pork cutlet with good rice!  
-sensyu-ji	; kumatori Osaka; japanese food ; good soba noodle!  
-miraku		; sakai Osaka	; japanese?korean?; Yakiniku:Grilled meat, local haunt.  
+| Name		| Location	| Food genre	| Foods; additional.|
+|:-----------:	|:-----------:	|:-----------:	|:-----------------:|
+| Ohsho	| chain	| Chinese	| Gyoza!(chinese dumpling)|
+| Lucesantlucia | IkomaCity!	| italian	| Pizza and special baguette!|
+| Musashi	| Habikino Osaka| chinese	| special restaurant for me!|
+| Taiki-Suisan	| chain	| japanese	| good sushi restaurant!|
+| Yoshi-Hei	| Iwade Wakayama| japanese	| Pork cutlet with good rice!|
+| sensyu-ji	| kumatori Osaka| japanese	| good soba noodle!|
+| miraku	| sakai Osaka	| japanese	| Yakiniku:Grilled meat, local haunt.|
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
