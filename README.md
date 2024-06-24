@@ -53,5 +53,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
 14. 塩元帥 (https://shiogensui.com)
 
 15. Hachiban Ramen (https://maps.app.goo.gl/eXRvh4c4a743y7a49)
-16. Bishiya(https://maps.app.goo.gl/3eRm9VJzt4ScmkscA)
+16. ジャンク屋 哲 (https://tabelog.com/nara/A2901/A290102/29004603/)
+17. Bishiya(https://maps.app.goo.gl/3eRm9VJzt4ScmkscA)
 
