@@ -30,6 +30,5 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 2. The end of the world is Just the beginning 
 3. Shinsekai yori (新世界より) by Yusuke Kishi (貴志 祐介)
 4. Do Androids Dream Of Electric Sheep?
-5. Digital Fortress </br>
-6. The Da Vinci Code </br>
-7. Inherit The Stars by Hogan James 
+5. Inherit The Stars by Hogan James 
+6. The Da Vinci Code
