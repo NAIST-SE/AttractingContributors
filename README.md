@@ -9,3 +9,4 @@ https://github.com/natsu9731/AttractingContributors
 - 5
 - 77
 - 7
+- 6
