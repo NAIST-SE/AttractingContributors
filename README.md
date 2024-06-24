@@ -27,3 +27,4 @@ goal - i want contributors to help me list some favorite game you played recentl
 - 十三機兵防衛圏
 - Tales of the Abyss
 - Hades
+- NieR:Automata
