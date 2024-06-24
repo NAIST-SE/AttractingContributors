@@ -21,8 +21,8 @@ Welcome to the "My Favorite Sci-Fi Books" repository! This is a community-driven
 # How to Contribute
 We'd love for you to contribute your favorite sci-fi books to our list! To add a book, please:
 1. Fork this repository.
-2. Add your book to the README.md file in the following format:
-  a. Title: [Book Title]
-  b. Author: [Author Name]
-  c. Description: A brief description of the book and why you recommend it.
+2. Add your book to the README.md file in the following format:<br/>
+  a. Title: [Book Title]<br/>
+  b. Author: [Author Name]<br/>
+  c. Description: A brief description of the book and why you recommend it.<br/>
 3. Submit a Pull Request with your changes.
