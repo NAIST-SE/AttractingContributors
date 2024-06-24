@@ -52,3 +52,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1086 (Discussion)
 
 14. 塩元帥 (https://shiogensui.com)
 
+15. Hachiban Ramen (https://maps.app.goo.gl/eXRvh4c4a743y7a49)
+
