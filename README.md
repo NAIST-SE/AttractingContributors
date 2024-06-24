@@ -21,5 +21,6 @@ I want to make it when I feel like it. <br/>
 - chocolate<br/>
 - Wagashi<br/>
 - Ice cream<br/>
+- Gateau chocolat<br/>
 - Mont Blanc cake<br/>
 - scone<br/>
