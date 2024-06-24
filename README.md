@@ -19,9 +19,9 @@ To complete the assignment, please do the following:
 you can write down the place and foods of it.
 
 # LIST here
-| Name		| Location	| Food genre	| Foods; additional.|
+| Name		| Location	| Food genre	| additional.|
 |:-----------:	|:-----------:	|:-----------:	|:-----------------:|
-| Ohsho	| chain	| Chinese	| Gyoza!(chinese dumpling)|
+| Ohsho	| chain	| chinese	| Gyoza!(chinese dumpling)|
 | Lucesantlucia | IkomaCity!	| italian	| Pizza and special baguette!|
 | Musashi	| Habikino Osaka| chinese	| special restaurant for me!|
 | Taiki-Suisan	| chain	| japanese	| good sushi restaurant!|
