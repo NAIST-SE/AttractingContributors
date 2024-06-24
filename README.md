@@ -20,3 +20,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - Tales of the Abyss
 - Hades
 - NieR:Automata
+- Street Fighter6
