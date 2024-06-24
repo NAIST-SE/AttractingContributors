@@ -32,3 +32,4 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 4. Do Androids Dream Of Electric Sheep?
 5. Digital Fortress </br>
 6. The Da Vinci Code </br>
+7. Inherit The Stars by Hogan James 
