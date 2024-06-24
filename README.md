@@ -13,4 +13,4 @@ https://github.com/natsu9731/AttractingContributors
 - 9
 - 1
 - 24
-
+- 1412
