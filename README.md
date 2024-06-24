@@ -20,4 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# 好きな食べ物, your favorite food
+1. sushi
+2. tempura
+3. apple
+4. からあげ
+5. Motsunabe
+6. ra-men
+7. udon
+8. Carbonara
+9. rice
