@@ -15,9 +15,15 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+#My Project(Favorite Sci-Fi Books - collection)
+Welcome to the "My Favorite Sci-Fi Books" repository! This is a community-driven list where we share our favorite science fiction books. Whether you're a long-time sci-fi fan or just starting to explore the genre, this list is a great place to find new and exciting reads.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+#How to Contribute
+We'd love for you to contribute your favorite sci-fi books to our list! To add a book, please:
 
-# List of Hobby
+#Fork this repository.
+Add your book to the README.md file in the following format:
+Title: [Book Title]
+Author: [Author Name]
+Description: A brief description of the book and why you recommend it.
+Submit a Pull Request with your changes.
