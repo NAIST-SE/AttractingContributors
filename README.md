@@ -20,6 +20,10 @@ you can write down the place and foods of it.
 
 # LIST here
 Name		; Location	; Genre	; Foods; additional.
+<<<<<<< HEAD
+=======
+---------------------------------------------------------------------
+>>>>>>> d539dcea17bc112c7ae41533847741210fb0f1f2
 Ohsho		; chain	; Chinese food	; Gyoza!(chinese dumpling)
 Lucesantlucia	; IkomaCity!	; italian food	; Pizza and special baguette!
 Musashi	; Habikino Osaka; chinese food	; special restaurant for me!
