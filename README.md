@@ -20,4 +20,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My project - Favorite place in the world
+The goal of my project is to make a list of places in the world to travel one day.
+Please help me to build my list :P
+
+# List of Places in the world to visit one day
+Macchu Picchu - Peru
