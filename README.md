@@ -28,6 +28,7 @@ you can write down the place and foods of it.
 | Yoshi-Hei	| Iwade Wakayama| japanese	| Pork cutlet with good rice!|
 | sensyu-ji	| kumatori Osaka| japanese	| good soba noodle!|
 | miraku	| sakai Osaka	| japanese	| Yakiniku:Grilled meat, local haunt.|
+| Yokoyokoya | Sendai Miyagi	| Ramen	| Known for its rich tonkotsu-based soup. |
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
