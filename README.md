@@ -25,3 +25,4 @@ I want to make it when I feel like it. <br/>
 - Gateau chocolat<br/>
 - Mont Blanc cake<br/>
 - scone<br/>
+- chocolate<br/>
