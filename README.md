@@ -34,3 +34,4 @@ Please suggest me some so I could have a list to check them out!
 9. Kokoro no Chizu - BOYSTYLE
 10. You've Got A Friend In Me - Randy Newman
 11. Kinmokusei no yoru - Kinoko teikoku
+12. Private eyes - Daryl and John
