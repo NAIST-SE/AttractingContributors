@@ -16,6 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # List of favorite singer
-Billie Eilish　　
-NewJeans　　
-RADWIMPS　　
+Billie Eilish  
+NewJeans  
+RADWIMPS  
