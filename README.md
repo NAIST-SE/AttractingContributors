@@ -32,3 +32,4 @@ Please suggest me some so I could have a list to check them out!
 7. Rakuten Point - rakuten
 8. Love story - taylor swift
 9. Kokoro no Chizu - BOYSTYLE
+10. You've Got A Friend In Me - Randy Newman
