@@ -32,3 +32,4 @@ Please help me to build my list :P
 5. NAIST - Japan
 6. Miyajima - Japan
 7. The Great Pyramid - Egypt
+8. Matsushima - Japan
