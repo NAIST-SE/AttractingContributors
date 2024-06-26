@@ -33,3 +33,4 @@ Please help me to build my list :P
 6. Miyajima - Japan
 7. The Great Pyramid - Egypt
 8. Matsushima - Japan
+9. Mont Saint-Michel　- France
