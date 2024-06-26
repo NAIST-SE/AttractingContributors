@@ -27,3 +27,4 @@ Please help me to build my list :P
 # List of Places in the world to visit one day
 1. Macchu Picchu - Peru
 2. Shibuya crossing - Japan
+3. Nara Park - Japan
