@@ -31,3 +31,4 @@ Please help me to build my list :P
 4. Ichi-no-yu (public buth) - Iga city Mie, Japan
 5. NAIST - Japan
 6. Miyajima - Japan
+7. The Great Pyramid - Egypt
