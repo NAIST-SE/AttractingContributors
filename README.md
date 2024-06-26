@@ -24,3 +24,4 @@ Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconu
 ![image](https://github.com/Ngochuy2137/AttractingContributors-fruits/assets/92006039/81175e05-f589-471b-8169-0c02e7ad3b21)
 ## Fruits you like are ...
 1. Strawberry
+2. Apple
