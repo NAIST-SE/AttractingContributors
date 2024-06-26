@@ -25,4 +25,5 @@ The goal of my project is to make a list of places in the world to travel one da
 Please help me to build my list :P
 
 # List of Places in the world to visit one day
-Macchu Picchu - Peru
+1. Macchu Picchu - Peru
+2. Shibuya crossing - Japan
