@@ -29,3 +29,4 @@ Please suggest me some so I could have a list to check them out!
 4. Orchester in mir - Saphir
 5. Fala Aqui Com a Minha Mão - Wesley Safadão
 6. My love - Westlife
+7. Rakuten Point - rakuten
