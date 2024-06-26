@@ -26,3 +26,4 @@ Please help me to build my list :P
 
 # List of Places in the world to visit one day
 Macchu Picchu - Peru
+Nara Park - Japan
