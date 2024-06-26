@@ -32,6 +32,7 @@ you can write down the place and foods of it.
 |Local 34 | Tenri Nara | peruvian | recommendation: ceviche, pollo a la brasa |
 |susiro | chain | sushi | recommendation: tuna |
 |Loiusiana | Nara | Pizza | Pizza and salad bar |
+|Street Food | Hanoi | Pho | Raw egg |
 
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
