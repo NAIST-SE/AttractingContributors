@@ -33,4 +33,5 @@ Please suggest me some so I could have a list to check them out!
 8. Love story - taylor swift
 9. Kokoro no Chizu - BOYSTYLE
 10. You've Got A Friend In Me - Randy Newman
-11. Private eyes - Daryl and John
+11. Kinmokusei no yoru - Kinoko teikoku
+12. Private eyes - Daryl and John
