@@ -6,7 +6,7 @@ Here we discuss and list our favorite Fruits ;))
 
 ## How to Contribute
 
-It's very simple. All you need to do is add your favorite place(s) as shown below.
+It's very simple. All you need to do is add your favorite fruit(s) as shown below.
 
 1. Click on edit (pen icon at the top right coner of this page)
 
@@ -30,4 +30,8 @@ Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconu
 5. Ponkan orange 
 6. Pear
 7. Apple
-8. banana
+8. Apple
+9. Grape
+10. Orange
+11. Avocado
+12. banana
