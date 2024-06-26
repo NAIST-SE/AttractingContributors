@@ -28,4 +28,7 @@ Please help me to build my list :P
 1. Macchu Picchu - Peru
 2. Shibuya crossing - Japan
 3. Nara Park - Japan
-4. The Great Pyramid - Egypt
+4. Ichi-no-yu (public buth) - Iga city Mie, Japan
+5. NAIST - Japan
+6. Miyajima - Japan
+7. The Great Pyramid - Egypt
