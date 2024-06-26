@@ -25,3 +25,4 @@ Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconu
 ## Fruits you like are ...
 1. Strawberry
 2. Watermelon
+3. Apple
