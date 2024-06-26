@@ -30,6 +30,8 @@ you can write down the place and foods of it.
 | miraku	| sakai Osaka	| japanese	| Yakiniku:Grilled meat, local haunt.|
 | Yokoyokoya | Sendai Miyagi	| Ramen	| Known for its rich tonkotsu-based soup. |
 |Local 34 | Tenri Nara | peruvian | recommendation: ceviche, pollo a la brasa |
+|susiro | chain | sushi | recommendation: tuna |
+
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
