@@ -34,3 +34,4 @@ Please help me to build my list :P
 7. The Great Pyramid - Egypt
 8. Matsushima - Japan
 9. Mont Saint-Michel　- France
+10. Vinh - Vietnam
