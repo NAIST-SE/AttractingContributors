@@ -31,6 +31,7 @@ you can write down the place and foods of it.
 | Yokoyokoya | Sendai Miyagi	| Ramen	| Known for its rich tonkotsu-based soup. |
 |Local 34 | Tenri Nara | peruvian | recommendation: ceviche, pollo a la brasa |
 |susiro | chain | sushi | recommendation: tuna |
+|Loiusiana | Nara | Pizza | Pizza and salad bar |
 
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
