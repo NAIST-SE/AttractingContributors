@@ -33,6 +33,7 @@ you can write down the place and foods of it.
 |susiro | chain | sushi | recommendation: tuna |
 |Loiusiana | Nara | Pizza | Pizza and salad bar |
 |Street Food | Hanoi | Pho | Raw egg |
+|OBSCURA COFFEE ROASTER | Tokyo/Hiroshima | cafe | The best coffee I've ever had! |
 
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
