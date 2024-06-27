@@ -36,3 +36,4 @@ Please help me to build my list :P
 9. Mont Saint-Michel　- France
 10. Vinh - Vietnam
 11. Santorini - Greece
+12. Nagoya castle - Japan
