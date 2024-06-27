@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please write your favorite movie below. 
 
 # Movies
-1. Pulp Fiction 
+1. Pulp Fiction (Mine!)
 2. Taxi Driver 
 3. Fast and Furious 
 4. Interstellar 
@@ -34,7 +34,8 @@ Please write your favorite movie below.
 9. Harry Potter
 10. Wild Speed
 11. The Matrix
-11. RRR
-12. Matrix
-13. コードギアス 復活のルルーシュ
-14. Alien (1979)
+12. RRR
+13. Matrix
+14. コードギアス 復活のルルーシュ 
+15. Mobile Suit Gundam SEED
+16. Alien (1979)
