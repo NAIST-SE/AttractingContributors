@@ -33,6 +33,7 @@ you can write down the place and foods of it.
 |susiro | chain | sushi | recommendation: tuna |
 |Loiusiana | Nara | Pizza | Pizza and salad bar |
 |Street Food | Hanoi | Pho | Raw egg |
+|Yabaton | Nagoya | Misokatsu | You should eat when you visit Nagoya! |
 
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
