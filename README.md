@@ -33,7 +33,7 @@ you can write down the place and foods of it.
 |susiro | chain | sushi | recommendation: tuna |
 |Loiusiana | Nara | Pizza | Pizza and salad bar |
 |Street Food | Hanoi | Pho | Raw egg |
-
+| Gusto | chain | japanese | Extensive breakfast menu and seasonal specials |
 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
