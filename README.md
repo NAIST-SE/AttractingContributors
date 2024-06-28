@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Swimming
 - baseball
 - citywalk (a new popular kind of sports in China I think)
+- Table tennis
