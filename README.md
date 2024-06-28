@@ -36,7 +36,5 @@ you can write down the place and foods of it.
 |Yabaton | Nagoya | Misokatsu | You should eat when you visit Nagoya! |
 |Kin Kuemon | Fukaebashi Osaka | Ramen | Osaka Black Ramen |
 |OBSCURA COFFEE ROASTER | Tokyo/Hiroshima | cafe | The best coffee I've ever had! |
-
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+| Gusto | chain | japanese | Extensive breakfast menu and seasonal specials |
 
