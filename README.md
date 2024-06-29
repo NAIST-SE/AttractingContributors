@@ -20,5 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+#Goal
+I want contributor to contribute in my repo to make list of best movies
+
 # List of Movie
 
