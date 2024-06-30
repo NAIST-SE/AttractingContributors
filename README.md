@@ -28,10 +28,14 @@ I want contributor to contribute in my repo to make list of best movies
 1. Avatar
 2. House of Dragon
 3. Merlin
-4. Summer Wars
 
-4. Gone with the wind
+4. The Professional
 
-5. Spirited Away
+5. Summer Wars
+
+6. Gone with the wind
+
+7. Spirited Away
+
 
 
