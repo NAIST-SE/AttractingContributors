@@ -4,4 +4,5 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 
 # List of Destination
 - Cappadocia (Turkey)
-- Greece 
+- Greece
+- Egypt
