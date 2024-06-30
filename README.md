@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Sleeping and relaxing in a kotatsu(kotatsu: japanese heating appliances)
 - When a kitten is yawning
 - When she is purring
+- Watching a cat eat a quail.
