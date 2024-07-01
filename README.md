@@ -9,3 +9,4 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 - Germany
 - Otago (New Zealand)
 - Orlando (Florida, USA)
+- Venezia (Italy)
