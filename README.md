@@ -10,3 +10,4 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 - Otago (New Zealand)
 - Orlando (Florida, USA)
 - Venezia (Italy)
+- Los Angels(USA)
