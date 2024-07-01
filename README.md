@@ -37,4 +37,6 @@ you can write down the place and foods of it.
 |Kin Kuemon | Fukaebashi Osaka | Ramen | Osaka Black Ramen |
 |OBSCURA COFFEE ROASTER | Tokyo/Hiroshima | cafe | The best coffee I've ever had! |
 | Gusto | chain | japanese | Extensive breakfast menu and seasonal specials |
+| LIGHT UP COFFEE | Tokyo | cafe | My favorite coffee shop |
+
 
