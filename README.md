@@ -8,3 +8,4 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 - France
 - Otago (New Zealand)
 - Orlando (Florida, USA)
+- Venezia (Italy)
