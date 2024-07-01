@@ -6,3 +6,4 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 - Cappadocia (Turkey)
 - Greece
 - France
+- Otago (New Zealand)
