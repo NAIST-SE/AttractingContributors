@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - When a kitten is yawning
 - When she is purring
 - Watching a cat eat a quail.
+- Cats love warm places. So they might rub against their owners to feel their body heat. It is cute.
