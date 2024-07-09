@@ -39,3 +39,4 @@ Please help me to build my list :P
 12. Nagoya castle - 
 13. Giethoorn -Holland
 14. Izumo Taisha (Shrine) - Japan
+15. Louvre Museum - Paris
