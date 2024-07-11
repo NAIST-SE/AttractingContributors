@@ -20,4 +20,29 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+#Goal
+I want contributor to contribute in my repo to make list of best movies
+
+# List of Movie
+
+1. Avatar
+2. House of Dragon
+3. Merlin
+
+4. The Professional
+
+5. Summer Wars
+
+6. Gone with the wind
+
+7. Spirited Away
+
+8. TENET
+
+9. The Raid
+
+10. Notting Hill
+
+9. Home Alone
+
+11. Spider-Man Into the Spider-Verse
