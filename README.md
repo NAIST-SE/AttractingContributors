@@ -15,9 +15,28 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Let me know your favorite restaurants!
+you can write down the place and foods of it.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# LIST here
+| Name		| Location	| Food genre	| additional.|
+|:-----------:	|:-----------:	|:-----------:	|:-----------------:|
+| Ohsho	| chain	| chinese	| Gyoza!(chinese dumpling)|
+| Lucesantlucia | IkomaCity!	| italian	| Pizza and special baguette!|
+| Musashi	| Habikino Osaka| chinese	| special restaurant for me!|
+| Taiki-Suisan	| chain	| japanese	| good sushi restaurant!|
+| Yoshi-Hei	| Iwade Wakayama| japanese	| Pork cutlet with good rice!|
+| sensyu-ji	| kumatori Osaka| japanese	| good soba noodle!|
+| miraku	| sakai Osaka	| japanese	| Yakiniku:Grilled meat, local haunt.|
+| Yokoyokoya | Sendai Miyagi	| Ramen	| Known for its rich tonkotsu-based soup. |
+|Local 34 | Tenri Nara | peruvian | recommendation: ceviche, pollo a la brasa |
+|susiro | chain | sushi | recommendation: tuna |
+|Loiusiana | Nara | Pizza | Pizza and salad bar |
+|Street Food | Hanoi | Pho | Raw egg |
+|Yabaton | Nagoya | Misokatsu | You should eat when you visit Nagoya! |
+|Kin Kuemon | Fukaebashi Osaka | Ramen | Osaka Black Ramen |
+|OBSCURA COFFEE ROASTER | Tokyo/Hiroshima | cafe | The best coffee I've ever had! |
+| Gusto | chain | japanese | Extensive breakfast menu and seasonal specials |
+| LIGHT UP COFFEE | Tokyo | cafe | My favorite coffee shop |
+| Jantetsu | Ikoma | Ramen | Jiro style ramen |
 
-# List of Hobby
