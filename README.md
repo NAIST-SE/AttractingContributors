@@ -20,4 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# What kind of sports and activity do you like?
+- Tennis!!
+- Skiing
+- baseball
+- baaseball
+- Netball
+- Swimming
+- baseball
+- citywalk (a new popular kind of sports in China I think)
+- Table tennis
+- boxing
