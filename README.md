@@ -2,3 +2,4 @@
 
 # List of place
 - mamemame saisai
+- Gusto
