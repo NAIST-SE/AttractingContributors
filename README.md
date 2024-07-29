@@ -1,5 +1,6 @@
 What is your favorite cat?
 - Sphinx　🐈‍⬛
+- Scottish fold
 - Haschiware
 - Russian Blue 🐈
 - mikeneko
