@@ -24,3 +24,4 @@ To complete the assignment, please do the following:
 2. Misokatsu
 3. ramenn
 4. Curry
+5. Yakitori
