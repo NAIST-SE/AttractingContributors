@@ -3,6 +3,17 @@
 As part of the Software Engineering Class, we would like to simulate how 
 Open Source Projects start and try to attract potential contributions.
 
+# How to
+
+1. git remote add fav-manga https://github.com/i17oonaka-h/Favorite-manga.git
+2. git fetch fav-manga
+3. git checkout -b add-manga-YOURNAME fav-manga/main
+4. Add your favourite manga.
+5. git add README.md
+6. git commit -m "add fav manga"
+7. git push origin add-manga-YOURNAME
+8. click "Compare and pull request" and "Create Pull Request"
+
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your 
