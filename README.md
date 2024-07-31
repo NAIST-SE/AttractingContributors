@@ -26,3 +26,4 @@ To complete the assignment, please do the following:
 4. Curry
 5. Yakitori
 6. Udon
+7. Chinsukou
