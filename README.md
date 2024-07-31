@@ -20,4 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project (Song Collection)
+I want everyone's favorite songs. Anything is ok.
+
+# List of Songs
+1. Let it be
