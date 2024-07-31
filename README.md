@@ -6,6 +6,7 @@ Open Source Projects start and try to attract potential contributions.
 # How to
 
 1. git clone https://github.com/i17oonaka-h/Favorite-manga.git
+2. cd Favorite-manga
 3. git checkout -b add-manga-YOURNAME fav-manga/main
 4. Add your favourite manga.
 5. git add README.md
