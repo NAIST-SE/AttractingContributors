@@ -39,3 +39,4 @@ To complete the assignment, please do the following:
 
 # List of Mangas
 1. World Trigger
+2. Test
