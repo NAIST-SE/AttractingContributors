@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me your favorite song. Anything is ok.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Let it Be
