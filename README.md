@@ -6,3 +6,11 @@ Welcome to the Dream Vacation Destinations project! Have you ever wondered where
 - Cappadocia (Turkey)
 - Greece
 - Egypt
+- France
+- Germany
+- Otago (New Zealand)
+- Orlando (Florida, USA)
+- Venezia (Italy)
+- Los Angels(USA)
+- Taiwan
+- UK
