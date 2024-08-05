@@ -1,4 +1,4 @@
-# Please tell me your favourite prefectures！
+# Please tell me your favorite prefectures！
 Example
 - Nara
 
