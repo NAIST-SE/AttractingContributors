@@ -3,5 +3,5 @@ Example
 - Nara
 
 # List of prefectures
-- 
-- 
+- Nagano
+- Hokkaido
