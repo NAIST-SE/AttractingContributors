@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite placce to eat sweets near NAIST, or Osaka.
 
 # List of place
-- mamemame saisai
-- Gusto
+- GEBECK in Kitaikoma
+- Starbucks in Tomigaoka
+- IKOMA GOURMET STAND DONUTS SHOP
