@@ -1,5 +1,8 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please add your favorite underated Anime to the list
 
-# List of place
-- mamemame saisai
-- Gusto
+# Anime Contest
+- Parasite
+-  
+-
+-
+-
