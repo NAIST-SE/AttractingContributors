@@ -3,7 +3,7 @@
 Welcome!  
 Please share your favorite restaurants, cafes, or food spots in Osaka! Here are some of my personal recommendations, divided by category:
 
-## 🍱 Lunch Recommendations
+##  Lunch Recommendations
 
 - **Hong Kongkeishyoku**  
   A delicious Hong Kong-style restaurant. Their pineapple bun is soft, fragrant, and highly recommended.
@@ -11,7 +11,7 @@ Please share your favorite restaurants, cafes, or food spots in Osaka! Here are 
 - **Silk Road Xinjiang Restaurant**  
   Tasty Xinjiang cuisine. The “Big Plate Chicken” and house-made yogurt are must-try dishes.
 
-## 🍽️ Dinner Recommendations
+##  Dinner Recommendations
 
 - **La Baie**  
   The French restaurant at The Ritz-Carlton Osaka. The food is creative, consistently high quality, and very flavorful.
@@ -19,7 +19,7 @@ Please share your favorite restaurants, cafes, or food spots in Osaka! Here are 
 - **Kusaka Curry (Takashimaya 8F)**  
   Specialty curry restaurant with rich and unique flavors. Highly recommended for curry lovers.
 
-## 🍰 Dessert Recommendations
+##  Dessert Recommendations
 
 - **Gelateria Circo d’Oro**  
   Excellent Italian gelato. A bit pricey, but definitely worth a try.
@@ -27,7 +27,7 @@ Please share your favorite restaurants, cafes, or food spots in Osaka! Here are 
 - **Echire Marché au Beurre**  
   Famous for their amazingly delicious butter. Their pastries are rich and flavorful.
 
-## 🧋 Bubble Tea / Milk Tea Shops
+##  Bubble Tea / Milk Tea Shops
 
 - **Willcha**  
   Reasonably priced fruit tea shop with real ingredients. Great value and worth trying.
@@ -35,7 +35,7 @@ Please share your favorite restaurants, cafes, or food spots in Osaka! Here are 
 - **Heytea (Xi Cha)**  
   Popular milk tea brand from China. Offers a wide range of flavors, all worth sampling.
 
-## 🦐 Seafood Restaurants
+##  Seafood Restaurants
 
 - **Kani Doraku**  
   The most famous crab restaurant in Osaka. Excellent service and a must-try for seafood
