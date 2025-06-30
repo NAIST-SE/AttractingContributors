@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# Which OS do you use as your daily driver?
+
+# パソコンでどの OS をメインで使っていますか？
 
 # List of place
-- mamemame saisai
-- Gusto
+
+- Mac
