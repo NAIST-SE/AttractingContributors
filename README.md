@@ -1,5 +1,9 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your name? / あなたの名前は何ですか？
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of name
+- Daisuke
+- Neeti
+- Fakih
+- Ogura
+- Shogo
+- Zhang
