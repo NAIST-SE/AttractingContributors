@@ -1,5 +1,15 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your hobby.
 
 # List of place
-- mamemame saisai
-- Gusto
+- soccer
+- movie
+- cooking
+- baking
+- sleep
+- yoga
+- math
+- programming
+- social
+- drinking
+- family
+- work
