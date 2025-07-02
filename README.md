@@ -1,5 +1,9 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favourite smart device? For example, a smart phone, a smart watch, etc.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Apple Watch
+- smart speaker
+- Apple Watch
+- AirTag
+- Smart Phone
+- iPhone14
