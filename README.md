@@ -1,5 +1,11 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please choose the supermarket you have visited
 
 # List of place
-- mamemame saisai
-- Gusto
+- Aeon
+- evergreen
+- kinsho
+- mandai
+- ok
+- life
+- oasis
+- okuwa
