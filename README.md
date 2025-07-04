@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite sport? 好きなスポーツはなんですか？
 
 # List of place
-- mamemame saisai
-- Gusto
+- basketball
+- soccer
