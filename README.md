@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate the refreshment methods you are researching.
 
 # List of place
-- Daily Yamazaki
-- Starbucks
+- Exercising
+- Having a snack
+- Listening to a song
