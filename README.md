@@ -1,5 +1,13 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite  drink.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Coke
+- Ginger ale
+- Green tea
+- water
+- Sprite
+- SUPER DRY
+- Masala Tea
+- coffee
+- plum wine
+- tea with milk
